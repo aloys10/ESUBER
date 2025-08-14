@@ -37,7 +37,8 @@ from environment import load_LLM
 # Define arguments
 def parse_args():
     parser = get_base_parser()
-    parser.add_argument("--model-device", type=str, default="cuda:1")
+    # parser.add_argument("--model-device", type=str, default="cuda:1")
+    parser.add_argument("--model-device", type=str, default="cuda:0")
     parser.add_argument("--gamma", type=float, default=0.975)
     parser.add_argument("--embedding-dim", type=int, default=32)
     args = parser.parse_args()

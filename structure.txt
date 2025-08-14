@@ -1,0 +1,298 @@
+[01;34m.[0m
+├── [01;34mablations[0m
+│   ├── [01;34mbooks[0m
+│   │   ├── [01;34mdatasets[0m
+│   │   │   ├── books_collection.csv
+│   │   │   ├── [01;34mcategories_20[0m
+│   │   │   ├── collection_ids.json
+│   │   │   ├── prepare.ipynb
+│   │   │   └── table_collection.csv
+│   │   ├── [01;34mreports[0m
+│   │   │   └── [01;34mTheBloke_Llama-2-7b-Chat-GPTQ-2Shot_system_our-none-most_similar_3[0m
+│   │   ├── run_gpt.py
+│   │   ├── run.py
+│   │   ├── run_sampling_analysis.sh
+│   │   └── [01;34msrc[0m
+│   │       ├── books_collection.py
+│   │       ├── category_preference.py
+│   │       ├── high_ratings.py
+│   │       ├── __init__.py
+│   │       ├── low_ratings.py
+│   │       ├── sampling_analysis_ci.py
+│   │       ├── sampling_analysis.py
+│   │       ├── sampling_subset.py
+│   │       └── tmp.ipynb
+│   ├── __init__.py
+│   ├── [01;34mmovies[0m
+│   │   ├── [01;34mdatasets[0m
+│   │   │   ├── [01;34mgenres_20[0m
+│   │   │   ├── movie_sagas_data.json
+│   │   │   ├── movie_sagas_group.json
+│   │   │   └── sagas_moves_prepare.ipynb
+│   │   ├── __init__.py
+│   │   ├── [01;34mreports[0m
+│   │   │   └── [01;34mTheBloke_Llama-2-7b-Chat-GPTQ-2Shot_system_our-none-last_3-sampled_genres[0m
+│   │   ├── [01;34mreports_human[0m
+│   │   │   ├── [01;34mgpt-4-0613[0m
+│   │   │   ├── idx.ipynb
+│   │   │   ├── pretty_print.ipynb
+│   │   │   ├── [01;34mTheBloke_Llama-2-13B-chat-GPTQ[0m
+│   │   │   ├── [01;34mTheBloke_Mistral-7B-Instruct-v0.2-GPTQ[0m
+│   │   │   ├── [01;34mTheBloke_vicuna-13B-v1.5-GPTQ[0m
+│   │   │   └── [01;34mTheBloke_vicuna-13B-v1.5-GPTQ-random_rating[0m
+│   │   ├── run_explanation.py
+│   │   ├── run_explanation_search.py
+│   │   ├── run_gpt.py
+│   │   ├── run.py
+│   │   ├── run_sampling_analysis.sh
+│   │   └── [01;34msrc[0m
+│   │       ├── abstract_study.py
+│   │       ├── genre_preference_paper.py
+│   │       ├── genre_preference_paper.py.new
+│   │       ├── high_ratings.py
+│   │       ├── [01;34mhuman[0m
+│   │       ├── __init__.py
+│   │       ├── low_ratings.py
+│   │       ├── movie_sagas_history_random.py
+│   │       ├── paper_examples_showcase_sampling.py
+│   │       ├── sampling_analysis_v2_ci.py
+│   │       ├── sampling_analysis_v2.py
+│   │       ├── sampling_analysis_v3.py
+│   │       ├── sampling_explanation.py
+│   │       ├── sampling.py
+│   │       ├── sampling_subset.py
+│   │       ├── tmp.ipynb
+│   │       └── utils.py
+│   └── [01;34mutils[0m
+│       ├── abstract_study.py
+│       ├── helper_functions.py
+│       └── __init__.py
+├── [01;34malgorithms[0m
+│   ├── [01;34mbooks[0m
+│   │   └── CF_train_A2C.py
+│   ├── [01;34mmovies[0m
+│   │   ├── CF_analysis_A2C.py
+│   │   ├── CF_analysis_DQN.py
+│   │   ├── CF_analysis_PPO.py
+│   │   ├── CF_analysis_TRPO.py
+│   │   ├── CF_train_A2C.py
+│   │   ├── CF_train_DQN.py
+│   │   ├── CF_train_PPO.py
+│   │   ├── CF_train_TRPO.py
+│   │   └── [01;34mclassical_recsys[0m
+│   │       ├── dataset_clean.csv
+│   │       ├── dataset.csv
+│   │       ├── draft.ipynb
+│   │       └── results.csv
+│   └── wrappers.py
+├── [01;34menvironment[0m
+│   ├── [01;34mbooks[0m
+│   │   ├── book.py
+│   │   ├── books_loader.py
+│   │   ├── books_retrieval.py
+│   │   ├── configs.py
+│   │   ├── [01;34mdatasets[0m
+│   │   │   ├── [01;34mbooks_amazon[0m
+│   │   │   └── [01;34mgoodreads[0m
+│   │   ├── __init__.py
+│   │   ├── [01;34mrater_prompts[0m
+│   │   │   └── [01;34mour_system_prompt[0m
+│   │   └── [01;34musers_generation[0m
+│   │       ├── [01;34mdatasets[0m
+│   │       └── users_generator_sampled.py
+│   ├── env.py
+│   ├── __init__.py
+│   ├── item.py
+│   ├── items_retrieval.py
+│   ├── items_selection.py
+│   ├── [01;34mLLM[0m
+│   │   ├── exllama.py
+│   │   ├── [01;34mguidance[0m
+│   │   │   ├── __init__.py
+│   │   │   └── [01;34mmodels[0m
+│   │   ├── __init__.py
+│   │   ├── llm.py
+│   │   ├── openai_api.py
+│   │   ├── rater.py
+│   │   └── std_transformers.py
+│   ├── memory.py
+│   ├── [01;34mmovies[0m
+│   │   ├── configs.py
+│   │   ├── [01;34mdatasets[0m
+│   │   │   ├── 1_download_metadata_local.py
+│   │   │   ├── 2_vectorize_data_dsw.py
+│   │   │   ├── distribution.ipynb
+│   │   │   ├── [01;34mml-latest-small[0m
+│   │   │   ├── [01;31mml-latest-small.zip[0m
+│   │   │   ├── movielens_latest-small.json
+│   │   │   └── tmdb_dowload_data.py
+│   │   ├── __init__.py
+│   │   ├── movie.py
+│   │   ├── movies_loader.py
+│   │   ├── [01;34mrater_prompts[0m
+│   │   │   ├── __init__.py
+│   │   │   ├── [01;34mour_system_prompt[0m
+│   │   │   ├── prepare_data.ipynb
+│   │   │   ├── sample_prompt_1.json
+│   │   │   ├── third_person_descriptive_0_9_1prompt.py
+│   │   │   ├── third_person_descriptive_0_9_2prompt.py
+│   │   │   ├── third_person_descriptive_0_9.py
+│   │   │   ├── third_person_descriptive_one_ten_1prompt.py
+│   │   │   ├── third_person_descriptive_one_ten_2prompt.py
+│   │   │   ├── third_person_descriptive_one_ten.py
+│   │   │   └── third_person_sys_as_user_0_9.py
+│   │   └── [01;34musers_generation[0m
+│   │       ├── [01;34mdatasets[0m
+│   │       ├── __init__.py
+│   │       ├── users_generator_hard.py
+│   │       ├── users_generator.py
+│   │       └── users_generator_sampled.py
+│   ├── reward_perturbator.py
+│   ├── reward_shaping.py
+│   └── [01;34musers[0m
+│       ├── [01;34mdatasets[0m
+│       │   ├── hobby_children.csv
+│       │   ├── hobby_list.csv
+│       │   ├── job_list.csv
+│       │   └── view.ipynb
+│       ├── __init__.py
+│       ├── user.py
+│       └── users_loader.py
+├── [01;35mframework.png[0m
+├── LICENSE
+├── [01;34mmpr_env[0m
+│   ├── [01;34mbin[0m
+│   │   ├── [01;32maccelerate[0m
+│   │   ├── [01;32maccelerate-config[0m
+│   │   ├── [01;32maccelerate-launch[0m
+│   │   ├── activate
+│   │   ├── activate.csh
+│   │   ├── activate.fish
+│   │   ├── Activate.ps1
+│   │   ├── [01;32mconvert-caffe2-to-onnx[0m
+│   │   ├── [01;32mconvert-onnx-to-caffe2[0m
+│   │   ├── [01;32mcygdb[0m
+│   │   ├── [01;32mcython[0m
+│   │   ├── [01;32mcythonize[0m
+│   │   ├── [01;32mdatasets-cli[0m
+│   │   ├── [01;32mdebugpy[0m
+│   │   ├── [01;32mdebugpy-adapter[0m
+│   │   ├── [01;32mdistro[0m
+│   │   ├── [01;32mdotenv[0m
+│   │   ├── [01;32mf2py[0m
+│   │   ├── [01;32mf2py3[0m
+│   │   ├── [01;32mf2py3.10[0m
+│   │   ├── [01;32mfonttools[0m
+│   │   ├── [01;32mget_objgraph[0m
+│   │   ├── [01;32mgptcache_server[0m
+│   │   ├── [01;32mhttpx[0m
+│   │   ├── [01;32mhuggingface-cli[0m
+│   │   ├── [01;32mipython[0m
+│   │   ├── [01;32mipython3[0m
+│   │   ├── [01;32misympy[0m
+│   │   ├── [01;32mjlpm[0m
+│   │   ├── [01;32mjsonpointer[0m
+│   │   ├── [01;32mjsonschema[0m
+│   │   ├── [01;32mjupyter[0m
+│   │   ├── [01;32mjupyter-console[0m
+│   │   ├── [01;32mjupyter-dejavu[0m
+│   │   ├── [01;32mjupyter-events[0m
+│   │   ├── [01;32mjupyter-execute[0m
+│   │   ├── [01;32mjupyter-kernel[0m
+│   │   ├── [01;32mjupyter-kernelspec[0m
+│   │   ├── [01;32mjupyter-lab[0m
+│   │   ├── [01;32mjupyter-labextension[0m
+│   │   ├── [01;32mjupyter-labhub[0m
+│   │   ├── [01;32mjupyter-migrate[0m
+│   │   ├── [01;32mjupyter-nbconvert[0m
+│   │   ├── [01;32mjupyter-notebook[0m
+│   │   ├── [01;32mjupyter-run[0m
+│   │   ├── [01;32mjupyter-server[0m
+│   │   ├── [01;32mjupyter-troubleshoot[0m
+│   │   ├── [01;32mjupyter-trust[0m
+│   │   ├── [01;32mmarkdown_py[0m
+│   │   ├── [01;32mninja[0m
+│   │   ├── [01;32mnltk[0m
+│   │   ├── [01;32mnormalizer[0m
+│   │   ├── [01;32mopenai[0m
+│   │   ├── [01;32mpip[0m
+│   │   ├── [01;32mpip3[0m
+│   │   ├── [01;32mpip3.10[0m
+│   │   ├── [01;32mplasma_store[0m
+│   │   ├── [01;32mplotly_get_chrome[0m
+│   │   ├── [01;32mpybabel[0m
+│   │   ├── [01;32mpyftmerge[0m
+│   │   ├── [01;32mpyftsubset[0m
+│   │   ├── [01;32mpygmentize[0m
+│   │   ├── [01;32mpyjson5[0m
+│   │   ├── [01;36mpython[0m -> [01;32mpython3[0m
+│   │   ├── [01;36mpython3[0m -> [01;32m/nasmnt/envs/cosyvoice_vllm_train/bin/python3[0m
+│   │   ├── [01;36mpython3.10[0m -> [01;32mpython3[0m
+│   │   ├── [01;32msend2trash[0m
+│   │   ├── [01;32msurprise[0m
+│   │   ├── [01;32mtabulate[0m
+│   │   ├── [01;32mtensorboard[0m
+│   │   ├── [01;32mtorchrun[0m
+│   │   ├── [01;32mtqdm[0m
+│   │   ├── [01;32mtransformers-cli[0m
+│   │   ├── [01;32mtree-cli[0m
+│   │   ├── [01;32mttx[0m
+│   │   ├── [01;32mundill[0m
+│   │   ├── [01;32mwandb[0m
+│   │   ├── [01;32mwb[0m
+│   │   ├── [01;32mwheel[0m
+│   │   └── [01;32mwsdump[0m
+│   ├── [01;34metc[0m
+│   │   └── [01;34mjupyter[0m
+│   │       ├── [01;34mjupyter_notebook_config.d[0m
+│   │       ├── [01;34mjupyter_server_config.d[0m
+│   │       └── [01;34mnbconfig[0m
+│   ├── [01;34minclude[0m
+│   ├── [01;34mlib[0m
+│   │   └── [01;34mpython3.10[0m
+│   │       └── [01;34msite-packages[0m
+│   ├── [01;36mlib64[0m -> [01;34mlib[0m
+│   ├── pyvenv.cfg
+│   └── [01;34mshare[0m
+│       ├── [01;34mapplications[0m
+│       │   ├── jupyterlab.desktop
+│       │   └── jupyter-notebook.desktop
+│       ├── [01;34micons[0m
+│       │   └── [01;34mhicolor[0m
+│       ├── [01;34mjupyter[0m
+│       │   ├── [01;34mkernels[0m
+│       │   ├── [01;34mlab[0m
+│       │   ├── [01;34mlabextensions[0m
+│       │   ├── [01;34mnbconvert[0m
+│       │   └── [01;34mnbextensions[0m
+│       └── [01;34mman[0m
+│           └── [01;34mman1[0m
+├── project_structure.txt
+├── README.md
+├── requirements.txt
+├── setup.sh
+├── structure.txt
+└── [01;34mtmp[0m
+    ├── [01;34mmodels[0m
+    │   ├── [01;34mxlc39fpr[0m
+    │   └── [01;34mzzilgqlf[0m
+    │       ├── [01;31mbest_model.zip[0m
+    │       └── evaluations.npz
+    ├── [01;34mruns[0m
+    │   ├── [01;34mxlc39fpr[0m
+    │   │   └── [01;34mA2C_1[0m
+    │   └── [01;34mzzilgqlf[0m
+    │       └── [01;34mA2C_1[0m
+    └── [01;34mwandb[0m
+        └── [01;34mwandb[0m
+            ├── [01;36mdebug-internal.log[0m -> offline-run-20250809_074109-xlc39fpr/logs/debug-internal.log
+            ├── [01;36mdebug.log[0m -> offline-run-20250809_074109-xlc39fpr/logs/debug.log
+            ├── [01;36mlatest-run[0m -> [01;34moffline-run-20250809_074109-xlc39fpr[0m
+            ├── [01;34moffline-run-20250807_024628-wx18uvnt[0m
+            ├── [01;34moffline-run-20250807_025357-5a3ls9jn[0m
+            ├── [01;34moffline-run-20250807_025658-vxd6mdji[0m
+            ├── [01;34moffline-run-20250807_025828-8mz4eie9[0m
+            ├── [01;34moffline-run-20250807_030343-zzilgqlf[0m
+            └── [01;34moffline-run-20250809_074109-xlc39fpr[0m
+
+88 directories, 207 files

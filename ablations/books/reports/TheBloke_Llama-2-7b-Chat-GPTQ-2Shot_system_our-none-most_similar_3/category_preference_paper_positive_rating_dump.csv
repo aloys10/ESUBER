@@ -1,0 +1,641 @@
+item,user,user_name,item_name,LLM_rating,LLM_interaction_HTML,rating
+0,0,Emily Riga,The Tale of the Body Thief,5.0,,5.0
+1,0,Emily Riga,Old Macdonald Had A Woodshop,5.0,,5.0
+2,0,Emily Riga,The Dark Descent,5.0,,5.0
+3,0,Emily Riga,Boomer Goes to School,5.0,,5.0
+4,0,Emily Riga,The Souvenir Countess (Berkley Sensation),5.0,,5.0
+5,0,Emily Riga,The Burglar (Vintage Crime/Black Lizard),5.0,,5.0
+6,0,Emily Riga,The Collector,5.0,,5.0
+7,0,Emily Riga,The Master of Blacktower,5.0,,5.0
+8,0,Emily Riga,Hard Times,5.0,,5.0
+9,0,Emily Riga,A Hard Rain (Star Trek The Next Generation),5.0,,5.0
+10,0,Emily Riga,Impetuous,5.0,,5.0
+11,0,Emily Riga,"On the Bright Side, I'm Now the Girlfriend of a Sex God: Further Confessions of Georgia Nicolson",5.0,,5.0
+12,0,Emily Riga,Soulmates Dissipate,5.0,,5.0
+13,0,Emily Riga,Ultimate Prizes,5.0,,5.0
+14,0,Emily Riga,The Heart Queen,5.0,,5.0
+15,0,Emily Riga,Whispers from Yesterday,5.0,,5.0
+16,0,Emily Riga,Hide,5.0,,5.0
+17,0,Emily Riga,"Death Takes a Honeymoon (Carnegie Kincaid, Book 4)",5.0,,5.0
+18,0,Emily Riga,The Mummy Returns,5.0,,5.0
+19,0,Emily Riga,In God We Trust : But Which One?,5.0,,5.0
+0,1,Ethan Mitchell,The Tale of the Body Thief,5.0,,5.0
+1,1,Ethan Mitchell,Old Macdonald Had A Woodshop,5.0,,5.0
+2,1,Ethan Mitchell,The Dark Descent,5.0,,5.0
+3,1,Ethan Mitchell,Boomer Goes to School,5.0,,5.0
+4,1,Ethan Mitchell,The Souvenir Countess (Berkley Sensation),5.0,,5.0
+5,1,Ethan Mitchell,The Burglar (Vintage Crime/Black Lizard),5.0,,5.0
+6,1,Ethan Mitchell,The Collector,5.0,,5.0
+7,1,Ethan Mitchell,The Master of Blacktower,5.0,,5.0
+8,1,Ethan Mitchell,Hard Times,5.0,,5.0
+9,1,Ethan Mitchell,A Hard Rain (Star Trek The Next Generation),5.0,,5.0
+10,1,Ethan Mitchell,Impetuous,5.0,,5.0
+11,1,Ethan Mitchell,"On the Bright Side, I'm Now the Girlfriend of a Sex God: Further Confessions of Georgia Nicolson",5.0,,5.0
+12,1,Ethan Mitchell,Soulmates Dissipate,5.0,,5.0
+13,1,Ethan Mitchell,Ultimate Prizes,5.0,,5.0
+14,1,Ethan Mitchell,The Heart Queen,5.0,,5.0
+15,1,Ethan Mitchell,Whispers from Yesterday,5.0,,5.0
+16,1,Ethan Mitchell,Hide,5.0,,5.0
+17,1,Ethan Mitchell,"Death Takes a Honeymoon (Carnegie Kincaid, Book 4)",5.0,,5.0
+18,1,Ethan Mitchell,The Mummy Returns,5.0,,5.0
+19,1,Ethan Mitchell,In God We Trust : But Which One?,5.0,,5.0
+0,2,Oliva Turner ,The Tale of the Body Thief,5.0,,5.0
+1,2,Oliva Turner ,Old Macdonald Had A Woodshop,5.0,,5.0
+2,2,Oliva Turner ,The Dark Descent,5.0,,5.0
+3,2,Oliva Turner ,Boomer Goes to School,5.0,,5.0
+4,2,Oliva Turner ,The Souvenir Countess (Berkley Sensation),5.0,,5.0
+5,2,Oliva Turner ,The Burglar (Vintage Crime/Black Lizard),5.0,,5.0
+6,2,Oliva Turner ,The Collector,5.0,,5.0
+7,2,Oliva Turner ,The Master of Blacktower,5.0,,5.0
+8,2,Oliva Turner ,Hard Times,5.0,,5.0
+9,2,Oliva Turner ,A Hard Rain (Star Trek The Next Generation),3.0,,3.0
+10,2,Oliva Turner ,Impetuous,5.0,,5.0
+11,2,Oliva Turner ,"On the Bright Side, I'm Now the Girlfriend of a Sex God: Further Confessions of Georgia Nicolson",5.0,,5.0
+12,2,Oliva Turner ,Soulmates Dissipate,5.0,,5.0
+13,2,Oliva Turner ,Ultimate Prizes,5.0,,5.0
+14,2,Oliva Turner ,The Heart Queen,5.0,,5.0
+15,2,Oliva Turner ,Whispers from Yesterday,5.0,,5.0
+16,2,Oliva Turner ,Hide,5.0,,5.0
+17,2,Oliva Turner ,"Death Takes a Honeymoon (Carnegie Kincaid, Book 4)",5.0,,5.0
+18,2,Oliva Turner ,The Mummy Returns,5.0,,5.0
+19,2,Oliva Turner ,In God We Trust : But Which One?,5.0,,5.0
+0,3,Marcus Roger,The Tale of the Body Thief,5.0,,5.0
+1,3,Marcus Roger,Old Macdonald Had A Woodshop,5.0,,5.0
+2,3,Marcus Roger,The Dark Descent,5.0,,5.0
+3,3,Marcus Roger,Boomer Goes to School,5.0,,5.0
+4,3,Marcus Roger,The Souvenir Countess (Berkley Sensation),5.0,,5.0
+5,3,Marcus Roger,The Burglar (Vintage Crime/Black Lizard),5.0,,5.0
+6,3,Marcus Roger,The Collector,5.0,,5.0
+7,3,Marcus Roger,The Master of Blacktower,5.0,,5.0
+8,3,Marcus Roger,Hard Times,5.0,,5.0
+9,3,Marcus Roger,A Hard Rain (Star Trek The Next Generation),3.0,,3.0
+10,3,Marcus Roger,Impetuous,5.0,,5.0
+11,3,Marcus Roger,"On the Bright Side, I'm Now the Girlfriend of a Sex God: Further Confessions of Georgia Nicolson",3.0,,3.0
+12,3,Marcus Roger,Soulmates Dissipate,5.0,,5.0
+13,3,Marcus Roger,Ultimate Prizes,5.0,,5.0
+14,3,Marcus Roger,The Heart Queen,5.0,,5.0
+15,3,Marcus Roger,Whispers from Yesterday,5.0,,5.0
+16,3,Marcus Roger,Hide,5.0,,5.0
+17,3,Marcus Roger,"Death Takes a Honeymoon (Carnegie Kincaid, Book 4)",5.0,,5.0
+18,3,Marcus Roger,The Mummy Returns,5.0,,5.0
+19,3,Marcus Roger,In God We Trust : But Which One?,4.0,,4.0
+0,0,Lily White,Teach with Your Heart: Lessons I Learned from the Freedom Writers,5.0,,5.0
+1,0,Lily White,Sunlight on the Lawn,5.0,,5.0
+2,0,Lily White,The Bush Dyslexicon: Observations on a National Disorder,5.0,,5.0
+3,0,Lily White,The Spy Went Dancing,5.0,,5.0
+4,0,Lily White,Stolen Innocence: The Jan Broberg Story,5.0,,5.0
+5,0,Lily White,Nixon Reconsidered,5.0,,5.0
+6,0,Lily White,Escaping the Delta: Robert Johnson and the Invention of the Blues,5.0,,5.0
+7,0,Lily White,Out of the Cocoon: A Young Woman's Courageous Flight from the Grip of a Religious Cult,5.0,,5.0
+8,0,Lily White,Birdseed Cookies: A Fractured Memoir,5.0,,5.0
+9,0,Lily White,Some Kind of Miracle LP,5.0,,5.0
+10,0,Lily White,Presidential Anecdotes,4.0,,4.0
+11,0,Lily White,I-Net+ Exam Cram (Exam: 1KO-001),2.0,,2.0
+12,0,Lily White,Moments of Being,5.0,,5.0
+13,0,Lily White,Anton Chekhov: A Life,5.0,,5.0
+14,0,Lily White,Saint Exupry: A Biography,5.0,,5.0
+15,0,Lily White,Blue Melody: Tim Buckley Remembered,5.0,,5.0
+16,0,Lily White,Marathon Man,5.0,,5.0
+17,0,Lily White,Your Mother Has Suffered a Slight Stroke,5.0,,5.0
+18,0,Lily White,"An Unreasonable Woman: A True Story of Shrimpers, Politicos, Polluters, and the Fight for Seadrift, Texas",5.0,,5.0
+19,0,Lily White,"Prodigal genius;: The life of Nikola Tesla,",5.0,,5.0
+0,1,Oliver Fitzgerald,Teach with Your Heart: Lessons I Learned from the Freedom Writers,5.0,,5.0
+1,1,Oliver Fitzgerald,Sunlight on the Lawn,5.0,,5.0
+2,1,Oliver Fitzgerald,The Bush Dyslexicon: Observations on a National Disorder,5.0,,5.0
+3,1,Oliver Fitzgerald,The Spy Went Dancing,5.0,,5.0
+4,1,Oliver Fitzgerald,Stolen Innocence: The Jan Broberg Story,5.0,,5.0
+5,1,Oliver Fitzgerald,Nixon Reconsidered,5.0,,5.0
+6,1,Oliver Fitzgerald,Escaping the Delta: Robert Johnson and the Invention of the Blues,5.0,,5.0
+7,1,Oliver Fitzgerald,Out of the Cocoon: A Young Woman's Courageous Flight from the Grip of a Religious Cult,5.0,,5.0
+8,1,Oliver Fitzgerald,Birdseed Cookies: A Fractured Memoir,5.0,,5.0
+9,1,Oliver Fitzgerald,Some Kind of Miracle LP,5.0,,5.0
+10,1,Oliver Fitzgerald,Presidential Anecdotes,5.0,,5.0
+11,1,Oliver Fitzgerald,I-Net+ Exam Cram (Exam: 1KO-001),2.0,,2.0
+12,1,Oliver Fitzgerald,Moments of Being,5.0,,5.0
+13,1,Oliver Fitzgerald,Anton Chekhov: A Life,5.0,,5.0
+14,1,Oliver Fitzgerald,Saint Exupry: A Biography,5.0,,5.0
+15,1,Oliver Fitzgerald,Blue Melody: Tim Buckley Remembered,5.0,,5.0
+16,1,Oliver Fitzgerald,Marathon Man,5.0,,5.0
+17,1,Oliver Fitzgerald,Your Mother Has Suffered a Slight Stroke,5.0,,5.0
+18,1,Oliver Fitzgerald,"An Unreasonable Woman: A True Story of Shrimpers, Politicos, Polluters, and the Fight for Seadrift, Texas",5.0,,5.0
+19,1,Oliver Fitzgerald,"Prodigal genius;: The life of Nikola Tesla,",5.0,,5.0
+0,2,Sophie Jenkins,Teach with Your Heart: Lessons I Learned from the Freedom Writers,5.0,,5.0
+1,2,Sophie Jenkins,Sunlight on the Lawn,5.0,,5.0
+2,2,Sophie Jenkins,The Bush Dyslexicon: Observations on a National Disorder,3.0,,3.0
+3,2,Sophie Jenkins,The Spy Went Dancing,5.0,,5.0
+4,2,Sophie Jenkins,Stolen Innocence: The Jan Broberg Story,5.0,,5.0
+5,2,Sophie Jenkins,Nixon Reconsidered,5.0,,5.0
+6,2,Sophie Jenkins,Escaping the Delta: Robert Johnson and the Invention of the Blues,5.0,,5.0
+7,2,Sophie Jenkins,Out of the Cocoon: A Young Woman's Courageous Flight from the Grip of a Religious Cult,4.0,,4.0
+8,2,Sophie Jenkins,Birdseed Cookies: A Fractured Memoir,5.0,,5.0
+9,2,Sophie Jenkins,Some Kind of Miracle LP,5.0,,5.0
+10,2,Sophie Jenkins,Presidential Anecdotes,4.0,,4.0
+11,2,Sophie Jenkins,I-Net+ Exam Cram (Exam: 1KO-001),2.0,,2.0
+12,2,Sophie Jenkins,Moments of Being,5.0,,5.0
+13,2,Sophie Jenkins,Anton Chekhov: A Life,5.0,,5.0
+14,2,Sophie Jenkins,Saint Exupry: A Biography,5.0,,5.0
+15,2,Sophie Jenkins,Blue Melody: Tim Buckley Remembered,5.0,,5.0
+16,2,Sophie Jenkins,Marathon Man,5.0,,5.0
+17,2,Sophie Jenkins,Your Mother Has Suffered a Slight Stroke,3.0,,3.0
+18,2,Sophie Jenkins,"An Unreasonable Woman: A True Story of Shrimpers, Politicos, Polluters, and the Fight for Seadrift, Texas",5.0,,5.0
+19,2,Sophie Jenkins,"Prodigal genius;: The life of Nikola Tesla,",4.0,,4.0
+0,3,Max Sanchez,Teach with Your Heart: Lessons I Learned from the Freedom Writers,5.0,,5.0
+1,3,Max Sanchez,Sunlight on the Lawn,5.0,,5.0
+2,3,Max Sanchez,The Bush Dyslexicon: Observations on a National Disorder,5.0,,5.0
+3,3,Max Sanchez,The Spy Went Dancing,5.0,,5.0
+4,3,Max Sanchez,Stolen Innocence: The Jan Broberg Story,5.0,,5.0
+5,3,Max Sanchez,Nixon Reconsidered,5.0,,5.0
+6,3,Max Sanchez,Escaping the Delta: Robert Johnson and the Invention of the Blues,5.0,,5.0
+7,3,Max Sanchez,Out of the Cocoon: A Young Woman's Courageous Flight from the Grip of a Religious Cult,5.0,,5.0
+8,3,Max Sanchez,Birdseed Cookies: A Fractured Memoir,5.0,,5.0
+9,3,Max Sanchez,Some Kind of Miracle LP,5.0,,5.0
+10,3,Max Sanchez,Presidential Anecdotes,4.0,,4.0
+11,3,Max Sanchez,I-Net+ Exam Cram (Exam: 1KO-001),2.0,,2.0
+12,3,Max Sanchez,Moments of Being,5.0,,5.0
+13,3,Max Sanchez,Anton Chekhov: A Life,5.0,,5.0
+14,3,Max Sanchez,Saint Exupry: A Biography,5.0,,5.0
+15,3,Max Sanchez,Blue Melody: Tim Buckley Remembered,5.0,,5.0
+16,3,Max Sanchez,Marathon Man,5.0,,5.0
+17,3,Max Sanchez,Your Mother Has Suffered a Slight Stroke,5.0,,5.0
+18,3,Max Sanchez,"An Unreasonable Woman: A True Story of Shrimpers, Politicos, Polluters, and the Fight for Seadrift, Texas",5.0,,5.0
+19,3,Max Sanchez,"Prodigal genius;: The life of Nikola Tesla,",5.0,,5.0
+0,0,Sarah Gonzalez,The Biggest Con: How the Government Is Fleecing You,5.0,,5.0
+1,0,Sarah Gonzalez,Country Property Dirt Cheap: How I Found My Piece of Inexpensive Rural Land...Plus My Adventures with a $300 Junk Antique Tractor,5.0,,5.0
+2,0,Sarah Gonzalez,Marketing: Connecting with Customers,5.0,,5.0
+3,0,Sarah Gonzalez,"Million Dollar Networking: The Sure Way To Find, Keep And Grow Your Business (Capital Business)",5.0,,5.0
+4,0,Sarah Gonzalez,Branded: The Buying and Selling of Teenagers,5.0,,5.0
+5,0,Sarah Gonzalez,Pikachu s Global Adventure: The Rise and Fall of Pok&eacute;mon,5.0,,5.0
+6,0,Sarah Gonzalez,Starting and Succeeding in Real Estate,3.0,,3.0
+7,0,Sarah Gonzalez,The Big Sister's Guide to the World of Work: The Inside Rules Every Working Girl Must Know,5.0,,5.0
+8,0,Sarah Gonzalez,The Advertising Agency Business: The Complete Manual for Management & Operation,5.0,,5.0
+9,0,Sarah Gonzalez,Getting Started in Currency Trading: Winning in Today's Hottest Marketplace,4.0,,4.0
+10,0,Sarah Gonzalez,The 7 Irrefutable Rules of Small Business Growth,5.0,,5.0
+11,0,Sarah Gonzalez,Exploring Economics,5.0,,5.0
+12,0,Sarah Gonzalez,Consulting: The Business that Generates Mega Dollars and Puts You In Control of Your Financial Future,5.0,,5.0
+13,0,Sarah Gonzalez,The world of silence (6067),5.0,,5.0
+14,0,Sarah Gonzalez,"Growing & Marketing Ginseng, Goldenseal & Other Woodland Medicinals",5.0,,5.0
+15,0,Sarah Gonzalez,The Cure: How a Father Raised $100 Million--And Bucked the Medical Establishment--In a Quest to Save His Children,5.0,,5.0
+16,0,Sarah Gonzalez,Building Public Trust: The Future of Corporate Reporting,5.0,,5.0
+17,0,Sarah Gonzalez,Progress And Poverty (Notable American Authors),5.0,,5.0
+18,0,Sarah Gonzalez,How Charts Can Help You in the Stock Market,5.0,,5.0
+19,0,Sarah Gonzalez,Effective phrases for performance appraisals: A guide to successful evaluations,5.0,,5.0
+0,1,Alex Wallace,The Biggest Con: How the Government Is Fleecing You,5.0,,5.0
+1,1,Alex Wallace,Country Property Dirt Cheap: How I Found My Piece of Inexpensive Rural Land...Plus My Adventures with a $300 Junk Antique Tractor,1.0,,1.0
+2,1,Alex Wallace,Marketing: Connecting with Customers,2.0,,2.0
+3,1,Alex Wallace,"Million Dollar Networking: The Sure Way To Find, Keep And Grow Your Business (Capital Business)",3.0,,3.0
+4,1,Alex Wallace,Branded: The Buying and Selling of Teenagers,3.0,,3.0
+5,1,Alex Wallace,Pikachu s Global Adventure: The Rise and Fall of Pok&eacute;mon,1.0,,1.0
+6,1,Alex Wallace,Starting and Succeeding in Real Estate,2.0,,2.0
+7,1,Alex Wallace,The Big Sister's Guide to the World of Work: The Inside Rules Every Working Girl Must Know,2.0,,2.0
+8,1,Alex Wallace,The Advertising Agency Business: The Complete Manual for Management & Operation,5.0,,5.0
+9,1,Alex Wallace,Getting Started in Currency Trading: Winning in Today's Hottest Marketplace,2.0,,2.0
+10,1,Alex Wallace,The 7 Irrefutable Rules of Small Business Growth,2.0,,2.0
+11,1,Alex Wallace,Exploring Economics,5.0,,5.0
+12,1,Alex Wallace,Consulting: The Business that Generates Mega Dollars and Puts You In Control of Your Financial Future,5.0,,5.0
+13,1,Alex Wallace,The world of silence (6067),5.0,,5.0
+14,1,Alex Wallace,"Growing & Marketing Ginseng, Goldenseal & Other Woodland Medicinals",5.0,,5.0
+15,1,Alex Wallace,The Cure: How a Father Raised $100 Million--And Bucked the Medical Establishment--In a Quest to Save His Children,5.0,,5.0
+16,1,Alex Wallace,Building Public Trust: The Future of Corporate Reporting,5.0,,5.0
+17,1,Alex Wallace,Progress And Poverty (Notable American Authors),5.0,,5.0
+18,1,Alex Wallace,How Charts Can Help You in the Stock Market,5.0,,5.0
+19,1,Alex Wallace,Effective phrases for performance appraisals: A guide to successful evaluations,3.0,,3.0
+0,2,Tom Lawson,The Biggest Con: How the Government Is Fleecing You,5.0,,5.0
+1,2,Tom Lawson,Country Property Dirt Cheap: How I Found My Piece of Inexpensive Rural Land...Plus My Adventures with a $300 Junk Antique Tractor,5.0,,5.0
+2,2,Tom Lawson,Marketing: Connecting with Customers,5.0,,5.0
+3,2,Tom Lawson,"Million Dollar Networking: The Sure Way To Find, Keep And Grow Your Business (Capital Business)",5.0,,5.0
+4,2,Tom Lawson,Branded: The Buying and Selling of Teenagers,5.0,,5.0
+5,2,Tom Lawson,Pikachu s Global Adventure: The Rise and Fall of Pok&eacute;mon,5.0,,5.0
+6,2,Tom Lawson,Starting and Succeeding in Real Estate,3.0,,3.0
+7,2,Tom Lawson,The Big Sister's Guide to the World of Work: The Inside Rules Every Working Girl Must Know,5.0,,5.0
+8,2,Tom Lawson,The Advertising Agency Business: The Complete Manual for Management & Operation,5.0,,5.0
+9,2,Tom Lawson,Getting Started in Currency Trading: Winning in Today's Hottest Marketplace,5.0,,5.0
+10,2,Tom Lawson,The 7 Irrefutable Rules of Small Business Growth,5.0,,5.0
+11,2,Tom Lawson,Exploring Economics,5.0,,5.0
+12,2,Tom Lawson,Consulting: The Business that Generates Mega Dollars and Puts You In Control of Your Financial Future,5.0,,5.0
+13,2,Tom Lawson,The world of silence (6067),5.0,,5.0
+14,2,Tom Lawson,"Growing & Marketing Ginseng, Goldenseal & Other Woodland Medicinals",5.0,,5.0
+15,2,Tom Lawson,The Cure: How a Father Raised $100 Million--And Bucked the Medical Establishment--In a Quest to Save His Children,5.0,,5.0
+16,2,Tom Lawson,Building Public Trust: The Future of Corporate Reporting,5.0,,5.0
+17,2,Tom Lawson,Progress And Poverty (Notable American Authors),5.0,,5.0
+18,2,Tom Lawson,How Charts Can Help You in the Stock Market,5.0,,5.0
+19,2,Tom Lawson,Effective phrases for performance appraisals: A guide to successful evaluations,5.0,,5.0
+0,3,Emma Parker,The Biggest Con: How the Government Is Fleecing You,5.0,,5.0
+1,3,Emma Parker,Country Property Dirt Cheap: How I Found My Piece of Inexpensive Rural Land...Plus My Adventures with a $300 Junk Antique Tractor,5.0,,5.0
+2,3,Emma Parker,Marketing: Connecting with Customers,5.0,,5.0
+3,3,Emma Parker,"Million Dollar Networking: The Sure Way To Find, Keep And Grow Your Business (Capital Business)",5.0,,5.0
+4,3,Emma Parker,Branded: The Buying and Selling of Teenagers,5.0,,5.0
+5,3,Emma Parker,Pikachu s Global Adventure: The Rise and Fall of Pok&eacute;mon,5.0,,5.0
+6,3,Emma Parker,Starting and Succeeding in Real Estate,3.0,,3.0
+7,3,Emma Parker,The Big Sister's Guide to the World of Work: The Inside Rules Every Working Girl Must Know,5.0,,5.0
+8,3,Emma Parker,The Advertising Agency Business: The Complete Manual for Management & Operation,5.0,,5.0
+9,3,Emma Parker,Getting Started in Currency Trading: Winning in Today's Hottest Marketplace,4.0,,4.0
+10,3,Emma Parker,The 7 Irrefutable Rules of Small Business Growth,5.0,,5.0
+11,3,Emma Parker,Exploring Economics,5.0,,5.0
+12,3,Emma Parker,Consulting: The Business that Generates Mega Dollars and Puts You In Control of Your Financial Future,5.0,,5.0
+13,3,Emma Parker,The world of silence (6067),5.0,,5.0
+14,3,Emma Parker,"Growing & Marketing Ginseng, Goldenseal & Other Woodland Medicinals",5.0,,5.0
+15,3,Emma Parker,The Cure: How a Father Raised $100 Million--And Bucked the Medical Establishment--In a Quest to Save His Children,5.0,,5.0
+16,3,Emma Parker,Building Public Trust: The Future of Corporate Reporting,5.0,,5.0
+17,3,Emma Parker,Progress And Poverty (Notable American Authors),5.0,,5.0
+18,3,Emma Parker,How Charts Can Help You in the Stock Market,5.0,,5.0
+19,3,Emma Parker,Effective phrases for performance appraisals: A guide to successful evaluations,5.0,,5.0
+0,0,Rachel Taylor,The Big Book of Filth: 6500 Sex Slang Words and Phrases (Reference),1.0,,1.0
+1,0,Rachel Taylor,"Reiki Energy Medicine: Bringing Healing Touch into Home, Hospital, and Hospice",3.0,,3.0
+2,0,Rachel Taylor,"Absolute Beginner's Guide to Half-Marathon Training: Get Ready to Run or Walk a 5K, 8K, 10K or Half-Marathon Race",2.0,,2.0
+3,0,Rachel Taylor,True Happiness,3.0,,3.0
+4,0,Rachel Taylor,Speak the Language of Healing: Living With Breast Cancer Without Going to War,4.0,,4.0
+5,0,Rachel Taylor,Constant Craving: What Your Food Cravings Mean and How to Overcome Them,3.0,,3.0
+6,0,Rachel Taylor,20-Minute Yoga Workouts,3.0,,3.0
+7,0,Rachel Taylor,Living Well with Cancer: A Nurse Tells You Everything You Need to Know,4.0,,4.0
+8,0,Rachel Taylor,"Shape Magazine's Ultimate Body Book: 4 Weeks to Your Best Abs, Butt, Thighs, and More!",3.0,,3.0
+9,0,Rachel Taylor,Yoga for Emotional Flow,5.0,,5.0
+10,0,Rachel Taylor,Fat Chance,5.0,,5.0
+11,0,Rachel Taylor,The Yoga Tradition of the Mysore Palace,5.0,,5.0
+12,0,Rachel Taylor,I'll Never Have Sex with You Again! : Tales from the Delivery Room,2.0,,2.0
+13,0,Rachel Taylor,Your Best Face Without Surgery,3.0,,3.0
+14,0,Rachel Taylor,Breaking Free from Emotional Eating,5.0,,5.0
+15,0,Rachel Taylor,"Having Faith - Ecologist's Journey to Motherhood (01) by Steingraber, Sandra [Paperback (2001)]",3.0,,3.0
+16,0,Rachel Taylor,You'll Never Make Love in This Town Again,4.0,,4.0
+17,0,Rachel Taylor,Defeating Diabetes,5.0,,5.0
+18,0,Rachel Taylor,Stronger Abs and Back,3.0,,3.0
+19,0,Rachel Taylor,The G-index Diet - The Missing Link That Makes Permanent Weight Loss Possible,4.0,,4.0
+0,1,Michael Young,The Big Book of Filth: 6500 Sex Slang Words and Phrases (Reference),2.0,,2.0
+1,1,Michael Young,"Reiki Energy Medicine: Bringing Healing Touch into Home, Hospital, and Hospice",3.0,,3.0
+2,1,Michael Young,"Absolute Beginner's Guide to Half-Marathon Training: Get Ready to Run or Walk a 5K, 8K, 10K or Half-Marathon Race",5.0,,5.0
+3,1,Michael Young,True Happiness,5.0,,5.0
+4,1,Michael Young,Speak the Language of Healing: Living With Breast Cancer Without Going to War,5.0,,5.0
+5,1,Michael Young,Constant Craving: What Your Food Cravings Mean and How to Overcome Them,5.0,,5.0
+6,1,Michael Young,20-Minute Yoga Workouts,5.0,,5.0
+7,1,Michael Young,Living Well with Cancer: A Nurse Tells You Everything You Need to Know,5.0,,5.0
+8,1,Michael Young,"Shape Magazine's Ultimate Body Book: 4 Weeks to Your Best Abs, Butt, Thighs, and More!",5.0,,5.0
+9,1,Michael Young,Yoga for Emotional Flow,5.0,,5.0
+10,1,Michael Young,Fat Chance,5.0,,5.0
+11,1,Michael Young,The Yoga Tradition of the Mysore Palace,5.0,,5.0
+12,1,Michael Young,I'll Never Have Sex with You Again! : Tales from the Delivery Room,3.0,,3.0
+13,1,Michael Young,Your Best Face Without Surgery,5.0,,5.0
+14,1,Michael Young,Breaking Free from Emotional Eating,5.0,,5.0
+15,1,Michael Young,"Having Faith - Ecologist's Journey to Motherhood (01) by Steingraber, Sandra [Paperback (2001)]",3.0,,3.0
+16,1,Michael Young,You'll Never Make Love in This Town Again,4.0,,4.0
+17,1,Michael Young,Defeating Diabetes,5.0,,5.0
+18,1,Michael Young,Stronger Abs and Back,5.0,,5.0
+19,1,Michael Young,The G-index Diet - The Missing Link That Makes Permanent Weight Loss Possible,5.0,,5.0
+0,2,Laura Jenkins,The Big Book of Filth: 6500 Sex Slang Words and Phrases (Reference),1.0,,1.0
+1,2,Laura Jenkins,"Reiki Energy Medicine: Bringing Healing Touch into Home, Hospital, and Hospice",5.0,,5.0
+2,2,Laura Jenkins,"Absolute Beginner's Guide to Half-Marathon Training: Get Ready to Run or Walk a 5K, 8K, 10K or Half-Marathon Race",5.0,,5.0
+3,2,Laura Jenkins,True Happiness,5.0,,5.0
+4,2,Laura Jenkins,Speak the Language of Healing: Living With Breast Cancer Without Going to War,5.0,,5.0
+5,2,Laura Jenkins,Constant Craving: What Your Food Cravings Mean and How to Overcome Them,5.0,,5.0
+6,2,Laura Jenkins,20-Minute Yoga Workouts,5.0,,5.0
+7,2,Laura Jenkins,Living Well with Cancer: A Nurse Tells You Everything You Need to Know,5.0,,5.0
+8,2,Laura Jenkins,"Shape Magazine's Ultimate Body Book: 4 Weeks to Your Best Abs, Butt, Thighs, and More!",5.0,,5.0
+9,2,Laura Jenkins,Yoga for Emotional Flow,5.0,,5.0
+10,2,Laura Jenkins,Fat Chance,5.0,,5.0
+11,2,Laura Jenkins,The Yoga Tradition of the Mysore Palace,5.0,,5.0
+12,2,Laura Jenkins,I'll Never Have Sex with You Again! : Tales from the Delivery Room,3.0,,3.0
+13,2,Laura Jenkins,Your Best Face Without Surgery,5.0,,5.0
+14,2,Laura Jenkins,Breaking Free from Emotional Eating,5.0,,5.0
+15,2,Laura Jenkins,"Having Faith - Ecologist's Journey to Motherhood (01) by Steingraber, Sandra [Paperback (2001)]",5.0,,5.0
+16,2,Laura Jenkins,You'll Never Make Love in This Town Again,4.0,,4.0
+17,2,Laura Jenkins,Defeating Diabetes,5.0,,5.0
+18,2,Laura Jenkins,Stronger Abs and Back,5.0,,5.0
+19,2,Laura Jenkins,The G-index Diet - The Missing Link That Makes Permanent Weight Loss Possible,5.0,,5.0
+0,3,David Giu,The Big Book of Filth: 6500 Sex Slang Words and Phrases (Reference),1.0,,1.0
+1,3,David Giu,"Reiki Energy Medicine: Bringing Healing Touch into Home, Hospital, and Hospice",3.0,,3.0
+2,3,David Giu,"Absolute Beginner's Guide to Half-Marathon Training: Get Ready to Run or Walk a 5K, 8K, 10K or Half-Marathon Race",5.0,,5.0
+3,3,David Giu,True Happiness,5.0,,5.0
+4,3,David Giu,Speak the Language of Healing: Living With Breast Cancer Without Going to War,5.0,,5.0
+5,3,David Giu,Constant Craving: What Your Food Cravings Mean and How to Overcome Them,5.0,,5.0
+6,3,David Giu,20-Minute Yoga Workouts,5.0,,5.0
+7,3,David Giu,Living Well with Cancer: A Nurse Tells You Everything You Need to Know,5.0,,5.0
+8,3,David Giu,"Shape Magazine's Ultimate Body Book: 4 Weeks to Your Best Abs, Butt, Thighs, and More!",5.0,,5.0
+9,3,David Giu,Yoga for Emotional Flow,5.0,,5.0
+10,3,David Giu,Fat Chance,5.0,,5.0
+11,3,David Giu,The Yoga Tradition of the Mysore Palace,5.0,,5.0
+12,3,David Giu,I'll Never Have Sex with You Again! : Tales from the Delivery Room,3.0,,3.0
+13,3,David Giu,Your Best Face Without Surgery,5.0,,5.0
+14,3,David Giu,Breaking Free from Emotional Eating,5.0,,5.0
+15,3,David Giu,"Having Faith - Ecologist's Journey to Motherhood (01) by Steingraber, Sandra [Paperback (2001)]",5.0,,5.0
+16,3,David Giu,You'll Never Make Love in This Town Again,4.0,,4.0
+17,3,David Giu,Defeating Diabetes,5.0,,5.0
+18,3,David Giu,Stronger Abs and Back,5.0,,5.0
+19,3,David Giu,The G-index Diet - The Missing Link That Makes Permanent Weight Loss Possible,5.0,,5.0
+0,0,Emily Peterson,Essays And Aphorisms,5.0,,5.0
+1,0,Emily Peterson,"Either/or;: A fragment of life,",5.0,,5.0
+2,0,Emily Peterson,The Genealogy Of Morals,5.0,,5.0
+3,0,Emily Peterson,Get a Grip on Philosophy,5.0,,5.0
+4,0,Emily Peterson,Philosophy: Introduction to the Art of Wondering,5.0,,5.0
+5,0,Emily Peterson,To Have or to Be?,5.0,,5.0
+6,0,Emily Peterson,The Essential Plato,5.0,,5.0
+7,0,Emily Peterson,On Liberty,5.0,,5.0
+8,0,Emily Peterson,Of the Nature of Things,4.0,,4.0
+9,0,Emily Peterson,Hiawatha,5.0,,5.0
+10,0,Emily Peterson,The Design Revolution: Answering the Toughest Questions About Intelligent Design,4.0,,4.0
+11,0,Emily Peterson,Meaningful to Behold,5.0,,5.0
+12,0,Emily Peterson,Basic Writings of Nietzsche (Modern Library Classics),5.0,,5.0
+13,0,Emily Peterson,The Making of a Philosopher: My Journey Through Twentieth-Century Philosophy,4.0,,4.0
+14,0,Emily Peterson,Zen in the Martial Arts,5.0,,5.0
+15,0,Emily Peterson,Sceptical essays,5.0,,5.0
+16,0,Emily Peterson,Russian Thinkers (Penguin Philosophy),5.0,,5.0
+17,0,Emily Peterson,Discourses on Livy,5.0,,5.0
+18,0,Emily Peterson,The Philosophy of Mind: A Short Introduction,5.0,,5.0
+19,0,Emily Peterson,Matter and Consciousness: A Contemporary Introduction to the Philosophy of Mind,4.0,,4.0
+0,1,Ethan Simmons,Essays And Aphorisms,5.0,,5.0
+1,1,Ethan Simmons,"Either/or;: A fragment of life,",5.0,,5.0
+2,1,Ethan Simmons,The Genealogy Of Morals,5.0,,5.0
+3,1,Ethan Simmons,Get a Grip on Philosophy,5.0,,5.0
+4,1,Ethan Simmons,Philosophy: Introduction to the Art of Wondering,5.0,,5.0
+5,1,Ethan Simmons,To Have or to Be?,5.0,,5.0
+6,1,Ethan Simmons,The Essential Plato,5.0,,5.0
+7,1,Ethan Simmons,On Liberty,5.0,,5.0
+8,1,Ethan Simmons,Of the Nature of Things,4.0,,4.0
+9,1,Ethan Simmons,Hiawatha,3.0,,3.0
+10,1,Ethan Simmons,The Design Revolution: Answering the Toughest Questions About Intelligent Design,2.0,,2.0
+11,1,Ethan Simmons,Meaningful to Behold,5.0,,5.0
+12,1,Ethan Simmons,Basic Writings of Nietzsche (Modern Library Classics),5.0,,5.0
+13,1,Ethan Simmons,The Making of a Philosopher: My Journey Through Twentieth-Century Philosophy,4.0,,4.0
+14,1,Ethan Simmons,Zen in the Martial Arts,3.0,,3.0
+15,1,Ethan Simmons,Sceptical essays,5.0,,5.0
+16,1,Ethan Simmons,Russian Thinkers (Penguin Philosophy),5.0,,5.0
+17,1,Ethan Simmons,Discourses on Livy,5.0,,5.0
+18,1,Ethan Simmons,The Philosophy of Mind: A Short Introduction,5.0,,5.0
+19,1,Ethan Simmons,Matter and Consciousness: A Contemporary Introduction to the Philosophy of Mind,4.0,,4.0
+0,2,Olivia Nelson,Essays And Aphorisms,5.0,,5.0
+1,2,Olivia Nelson,"Either/or;: A fragment of life,",5.0,,5.0
+2,2,Olivia Nelson,The Genealogy Of Morals,5.0,,5.0
+3,2,Olivia Nelson,Get a Grip on Philosophy,5.0,,5.0
+4,2,Olivia Nelson,Philosophy: Introduction to the Art of Wondering,5.0,,5.0
+5,2,Olivia Nelson,To Have or to Be?,5.0,,5.0
+6,2,Olivia Nelson,The Essential Plato,5.0,,5.0
+7,2,Olivia Nelson,On Liberty,5.0,,5.0
+8,2,Olivia Nelson,Of the Nature of Things,4.0,,4.0
+9,2,Olivia Nelson,Hiawatha,5.0,,5.0
+10,2,Olivia Nelson,The Design Revolution: Answering the Toughest Questions About Intelligent Design,5.0,,5.0
+11,2,Olivia Nelson,Meaningful to Behold,5.0,,5.0
+12,2,Olivia Nelson,Basic Writings of Nietzsche (Modern Library Classics),5.0,,5.0
+13,2,Olivia Nelson,The Making of a Philosopher: My Journey Through Twentieth-Century Philosophy,4.0,,4.0
+14,2,Olivia Nelson,Zen in the Martial Arts,5.0,,5.0
+15,2,Olivia Nelson,Sceptical essays,5.0,,5.0
+16,2,Olivia Nelson,Russian Thinkers (Penguin Philosophy),5.0,,5.0
+17,2,Olivia Nelson,Discourses on Livy,5.0,,5.0
+18,2,Olivia Nelson,The Philosophy of Mind: A Short Introduction,5.0,,5.0
+19,2,Olivia Nelson,Matter and Consciousness: A Contemporary Introduction to the Philosophy of Mind,4.0,,4.0
+0,3,Liam Grayson,Essays And Aphorisms,5.0,,5.0
+1,3,Liam Grayson,"Either/or;: A fragment of life,",5.0,,5.0
+2,3,Liam Grayson,The Genealogy Of Morals,5.0,,5.0
+3,3,Liam Grayson,Get a Grip on Philosophy,5.0,,5.0
+4,3,Liam Grayson,Philosophy: Introduction to the Art of Wondering,5.0,,5.0
+5,3,Liam Grayson,To Have or to Be?,5.0,,5.0
+6,3,Liam Grayson,The Essential Plato,5.0,,5.0
+7,3,Liam Grayson,On Liberty,5.0,,5.0
+8,3,Liam Grayson,Of the Nature of Things,5.0,,5.0
+9,3,Liam Grayson,Hiawatha,5.0,,5.0
+10,3,Liam Grayson,The Design Revolution: Answering the Toughest Questions About Intelligent Design,2.0,,2.0
+11,3,Liam Grayson,Meaningful to Behold,5.0,,5.0
+12,3,Liam Grayson,Basic Writings of Nietzsche (Modern Library Classics),5.0,,5.0
+13,3,Liam Grayson,The Making of a Philosopher: My Journey Through Twentieth-Century Philosophy,5.0,,5.0
+14,3,Liam Grayson,Zen in the Martial Arts,5.0,,5.0
+15,3,Liam Grayson,Sceptical essays,5.0,,5.0
+16,3,Liam Grayson,Russian Thinkers (Penguin Philosophy),5.0,,5.0
+17,3,Liam Grayson,Discourses on Livy,5.0,,5.0
+18,3,Liam Grayson,The Philosophy of Mind: A Short Introduction,5.0,,5.0
+19,3,Liam Grayson,Matter and Consciousness: A Contemporary Introduction to the Philosophy of Mind,5.0,,5.0
+0,0,Sophia Collins,Java2 Enterprise Edition 1.4 (J2EE 1.4) Bible,5.0,,5.0
+1,0,Sophia Collins,Upgrading to PHP 5,5.0,,5.0
+2,0,Sophia Collins,Teach Yourself VISUALLY Photoshop Elements 2.0,5.0,,5.0
+3,0,Sophia Collins,Understanding Open Source and Free Software Licensing,5.0,,5.0
+4,0,Sophia Collins,The Definitive Guide to the .NET Compact Framework,5.0,,5.0
+5,0,Sophia Collins,Professional VB.NET (Programmer to Programmer),5.0,,5.0
+6,0,Sophia Collins,Developing Visual Basic Add-ins,4.0,,4.0
+7,0,Sophia Collins,J2EE 1.4: The Big Picture,5.0,,5.0
+8,0,Sophia Collins,Game Development Essentials: An Introduction,5.0,,5.0
+9,0,Sophia Collins,Oracle Net8 Configuration and Troubleshooting,5.0,,5.0
+10,0,Sophia Collins,Assembly Language Master Class (Wrox Press Master Class),5.0,,5.0
+11,0,Sophia Collins,Real-Time Concepts for Embedded Systems,5.0,,5.0
+12,0,Sophia Collins,The Elements of UML&#153; Style (Sigs Reference Library),5.0,,5.0
+13,0,Sophia Collins,"SWT: The Standard Widget Toolkit, Volume 1",5.0,,5.0
+14,0,Sophia Collins,Visual C++6 For Dummies,5.0,,5.0
+15,0,Sophia Collins,The CISA Prep Guide: Mastering the Certified Information Systems Auditor Exam,3.0,,3.0
+16,0,Sophia Collins,Writing GNU Emacs Extensions,5.0,,5.0
+17,0,Sophia Collins,Logic and Language Models for Computer Science,3.0,,3.0
+18,0,Sophia Collins,Software Engineering (International Computer Science Series),5.0,,5.0
+19,0,Sophia Collins,Michael Abrash's Graphics Programming Black Book (Special Edition),5.0,,5.0
+0,1,Jacob Walker,Java2 Enterprise Edition 1.4 (J2EE 1.4) Bible,5.0,,5.0
+1,1,Jacob Walker,Upgrading to PHP 5,5.0,,5.0
+2,1,Jacob Walker,Teach Yourself VISUALLY Photoshop Elements 2.0,4.0,,4.0
+3,1,Jacob Walker,Understanding Open Source and Free Software Licensing,5.0,,5.0
+4,1,Jacob Walker,The Definitive Guide to the .NET Compact Framework,5.0,,5.0
+5,1,Jacob Walker,Professional VB.NET (Programmer to Programmer),5.0,,5.0
+6,1,Jacob Walker,Developing Visual Basic Add-ins,5.0,,5.0
+7,1,Jacob Walker,J2EE 1.4: The Big Picture,5.0,,5.0
+8,1,Jacob Walker,Game Development Essentials: An Introduction,5.0,,5.0
+9,1,Jacob Walker,Oracle Net8 Configuration and Troubleshooting,5.0,,5.0
+10,1,Jacob Walker,Assembly Language Master Class (Wrox Press Master Class),5.0,,5.0
+11,1,Jacob Walker,Real-Time Concepts for Embedded Systems,5.0,,5.0
+12,1,Jacob Walker,The Elements of UML&#153; Style (Sigs Reference Library),5.0,,5.0
+13,1,Jacob Walker,"SWT: The Standard Widget Toolkit, Volume 1",5.0,,5.0
+14,1,Jacob Walker,Visual C++6 For Dummies,5.0,,5.0
+15,1,Jacob Walker,The CISA Prep Guide: Mastering the Certified Information Systems Auditor Exam,3.0,,3.0
+16,1,Jacob Walker,Writing GNU Emacs Extensions,5.0,,5.0
+17,1,Jacob Walker,Logic and Language Models for Computer Science,3.0,,3.0
+18,1,Jacob Walker,Software Engineering (International Computer Science Series),5.0,,5.0
+19,1,Jacob Walker,Michael Abrash's Graphics Programming Black Book (Special Edition),5.0,,5.0
+0,2,Ava Edwards,Java2 Enterprise Edition 1.4 (J2EE 1.4) Bible,5.0,,5.0
+1,2,Ava Edwards,Upgrading to PHP 5,5.0,,5.0
+2,2,Ava Edwards,Teach Yourself VISUALLY Photoshop Elements 2.0,4.0,,4.0
+3,2,Ava Edwards,Understanding Open Source and Free Software Licensing,4.0,,4.0
+4,2,Ava Edwards,The Definitive Guide to the .NET Compact Framework,5.0,,5.0
+5,2,Ava Edwards,Professional VB.NET (Programmer to Programmer),4.0,,4.0
+6,2,Ava Edwards,Developing Visual Basic Add-ins,4.0,,4.0
+7,2,Ava Edwards,J2EE 1.4: The Big Picture,5.0,,5.0
+8,2,Ava Edwards,Game Development Essentials: An Introduction,5.0,,5.0
+9,2,Ava Edwards,Oracle Net8 Configuration and Troubleshooting,5.0,,5.0
+10,2,Ava Edwards,Assembly Language Master Class (Wrox Press Master Class),4.0,,4.0
+11,2,Ava Edwards,Real-Time Concepts for Embedded Systems,4.0,,4.0
+12,2,Ava Edwards,The Elements of UML&#153; Style (Sigs Reference Library),5.0,,5.0
+13,2,Ava Edwards,"SWT: The Standard Widget Toolkit, Volume 1",5.0,,5.0
+14,2,Ava Edwards,Visual C++6 For Dummies,4.0,,4.0
+15,2,Ava Edwards,The CISA Prep Guide: Mastering the Certified Information Systems Auditor Exam,3.0,,3.0
+16,2,Ava Edwards,Writing GNU Emacs Extensions,4.0,,4.0
+17,2,Ava Edwards,Logic and Language Models for Computer Science,3.0,,3.0
+18,2,Ava Edwards,Software Engineering (International Computer Science Series),4.0,,4.0
+19,2,Ava Edwards,Michael Abrash's Graphics Programming Black Book (Special Edition),5.0,,5.0
+0,3,Oliver Ellis,Java2 Enterprise Edition 1.4 (J2EE 1.4) Bible,5.0,,5.0
+1,3,Oliver Ellis,Upgrading to PHP 5,5.0,,5.0
+2,3,Oliver Ellis,Teach Yourself VISUALLY Photoshop Elements 2.0,5.0,,5.0
+3,3,Oliver Ellis,Understanding Open Source and Free Software Licensing,3.0,,3.0
+4,3,Oliver Ellis,The Definitive Guide to the .NET Compact Framework,5.0,,5.0
+5,3,Oliver Ellis,Professional VB.NET (Programmer to Programmer),5.0,,5.0
+6,3,Oliver Ellis,Developing Visual Basic Add-ins,4.0,,4.0
+7,3,Oliver Ellis,J2EE 1.4: The Big Picture,5.0,,5.0
+8,3,Oliver Ellis,Game Development Essentials: An Introduction,5.0,,5.0
+9,3,Oliver Ellis,Oracle Net8 Configuration and Troubleshooting,5.0,,5.0
+10,3,Oliver Ellis,Assembly Language Master Class (Wrox Press Master Class),5.0,,5.0
+11,3,Oliver Ellis,Real-Time Concepts for Embedded Systems,5.0,,5.0
+12,3,Oliver Ellis,The Elements of UML&#153; Style (Sigs Reference Library),5.0,,5.0
+13,3,Oliver Ellis,"SWT: The Standard Widget Toolkit, Volume 1",5.0,,5.0
+14,3,Oliver Ellis,Visual C++6 For Dummies,5.0,,5.0
+15,3,Oliver Ellis,The CISA Prep Guide: Mastering the Certified Information Systems Auditor Exam,3.0,,3.0
+16,3,Oliver Ellis,Writing GNU Emacs Extensions,2.0,,2.0
+17,3,Oliver Ellis,Logic and Language Models for Computer Science,3.0,,3.0
+18,3,Oliver Ellis,Software Engineering (International Computer Science Series),5.0,,5.0
+19,3,Oliver Ellis,Michael Abrash's Graphics Programming Black Book (Special Edition),5.0,,5.0
+0,0,Sarah Bailey,This Little Piggy Stayed Home: A Pearls Before Swine Collection,5.0,,5.0
+1,0,Sarah Bailey,Fuzzy Logic Get Fuzzy 2,5.0,,5.0
+2,0,Sarah Bailey,The Great Big Book of Tomorrow: A Treasury of Cartoons,5.0,,5.0
+3,0,Sarah Bailey,Another Day In Cubicle Paradise: A Dilbert Book,5.0,,5.0
+4,0,Sarah Bailey,Mister Ed and Me,5.0,,5.0
+5,0,Sarah Bailey,Dreams of the Rarebit Fiend (Dover Humor),5.0,,5.0
+6,0,Sarah Bailey,Dave Barry's Complete Guide to Guys,5.0,,5.0
+7,0,Sarah Bailey,Outdoor Life: If Nature Calls...Hang Up! (Outdoor Life),5.0,,5.0
+8,0,Sarah Bailey,Nothing's Sacred,4.0,,4.0
+9,0,Sarah Bailey,The Official Exceptions to the Rules of Golf,5.0,,5.0
+10,0,Sarah Bailey,Dave Barry Does Japan,5.0,,5.0
+11,0,Sarah Bailey,The Heinous Truth! about Utah!,5.0,,5.0
+12,0,Sarah Bailey,The Twelve Days of Christmas,5.0,,5.0
+13,0,Sarah Bailey,Got War?: A Doonesbury Book (Doonesbury Collection),5.0,,5.0
+14,0,Sarah Bailey,Company;: A musical comedy ([A Random House play]),5.0,,5.0
+15,0,Sarah Bailey,Return of the Bunny Suicides,5.0,,5.0
+16,0,Sarah Bailey,Look at My Striped Shirt!: Confessions of the People You Love to Hate,4.0,,4.0
+17,0,Sarah Bailey,Stupid Crook Book,5.0,,5.0
+18,0,Sarah Bailey,Answer Me This!,5.0,,5.0
+19,0,Sarah Bailey,Canceled Flight: 101 Tried and True Pigeon Killin' Methods,5.0,,5.0
+0,1,James Clarke,This Little Piggy Stayed Home: A Pearls Before Swine Collection,5.0,,5.0
+1,1,James Clarke,Fuzzy Logic Get Fuzzy 2,5.0,,5.0
+2,1,James Clarke,The Great Big Book of Tomorrow: A Treasury of Cartoons,5.0,,5.0
+3,1,James Clarke,Another Day In Cubicle Paradise: A Dilbert Book,5.0,,5.0
+4,1,James Clarke,Mister Ed and Me,5.0,,5.0
+5,1,James Clarke,Dreams of the Rarebit Fiend (Dover Humor),5.0,,5.0
+6,1,James Clarke,Dave Barry's Complete Guide to Guys,5.0,,5.0
+7,1,James Clarke,Outdoor Life: If Nature Calls...Hang Up! (Outdoor Life),3.0,,3.0
+8,1,James Clarke,Nothing's Sacred,4.0,,4.0
+9,1,James Clarke,The Official Exceptions to the Rules of Golf,5.0,,5.0
+10,1,James Clarke,Dave Barry Does Japan,5.0,,5.0
+11,1,James Clarke,The Heinous Truth! about Utah!,4.0,,4.0
+12,1,James Clarke,The Twelve Days of Christmas,5.0,,5.0
+13,1,James Clarke,Got War?: A Doonesbury Book (Doonesbury Collection),5.0,,5.0
+14,1,James Clarke,Company;: A musical comedy ([A Random House play]),5.0,,5.0
+15,1,James Clarke,Return of the Bunny Suicides,5.0,,5.0
+16,1,James Clarke,Look at My Striped Shirt!: Confessions of the People You Love to Hate,4.0,,4.0
+17,1,James Clarke,Stupid Crook Book,5.0,,5.0
+18,1,James Clarke,Answer Me This!,5.0,,5.0
+19,1,James Clarke,Canceled Flight: 101 Tried and True Pigeon Killin' Methods,4.0,,4.0
+0,2,Emma Dixon,This Little Piggy Stayed Home: A Pearls Before Swine Collection,5.0,,5.0
+1,2,Emma Dixon,Fuzzy Logic Get Fuzzy 2,5.0,,5.0
+2,2,Emma Dixon,The Great Big Book of Tomorrow: A Treasury of Cartoons,5.0,,5.0
+3,2,Emma Dixon,Another Day In Cubicle Paradise: A Dilbert Book,5.0,,5.0
+4,2,Emma Dixon,Mister Ed and Me,5.0,,5.0
+5,2,Emma Dixon,Dreams of the Rarebit Fiend (Dover Humor),5.0,,5.0
+6,2,Emma Dixon,Dave Barry's Complete Guide to Guys,5.0,,5.0
+7,2,Emma Dixon,Outdoor Life: If Nature Calls...Hang Up! (Outdoor Life),5.0,,5.0
+8,2,Emma Dixon,Nothing's Sacred,4.0,,4.0
+9,2,Emma Dixon,The Official Exceptions to the Rules of Golf,5.0,,5.0
+10,2,Emma Dixon,Dave Barry Does Japan,5.0,,5.0
+11,2,Emma Dixon,The Heinous Truth! about Utah!,4.0,,4.0
+12,2,Emma Dixon,The Twelve Days of Christmas,5.0,,5.0
+13,2,Emma Dixon,Got War?: A Doonesbury Book (Doonesbury Collection),5.0,,5.0
+14,2,Emma Dixon,Company;: A musical comedy ([A Random House play]),5.0,,5.0
+15,2,Emma Dixon,Return of the Bunny Suicides,5.0,,5.0
+16,2,Emma Dixon,Look at My Striped Shirt!: Confessions of the People You Love to Hate,4.0,,4.0
+17,2,Emma Dixon,Stupid Crook Book,5.0,,5.0
+18,2,Emma Dixon,Answer Me This!,5.0,,5.0
+19,2,Emma Dixon,Canceled Flight: 101 Tried and True Pigeon Killin' Methods,2.0,,2.0
+0,3,Daniel Freeman,This Little Piggy Stayed Home: A Pearls Before Swine Collection,5.0,,5.0
+1,3,Daniel Freeman,Fuzzy Logic Get Fuzzy 2,5.0,,5.0
+2,3,Daniel Freeman,The Great Big Book of Tomorrow: A Treasury of Cartoons,5.0,,5.0
+3,3,Daniel Freeman,Another Day In Cubicle Paradise: A Dilbert Book,5.0,,5.0
+4,3,Daniel Freeman,Mister Ed and Me,5.0,,5.0
+5,3,Daniel Freeman,Dreams of the Rarebit Fiend (Dover Humor),5.0,,5.0
+6,3,Daniel Freeman,Dave Barry's Complete Guide to Guys,5.0,,5.0
+7,3,Daniel Freeman,Outdoor Life: If Nature Calls...Hang Up! (Outdoor Life),5.0,,5.0
+8,3,Daniel Freeman,Nothing's Sacred,5.0,,5.0
+9,3,Daniel Freeman,The Official Exceptions to the Rules of Golf,5.0,,5.0
+10,3,Daniel Freeman,Dave Barry Does Japan,5.0,,5.0
+11,3,Daniel Freeman,The Heinous Truth! about Utah!,5.0,,5.0
+12,3,Daniel Freeman,The Twelve Days of Christmas,5.0,,5.0
+13,3,Daniel Freeman,Got War?: A Doonesbury Book (Doonesbury Collection),5.0,,5.0
+14,3,Daniel Freeman,Company;: A musical comedy ([A Random House play]),5.0,,5.0
+15,3,Daniel Freeman,Return of the Bunny Suicides,5.0,,5.0
+16,3,Daniel Freeman,Look at My Striped Shirt!: Confessions of the People You Love to Hate,5.0,,5.0
+17,3,Daniel Freeman,Stupid Crook Book,5.0,,5.0
+18,3,Daniel Freeman,Answer Me This!,5.0,,5.0
+19,3,Daniel Freeman,Canceled Flight: 101 Tried and True Pigeon Killin' Methods,5.0,,5.0
+0,0,Emily Griffiths,"The Collected Plays of Neil Simon, Vol. 2",5.0,,5.0
+1,0,Emily Griffiths,Titus Andronicus (Oxford Shakespeare),5.0,,5.0
+2,0,Emily Griffiths,Musical Comedy Murders of 1940,5.0,,5.0
+3,0,Emily Griffiths,Night Watch: Discworld #27,5.0,,5.0
+4,0,Emily Griffiths,King Richard III,5.0,,5.0
+5,0,Emily Griffiths,The mousetrap,5.0,,5.0
+6,0,Emily Griffiths,The Misanthrope and other Plays,5.0,,5.0
+7,0,Emily Griffiths,The visit;: A play in three acts,5.0,,5.0
+8,0,Emily Griffiths,The 39 Steps,5.0,,5.0
+9,0,Emily Griffiths,Man of La Mancha,5.0,,5.0
+10,0,Emily Griffiths,Playwrights At Work,5.0,,5.0
+11,0,Emily Griffiths,Japanese No Dramas (Penguin Classics),5.0,,5.0
+12,0,Emily Griffiths,Hogfather (Discworld),5.0,,5.0
+13,0,Emily Griffiths,WORKS OF WILLIAM SHAKESPEARE,5.0,,5.0
+14,0,Emily Griffiths,In Search of Good Men,5.0,,5.0
+15,0,Emily Griffiths,The Piano Lesson,5.0,,5.0
+16,0,Emily Griffiths,Inherit the Wind,5.0,,5.0
+17,0,Emily Griffiths,Lectures on Shakespeare,5.0,,5.0
+18,0,Emily Griffiths,Cyrano de Bergerac,5.0,,5.0
+19,0,Emily Griffiths,The Complete Works of Shakespeare,5.0,,5.0
+0,1,Ethan Hayes,"The Collected Plays of Neil Simon, Vol. 2",5.0,,5.0
+1,1,Ethan Hayes,Titus Andronicus (Oxford Shakespeare),2.0,,2.0
+2,1,Ethan Hayes,Musical Comedy Murders of 1940,5.0,,5.0
+3,1,Ethan Hayes,Night Watch: Discworld #27,5.0,,5.0
+4,1,Ethan Hayes,King Richard III,5.0,,5.0
+5,1,Ethan Hayes,The mousetrap,5.0,,5.0
+6,1,Ethan Hayes,The Misanthrope and other Plays,5.0,,5.0
+7,1,Ethan Hayes,The visit;: A play in three acts,5.0,,5.0
+8,1,Ethan Hayes,The 39 Steps,5.0,,5.0
+9,1,Ethan Hayes,Man of La Mancha,5.0,,5.0
+10,1,Ethan Hayes,Playwrights At Work,5.0,,5.0
+11,1,Ethan Hayes,Japanese No Dramas (Penguin Classics),5.0,,5.0
+12,1,Ethan Hayes,Hogfather (Discworld),5.0,,5.0
+13,1,Ethan Hayes,WORKS OF WILLIAM SHAKESPEARE,5.0,,5.0
+14,1,Ethan Hayes,In Search of Good Men,5.0,,5.0
+15,1,Ethan Hayes,The Piano Lesson,5.0,,5.0
+16,1,Ethan Hayes,Inherit the Wind,5.0,,5.0
+17,1,Ethan Hayes,Lectures on Shakespeare,5.0,,5.0
+18,1,Ethan Hayes,Cyrano de Bergerac,5.0,,5.0
+19,1,Ethan Hayes,The Complete Works of Shakespeare,5.0,,5.0
+0,2,Olivia Ingram,"The Collected Plays of Neil Simon, Vol. 2",5.0,,5.0
+1,2,Olivia Ingram,Titus Andronicus (Oxford Shakespeare),5.0,,5.0
+2,2,Olivia Ingram,Musical Comedy Murders of 1940,5.0,,5.0
+3,2,Olivia Ingram,Night Watch: Discworld #27,5.0,,5.0
+4,2,Olivia Ingram,King Richard III,5.0,,5.0
+5,2,Olivia Ingram,The mousetrap,5.0,,5.0
+6,2,Olivia Ingram,The Misanthrope and other Plays,5.0,,5.0
+7,2,Olivia Ingram,The visit;: A play in three acts,5.0,,5.0
+8,2,Olivia Ingram,The 39 Steps,5.0,,5.0
+9,2,Olivia Ingram,Man of La Mancha,5.0,,5.0
+10,2,Olivia Ingram,Playwrights At Work,5.0,,5.0
+11,2,Olivia Ingram,Japanese No Dramas (Penguin Classics),5.0,,5.0
+12,2,Olivia Ingram,Hogfather (Discworld),5.0,,5.0
+13,2,Olivia Ingram,WORKS OF WILLIAM SHAKESPEARE,5.0,,5.0
+14,2,Olivia Ingram,In Search of Good Men,5.0,,5.0
+15,2,Olivia Ingram,The Piano Lesson,5.0,,5.0
+16,2,Olivia Ingram,Inherit the Wind,3.0,,3.0
+17,2,Olivia Ingram,Lectures on Shakespeare,5.0,,5.0
+18,2,Olivia Ingram,Cyrano de Bergerac,5.0,,5.0
+19,2,Olivia Ingram,The Complete Works of Shakespeare,5.0,,5.0
+0,3,Oliver Bianchi,"The Collected Plays of Neil Simon, Vol. 2",5.0,,5.0
+1,3,Oliver Bianchi,Titus Andronicus (Oxford Shakespeare),5.0,,5.0
+2,3,Oliver Bianchi,Musical Comedy Murders of 1940,5.0,,5.0
+3,3,Oliver Bianchi,Night Watch: Discworld #27,5.0,,5.0
+4,3,Oliver Bianchi,King Richard III,5.0,,5.0
+5,3,Oliver Bianchi,The mousetrap,5.0,,5.0
+6,3,Oliver Bianchi,The Misanthrope and other Plays,5.0,,5.0
+7,3,Oliver Bianchi,The visit;: A play in three acts,5.0,,5.0
+8,3,Oliver Bianchi,The 39 Steps,5.0,,5.0
+9,3,Oliver Bianchi,Man of La Mancha,5.0,,5.0
+10,3,Oliver Bianchi,Playwrights At Work,5.0,,5.0
+11,3,Oliver Bianchi,Japanese No Dramas (Penguin Classics),5.0,,5.0
+12,3,Oliver Bianchi,Hogfather (Discworld),5.0,,5.0
+13,3,Oliver Bianchi,WORKS OF WILLIAM SHAKESPEARE,5.0,,5.0
+14,3,Oliver Bianchi,In Search of Good Men,5.0,,5.0
+15,3,Oliver Bianchi,The Piano Lesson,5.0,,5.0
+16,3,Oliver Bianchi,Inherit the Wind,5.0,,5.0
+17,3,Oliver Bianchi,Lectures on Shakespeare,5.0,,5.0
+18,3,Oliver Bianchi,Cyrano de Bergerac,5.0,,5.0
+19,3,Oliver Bianchi,The Complete Works of Shakespeare,5.0,,5.0
