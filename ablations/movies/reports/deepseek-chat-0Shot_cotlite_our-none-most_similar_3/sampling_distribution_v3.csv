@@ -1,0 +1,2 @@
+Config,Name,global_total_variation_distance,global_total_variation_distance_corrected,count,mean,std,min,25%,50%,75%,max
+deepseek-chat-0Shot_cotlite_our-none-most_similar_3,Sampling,0.2118239612715015,0.2002763902430556,2000.0,7.0285,2.3978245413844674,1.0,6.0,8.0,9.0,10.0

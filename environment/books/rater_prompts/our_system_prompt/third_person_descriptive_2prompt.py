@@ -19,6 +19,7 @@ class ThirdPersonDescriptive15_2Shot_OurSys(ThirdPersonDescriptive15_OurSys):
         llm_query_explanation=False,
         switch_order=False,
         system_prompt="our_system_prompt",
+        show_full_prompt=False,
     ):
         super().__init__(
             llm,
@@ -27,6 +28,7 @@ class ThirdPersonDescriptive15_2Shot_OurSys(ThirdPersonDescriptive15_OurSys):
             llm_render,
             llm_query_explanation,
             system_prompt,
+            show_full_prompt,
         )
         self.cache_few_shot_prompts = None
         self.switch_order = switch_order

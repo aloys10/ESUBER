@@ -1,0 +1,2 @@
+Config,Name,global_total_variation_distance,count,mean,std,min,25%,50%,75%,max
+deepseek-chat-0Shot_cotlite_our-none-decay_emotion_3,Sampling,0.2064192116202578,2000.0,6.8865,2.4806641443973523,1.0,5.75,8.0,9.0,10.0

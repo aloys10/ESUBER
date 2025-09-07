@@ -1,12 +1,13 @@
 import os
 from typing import List
 from environment.LLM import LLMRater
-from environment.LLM.llm import LLM
+from environment.LLM import LLM
 import re
 
 from environment.memory import UserMovieInteraction
 from environment.books import Book, BooksLoader
 from environment.users import User
+from environment.users.emotion_criteria import get_emotion_criteria_description
 
 
 class ThirdPersonDescriptive15_OurSys(LLMRater):
@@ -18,6 +19,7 @@ class ThirdPersonDescriptive15_OurSys(LLMRater):
         llm_render=False,
         llm_query_explanation=False,
         system_prompt="our_system_prompt",
+        show_full_prompt=False,
     ):
         super().__init__(
             llm,
@@ -25,22 +27,19 @@ class ThirdPersonDescriptive15_OurSys(LLMRater):
             previous_items_features_list,
             llm_render,
             llm_query_explanation,
+            show_full_prompt,
         )
         self.cache_few_shot_prompts = None
 
         self.system_prompt = (
-            "You are a highly sophisticated book rating assistant, equipped with an"
-            " advanced understanding of human behavior. Your mission is to deliver"
-            " personalized book recommendations by carefully considering the unique"
-            " characteristics, tastes, and past read books of each individual. When"
-            " presented with information about a specific book, you will diligently"
-            " analyze its backcover, primary category, authors, and average rating."
-            " Using this comprehensive understanding, your role is to provide"
-            " thoughtful and accurate ratings for books on a scale of 1 to 5, ensuring"
-            " they resonate with the person's preferences and reading inclinations."
-            " Remain impartial and refrain from introducing any biases in your"
-            " predictions. You are an impartial and reliable source of book rating"
-            " predictions for the given individual and book descriptions."
+            "You are a highly sophisticated book rating assistant with advanced reasoning capabilities. "
+            "Your mission is to deliver personalized book recommendations through careful analysis. "
+            "When rating a book, follow this Chain of Thought process:\n"
+            "1. Analyze the user's personality traits and reading preferences\n"
+            "2. Consider the user's reading history and rating patterns\n"
+            "3. Evaluate the book's content, genre, and themes\n"
+            "4. Synthesize all information to predict the user's rating\n\n"
+            "Output: Provide only a single integer rating from 1 to 5."
             if system_prompt == "our_system_prompt"
             else None
         )
@@ -53,10 +52,22 @@ class ThirdPersonDescriptive15_OurSys(LLMRater):
         return rating
 
     def adjust_text_in(self, text, do_rename=True):
-        if do_rename:
-            text = text.replace("Alex", "Michael")
-            text = text.replace("Nicholas", "Michael")
+        # Keep original behavior
         return text
+
+    def adjust_text_out(self, text):
+        # Keep original behavior
+        return text
+
+    def number_to_rank(self, number):
+        if number == 1:
+            return "first"
+        elif number == 2:
+            return "second"
+        elif number == 3:
+            return "third"
+        else:
+            return f"{number}th"
 
     def _get_prompt(
         self,
@@ -67,60 +78,49 @@ class ThirdPersonDescriptive15_OurSys(LLMRater):
         retrieved_items: List[Book],
         do_rename=True,
     ):
-        if user.gender == "M":
-            gender = "man"
-            pronoun = "he"
-            if int(user.age) < 18:
-                gender = "boy"
-        else:
-            gender = "woman"
-            pronoun = "she"
-            if int(user.age) < 18:
-                gender = "girl"
+        gender = "man" if user.gender == "M" else "woman"
+        pronoun = "he" if user.gender == "M" else "she"
 
-        item_interaction = ""  # NOTE it should be parametrized
-        for m, i in zip(retrieved_items, interactions):
-            item_interaction += (
-                f'"{m.title}" ({int(self.adjust_rating_in(i.rating))}), '
-            )
-        if len(retrieved_items) > 0:
-            item_interaction = item_interaction[:-2]  # remove last comma
+        description = book.description
+        categories_list = ", ".join(book.categories)
+        authors_list = ", ".join(book.authors)
 
-        categories_list = ""
-        for g in book.categories:
-            categories_list += f"-{g}\n"
-
-        authors_list = ""
-        for a in book.authors:
-            authors_list += a + ", "
-        if len(book.authors) > 0:
-            authors_list = authors_list[:-2]
-
-        if len(book.description) > 0:
-            description = book.description[0].lower() + book.description[1:]
-        else:
-            description = ""
-
-        # Cut to 250 words
-        description_split = description.split(" ")
-        if len(description_split) > 250:
-            description = " ".join(description_split[:250])
-            description = description + " (continued ...)"
+        item_interaction = "; ".join(
+            [
+                f'"{item.title}" ({round(self.adjust_rating_in(interaction.rating),1)}/5)'
+                for item, interaction in zip(retrieved_items, interactions)
+            ]
+        )
 
         name = user.name.split(" ")[0]
-        # NOTE: this is a hack to make sure that the name is not the same as the 2 possible names used in the few-shot prompts
         name = self.adjust_text_in(name, do_rename)
 
         author_info = ""
-
         if "authors" in self.current_items_features_list and len(book.authors) > 1:
             author_info = f"The authors of the book are: {authors_list}."
         elif "authors" in self.current_items_features_list and len(book.authors) == 1:
             author_info = f"The author of the book is {authors_list}."
 
+        # 情绪特征描述，供 LLM 参考
+        traits_desc = get_emotion_criteria_description(
+            getattr(user, "activity_level", 2),
+            getattr(user, "conformity_level", 2),
+            getattr(user, "diversity_level", 2),
+        )
+
+        # 添加逻辑链推理指导
+        reasoning_guide = (
+            "Please follow this reasoning process:\n"
+            "1. Consider the user's personality and preferences\n"
+            "2. Analyze their reading history and rating patterns\n"
+            "3. Evaluate how well the book matches their interests\n"
+            "4. Provide a reasoned rating prediction\n\n"
+        )
+
         prompt = (
             f"{name} is a {user.age} years old {gender},"
             f" {pronoun} is {self.adjust_text_in(user.description, do_rename)}\n"
+            + f"{traits_desc}\n"
             + (
                 f"{name} has previously read the following books (in"
                 f" parentheses are the ratings {pronoun} gave on a scale of 1 to 5):"
@@ -149,29 +149,17 @@ class ThirdPersonDescriptive15_OurSys(LLMRater):
                 else ""
             )
             + f' {name} reads the book "{book.title}" for the'
-            f" {self.number_to_rank(num_interacted+1)} time.\n"
-            + f"What can you conclude about {name}'s rating for the book"
-            f' "{book.title}" on a scale of 1 to 5, where 1 represents a low rating'
-            " and 5 represents a high rating, based on available information and"
-            " logical reasoning?"
-        )
-
-        initial_assistant = (
-            f"Based on {name}'s preferences and tastes, I conclude that {pronoun} will"
-            " assign a rating of "
+            f" {self.number_to_rank(num_interacted+1)} time.\n\n"
+            + reasoning_guide
+            + "Output: Provide only a single integer rating from 1 to 5."
         )
 
         return [
             {"role": "user", "content": prompt},
-            {"role": "assistant_start", "content": initial_assistant},
         ]
 
     def _get_few_shot_prompts(self):
         return []
 
     def _get_prompt_explanation(self, prompt, rating):
-        initial_explanation = (
-            f"{int(self.adjust_rating_in(rating))} on a scale of 1 to 5, because "
-        )
-        prompt[1]["content"] += initial_explanation
         return prompt

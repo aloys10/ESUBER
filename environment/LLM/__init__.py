@@ -1,4 +1,5 @@
 from .rater import LLMRater
+from .llm import LLM
 
 INITIAL = [
     "TheBloke/Llama-2-7b-Chat-GPTQ",  # use via exllama, on 8gb gpu
@@ -19,7 +20,17 @@ TRANSFORMERS_MODELS = [
 ]
 
 
-SUPPORTED_MODELS = INITIAL + TRANSFORMERS_MODELS
+DEEPSEEK_MODELS = [
+    "deepseek-chat",
+    "deepseek-reasoner",
+]
+
+ZHIPU_MODELS = [
+    "glm-4.5-flash",
+    "glm-4.5",
+]
+
+SUPPORTED_MODELS = INITIAL + TRANSFORMERS_MODELS + DEEPSEEK_MODELS + ZHIPU_MODELS
 
 
 def load_LLM(name):
@@ -37,3 +48,13 @@ def load_LLM(name):
         from .std_transformers import Transformers
 
         return Transformers(name)
+    elif name in DEEPSEEK_MODELS:
+        from .deepseek_api import DeepSeekModelAPI
+
+        return DeepSeekModelAPI(name)
+    elif name in ZHIPU_MODELS:
+        from .zhipu_api import ZhipuModelAPI
+
+        return ZhipuModelAPI(name)
+    else:
+        raise ValueError(f"Model {name} not supported or missing implementation.")

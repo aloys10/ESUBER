@@ -52,6 +52,12 @@ class RewardShaping(ABC):
         """
         self.rng = np.random.default_rng(seed)
 
+    def reset(self):
+        """
+        Optional reset hook to clear per-episode state in subclasses.
+        """
+        pass
+
     def rating_fixing(self, number: float):
         """
         Function used to project a score to the set of feasible ratings, from min_rating to max_rating, spaced linearly every 0.5
@@ -141,3 +147,86 @@ class RewardReshapingTerminateIfSeen(RewardShaping):
             return float(rating), False
         else:
             return 0.0, True
+
+
+class RewardReshapingChurnSatisfaction(RewardShaping):
+    """
+    Dynamic termination based on recent satisfaction.
+
+    - Maintains an EMA of ratings and a consecutive-low-ratings counter.
+    - Terminates when:
+        * low_streak >= low_streak_threshold (after min_steps), or
+        * probabilistically when EMA is below low_threshold (probability grows as EMA drops).
+
+    Parameters are scale-aware via min/max rating and can be tuned via CLI.
+    """
+
+    def __init__(
+        self,
+        ema_alpha: float = 0.2,
+        low_threshold: float = 4.0,
+        low_streak_threshold: int = 2,
+        min_steps: int = 5,
+        prob_scale: float = 0.3,
+        ema_min_samples: int = 1,
+        recovery_bonus: float = 0.0,
+        stepsize=0.5,
+        min_rating=1,
+        max_rating=10,
+        seed=42,
+    ):
+        super().__init__(stepsize, min_rating, max_rating, seed)
+        self.ema_alpha = ema_alpha
+        self.low_threshold = low_threshold
+        self.low_streak_threshold = low_streak_threshold
+        self.min_steps = min_steps
+        self.prob_scale = prob_scale
+        self.ema_min_samples = ema_min_samples
+        self.recovery_bonus = recovery_bonus
+        self.reset()
+
+    def reset(self):
+        self._ema = None
+        self._count = 0
+        self._low_streak = 0
+        self._since_recovery = 0
+
+    def _update_ema(self, rating: float):
+        if self._ema is None:
+            self._ema = float(rating)
+        else:
+            self._ema = self.ema_alpha * float(rating) + (1 - self.ema_alpha) * self._ema
+
+    def reshape(
+        self, item_interactions: typing.List[UserMovieInteraction], rating: int
+    ) -> float:
+        # Update counters
+        self._count += 1
+        self._update_ema(rating)
+        if float(rating) <= self.low_threshold:
+            self._low_streak += 1
+            self._since_recovery = 0
+        else:
+            self._low_streak = 0
+            self._since_recovery += 1
+
+        # Default: do not terminate early in the very first steps
+        terminate = False
+        if self._count >= self.min_steps:
+            # Deterministic churn on consecutive lows
+            if self._low_streak >= self.low_streak_threshold:
+                terminate = True
+            else:
+                # Probabilistic churn when EMA is low
+                # Probability grows as EMA drops below threshold
+                # Use EMA only after minimum samples, otherwise use current rating
+                basis = float(self._ema) if self._count >= self.ema_min_samples else float(rating)
+                gap = max(0.0, self.low_threshold - basis)
+                p = 1.0 - np.exp(-self.prob_scale * gap)
+                # If user is recovering (several good ratings), reduce churn probability
+                if self.recovery_bonus > 0 and self._since_recovery >= 2:
+                    p = max(0.0, p - self.recovery_bonus)
+                churn = bool(self.rng.choice([True, False], p=[p, 1 - p]))
+                terminate = churn
+
+        return float(rating), terminate

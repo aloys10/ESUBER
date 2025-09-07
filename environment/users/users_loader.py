@@ -63,6 +63,9 @@ class UsersCSVLoader(UsersLoader):
                 description=row["description"],
                 job=row["job"] if "job" in row else "",
                 hobby=row["hobby"] if "hobby" in row else "",
+                activity_level=int(row["activity_level"]) if "activity_level" in row else 2,
+                conformity_level=int(row["conformity_level"]) if "conformity_level" in row else 2,
+                diversity_level=int(row["diversity_level"]) if "diversity_level" in row else 2,
             )
             user.id = i
             i += 1

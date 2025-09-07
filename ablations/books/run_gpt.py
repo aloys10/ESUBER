@@ -36,7 +36,13 @@ def parse_args():
 
 if __name__ == "__main__":
     args = parse_args()
-    name = args.llm_model
+    
+    # 强制使用deepseek-chat模型进行实验
+    name = "deepseek-chat"
+    print(f"🤖 [实验] 使用DeepSeek模型: {name}")
+    
+    # 更新args中的llm_model，确保后续函数调用使用正确的模型
+    args.llm_model = name
 
     model = LLM.load_LLM(name)
 
@@ -50,7 +56,7 @@ if __name__ == "__main__":
             users_loader=user_loader,
             items_selector=GreedySelector(),
             reward_perturbator=get_reward_perturbator(args.perturbator, seed=42),
-            items_retrieval=get_items_retrieval(args.items_retrieval),
+            items_retrieval=get_items_retrieval(args.items_retrieval, args),
             llm_rater=get_llm_rater(
                 args.llm_rater, model, args.items_retrieval != "none"
             ),
@@ -64,9 +70,13 @@ if __name__ == "__main__":
     if args.user_dataset == "users_600_basic":
         exp_name += "-basic_users"
 
+    print(f"🚀 [实验] 开始运行实验: {exp_name}")
+    
+    # 只运行类别偏好研究实验
     genre_study = CategoryPreferenceStudy(create_env, exp_name)
     genre_study.run()
 
+    # 注释掉其他所有实验
     high_study = HighRatingStudy(create_env, exp_name, is_open_ai=True)
     high_study.run()
 
@@ -81,10 +91,12 @@ if __name__ == "__main__":
     )
     movie_sagas_history_study_random.run()
 
-    if not args.skip_sampling:
-        sampling_study = SamplingSubsetInteractionsStudy(
-            lambda: get_enviroment_from_args(model, args),
-            exp_name,
-            is_open_ai=True,
-        )
-        sampling_study.run()
+    # if not args.skip_sampling:
+    #     sampling_study = SamplingSubsetInteractionsStudy(
+    #         lambda: get_enviroment_from_args(model, args),
+    #         exp_name,
+    #         is_open_ai=True,
+    #     )
+    #     sampling_study.run()
+    
+    print(f"✅ [实验] 类别偏好研究实验完成！")

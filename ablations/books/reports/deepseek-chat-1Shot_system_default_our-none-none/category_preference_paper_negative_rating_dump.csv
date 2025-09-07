@@ -1,0 +1,641 @@
+item,user,user_name,item_name,LLM_rating,LLM_interaction_HTML,rating
+0,0,Emily Riga,Pictorial Key to the Tarot,1.0,,1.0
+1,0,Emily Riga,Ramayana: A Tale of Gods and Demons (Mandala Classics),1.0,,1.0
+2,0,Emily Riga,Guns and Violence: The English Experience,1.0,,1.0
+3,0,Emily Riga,Frame Relay: Technology and Practice,1.0,,1.0
+4,0,Emily Riga,Martial Musings: A Portrayal of Martial Arts in the 20th Century,1.0,,1.0
+5,0,Emily Riga,Knowledge Assets: Securing Competitive Advantage in the Information Economy,1.0,,1.0
+6,0,Emily Riga,Ovid,1.0,,1.0
+7,0,Emily Riga,"A Texas cowboy; or, Fifteen years on the hurricane deck of a Spanish pony, taken from real life",1.0,,1.0
+8,0,Emily Riga,"Dictionary of Cults, Sects, Religions and the Occult",1.0,,1.0
+9,0,Emily Riga,"Hal Leonard Guitar Method, Complete Edition: Books & CD's 1, 2 and 3",1.0,,1.0
+10,0,Emily Riga,The Naked & the Dead,1.0,,1.0
+11,0,Emily Riga,Linux Unwired,1.0,,1.0
+12,0,Emily Riga,Doubts and Loves: What is Left of Christianity,1.0,,1.0
+13,0,Emily Riga,Sailing the Wine-Dark Sea: Why the Greeks Matter,1.0,,1.0
+14,0,Emily Riga,Bloody River Blues (Location Scout),5.0,,5.0
+15,0,Emily Riga,The Scientology Handbook,1.0,,1.0
+16,0,Emily Riga,The Puppet and the Dwarf: The Perverse Core of Christianity (Short Circuits),1.0,,1.0
+17,0,Emily Riga,47 Ronin Story,5.0,,5.0
+18,0,Emily Riga,"A Land Remembered, Vol. 2 (Student Edition)",3.0,,3.0
+19,0,Emily Riga,Visual InterDev 6 Unleashed,1.0,,1.0
+0,1,Ethan Mitchell,Pictorial Key to the Tarot,1.0,,1.0
+1,1,Ethan Mitchell,Ramayana: A Tale of Gods and Demons (Mandala Classics),1.0,,1.0
+2,1,Ethan Mitchell,Guns and Violence: The English Experience,1.0,,1.0
+3,1,Ethan Mitchell,Frame Relay: Technology and Practice,1.0,,1.0
+4,1,Ethan Mitchell,Martial Musings: A Portrayal of Martial Arts in the 20th Century,1.0,,1.0
+5,1,Ethan Mitchell,Knowledge Assets: Securing Competitive Advantage in the Information Economy,1.0,,1.0
+6,1,Ethan Mitchell,Ovid,1.0,,1.0
+7,1,Ethan Mitchell,"A Texas cowboy; or, Fifteen years on the hurricane deck of a Spanish pony, taken from real life",1.0,,1.0
+8,1,Ethan Mitchell,"Dictionary of Cults, Sects, Religions and the Occult",1.0,,1.0
+9,1,Ethan Mitchell,"Hal Leonard Guitar Method, Complete Edition: Books & CD's 1, 2 and 3",1.0,,1.0
+10,1,Ethan Mitchell,The Naked & the Dead,1.0,,1.0
+11,1,Ethan Mitchell,Linux Unwired,1.0,,1.0
+12,1,Ethan Mitchell,Doubts and Loves: What is Left of Christianity,1.0,,1.0
+13,1,Ethan Mitchell,Sailing the Wine-Dark Sea: Why the Greeks Matter,1.0,,1.0
+14,1,Ethan Mitchell,Bloody River Blues (Location Scout),5.0,,5.0
+15,1,Ethan Mitchell,The Scientology Handbook,1.0,,1.0
+16,1,Ethan Mitchell,The Puppet and the Dwarf: The Perverse Core of Christianity (Short Circuits),1.0,,1.0
+17,1,Ethan Mitchell,47 Ronin Story,5.0,,5.0
+18,1,Ethan Mitchell,"A Land Remembered, Vol. 2 (Student Edition)",3.0,,3.0
+19,1,Ethan Mitchell,Visual InterDev 6 Unleashed,1.0,,1.0
+0,2,Oliva Turner ,Pictorial Key to the Tarot,1.0,,1.0
+1,2,Oliva Turner ,Ramayana: A Tale of Gods and Demons (Mandala Classics),1.0,,1.0
+2,2,Oliva Turner ,Guns and Violence: The English Experience,1.0,,1.0
+3,2,Oliva Turner ,Frame Relay: Technology and Practice,1.0,,1.0
+4,2,Oliva Turner ,Martial Musings: A Portrayal of Martial Arts in the 20th Century,1.0,,1.0
+5,2,Oliva Turner ,Knowledge Assets: Securing Competitive Advantage in the Information Economy,1.0,,1.0
+6,2,Oliva Turner ,Ovid,1.0,,1.0
+7,2,Oliva Turner ,"A Texas cowboy; or, Fifteen years on the hurricane deck of a Spanish pony, taken from real life",1.0,,1.0
+8,2,Oliva Turner ,"Dictionary of Cults, Sects, Religions and the Occult",1.0,,1.0
+9,2,Oliva Turner ,"Hal Leonard Guitar Method, Complete Edition: Books & CD's 1, 2 and 3",1.0,,1.0
+10,2,Oliva Turner ,The Naked & the Dead,1.0,,1.0
+11,2,Oliva Turner ,Linux Unwired,1.0,,1.0
+12,2,Oliva Turner ,Doubts and Loves: What is Left of Christianity,1.0,,1.0
+13,2,Oliva Turner ,Sailing the Wine-Dark Sea: Why the Greeks Matter,1.0,,1.0
+14,2,Oliva Turner ,Bloody River Blues (Location Scout),3.0,,3.0
+15,2,Oliva Turner ,The Scientology Handbook,1.0,,1.0
+16,2,Oliva Turner ,The Puppet and the Dwarf: The Perverse Core of Christianity (Short Circuits),1.0,,1.0
+17,2,Oliva Turner ,47 Ronin Story,3.0,,3.0
+18,2,Oliva Turner ,"A Land Remembered, Vol. 2 (Student Edition)",1.0,,1.0
+19,2,Oliva Turner ,Visual InterDev 6 Unleashed,1.0,,1.0
+0,3,Marcus Roger,Pictorial Key to the Tarot,3.0,,3.0
+1,3,Marcus Roger,Ramayana: A Tale of Gods and Demons (Mandala Classics),3.0,,3.0
+2,3,Marcus Roger,Guns and Violence: The English Experience,3.0,,3.0
+3,3,Marcus Roger,Frame Relay: Technology and Practice,3.0,,3.0
+4,3,Marcus Roger,Martial Musings: A Portrayal of Martial Arts in the 20th Century,3.0,,3.0
+5,3,Marcus Roger,Knowledge Assets: Securing Competitive Advantage in the Information Economy,3.0,,3.0
+6,3,Marcus Roger,Ovid,3.0,,3.0
+7,3,Marcus Roger,"A Texas cowboy; or, Fifteen years on the hurricane deck of a Spanish pony, taken from real life",3.0,,3.0
+8,3,Marcus Roger,"Dictionary of Cults, Sects, Religions and the Occult",3.0,,3.0
+9,3,Marcus Roger,"Hal Leonard Guitar Method, Complete Edition: Books & CD's 1, 2 and 3",3.0,,3.0
+10,3,Marcus Roger,The Naked & the Dead,3.0,,3.0
+11,3,Marcus Roger,Linux Unwired,3.0,,3.0
+12,3,Marcus Roger,Doubts and Loves: What is Left of Christianity,3.0,,3.0
+13,3,Marcus Roger,Sailing the Wine-Dark Sea: Why the Greeks Matter,3.0,,3.0
+14,3,Marcus Roger,Bloody River Blues (Location Scout),3.0,,3.0
+15,3,Marcus Roger,The Scientology Handbook,3.0,,3.0
+16,3,Marcus Roger,The Puppet and the Dwarf: The Perverse Core of Christianity (Short Circuits),3.0,,3.0
+17,3,Marcus Roger,47 Ronin Story,3.0,,3.0
+18,3,Marcus Roger,"A Land Remembered, Vol. 2 (Student Edition)",3.0,,3.0
+19,3,Marcus Roger,Visual InterDev 6 Unleashed,3.0,,3.0
+0,0,Lily White,What Men Know That Women Don't: How to Love Women Without Losing Your Soul,1.0,,1.0
+1,0,Lily White,Schaum's Outline of Tensor Calculus (Schaum's),1.0,,1.0
+2,0,Lily White,Midnight at the Well of Souls,1.0,,1.0
+3,0,Lily White,Long Long Way,1.0,,1.0
+4,0,Lily White,Escape of the Pacific Clipper,1.0,,1.0
+5,0,Lily White,"The German Army and Genocide: Crimes Against War Prisoners, Jews, and Other Civilians in the East, 1939-1944",1.0,,1.0
+6,0,Lily White,Flies for Alaska: A Guide to Buying and Tying,1.0,,1.0
+7,0,Lily White,"Where Are They Buried?: How Did They Die? Fitting Ends and Final Resting Places of the Famous, Infamous, and Noteworthy",3.0,,3.0
+8,0,Lily White,the Kandy Kolored Tangerine Flake Streamline Baby,2.0,,2.0
+9,0,Lily White,OPTIONS WORKBOOK,1.0,,1.0
+10,0,Lily White,Macromedia Fireworks MX: Training from the Source,1.0,,1.0
+11,0,Lily White,The First Nine Months of Life.,2.0,,2.0
+12,0,Lily White,Shore Chronicles: Diaries and Traveler's Tales from the Jersey Shore,3.0,,3.0
+13,0,Lily White,The Second Ring of Power,2.0,,2.0
+14,0,Lily White,The Wiccan Mysteries: Ancient Origins & Teachings,2.0,,2.0
+15,0,Lily White,Silence & Solitude: Yellowstone's Winter Wilderness,2.0,,2.0
+16,0,Lily White,A History of Mathematics: An Introduction (2nd Edition),2.0,,2.0
+17,0,Lily White,"A Knife to Remember (Jane Jeffry Mysteries, No. 5)",2.0,,2.0
+18,0,Lily White,Lying Crying Dying,2.0,,2.0
+19,0,Lily White,Biblical Eldership Study Guide,2.0,,2.0
+0,1,Oliver Fitzgerald,What Men Know That Women Don't: How to Love Women Without Losing Your Soul,3.0,,3.0
+1,1,Oliver Fitzgerald,Schaum's Outline of Tensor Calculus (Schaum's),1.0,,1.0
+2,1,Oliver Fitzgerald,Midnight at the Well of Souls,3.0,,3.0
+3,1,Oliver Fitzgerald,Long Long Way,3.0,,3.0
+4,1,Oliver Fitzgerald,Escape of the Pacific Clipper,3.0,,3.0
+5,1,Oliver Fitzgerald,"The German Army and Genocide: Crimes Against War Prisoners, Jews, and Other Civilians in the East, 1939-1944",3.0,,3.0
+6,1,Oliver Fitzgerald,Flies for Alaska: A Guide to Buying and Tying,3.0,,3.0
+7,1,Oliver Fitzgerald,"Where Are They Buried?: How Did They Die? Fitting Ends and Final Resting Places of the Famous, Infamous, and Noteworthy",3.0,,3.0
+8,1,Oliver Fitzgerald,the Kandy Kolored Tangerine Flake Streamline Baby,3.0,,3.0
+9,1,Oliver Fitzgerald,OPTIONS WORKBOOK,3.0,,3.0
+10,1,Oliver Fitzgerald,Macromedia Fireworks MX: Training from the Source,1.0,,1.0
+11,1,Oliver Fitzgerald,The First Nine Months of Life.,3.0,,3.0
+12,1,Oliver Fitzgerald,Shore Chronicles: Diaries and Traveler's Tales from the Jersey Shore,3.0,,3.0
+13,1,Oliver Fitzgerald,The Second Ring of Power,3.0,,3.0
+14,1,Oliver Fitzgerald,The Wiccan Mysteries: Ancient Origins & Teachings,3.0,,3.0
+15,1,Oliver Fitzgerald,Silence & Solitude: Yellowstone's Winter Wilderness,3.0,,3.0
+16,1,Oliver Fitzgerald,A History of Mathematics: An Introduction (2nd Edition),3.0,,3.0
+17,1,Oliver Fitzgerald,"A Knife to Remember (Jane Jeffry Mysteries, No. 5)",3.0,,3.0
+18,1,Oliver Fitzgerald,Lying Crying Dying,3.0,,3.0
+19,1,Oliver Fitzgerald,Biblical Eldership Study Guide,3.0,,3.0
+0,2,Sophie Jenkins,What Men Know That Women Don't: How to Love Women Without Losing Your Soul,1.0,,1.0
+1,2,Sophie Jenkins,Schaum's Outline of Tensor Calculus (Schaum's),1.0,,1.0
+2,2,Sophie Jenkins,Midnight at the Well of Souls,1.0,,1.0
+3,2,Sophie Jenkins,Long Long Way,1.0,,1.0
+4,2,Sophie Jenkins,Escape of the Pacific Clipper,1.0,,1.0
+5,2,Sophie Jenkins,"The German Army and Genocide: Crimes Against War Prisoners, Jews, and Other Civilians in the East, 1939-1944",1.0,,1.0
+6,2,Sophie Jenkins,Flies for Alaska: A Guide to Buying and Tying,1.0,,1.0
+7,2,Sophie Jenkins,"Where Are They Buried?: How Did They Die? Fitting Ends and Final Resting Places of the Famous, Infamous, and Noteworthy",3.0,,3.0
+8,2,Sophie Jenkins,the Kandy Kolored Tangerine Flake Streamline Baby,2.0,,2.0
+9,2,Sophie Jenkins,OPTIONS WORKBOOK,1.0,,1.0
+10,2,Sophie Jenkins,Macromedia Fireworks MX: Training from the Source,1.0,,1.0
+11,2,Sophie Jenkins,The First Nine Months of Life.,1.0,,1.0
+12,2,Sophie Jenkins,Shore Chronicles: Diaries and Traveler's Tales from the Jersey Shore,3.0,,3.0
+13,2,Sophie Jenkins,The Second Ring of Power,1.0,,1.0
+14,2,Sophie Jenkins,The Wiccan Mysteries: Ancient Origins & Teachings,1.0,,1.0
+15,2,Sophie Jenkins,Silence & Solitude: Yellowstone's Winter Wilderness,1.0,,1.0
+16,2,Sophie Jenkins,A History of Mathematics: An Introduction (2nd Edition),1.0,,1.0
+17,2,Sophie Jenkins,"A Knife to Remember (Jane Jeffry Mysteries, No. 5)",1.0,,1.0
+18,2,Sophie Jenkins,Lying Crying Dying,1.0,,1.0
+19,2,Sophie Jenkins,Biblical Eldership Study Guide,1.0,,1.0
+0,3,Max Sanchez,What Men Know That Women Don't: How to Love Women Without Losing Your Soul,1.0,,1.0
+1,3,Max Sanchez,Schaum's Outline of Tensor Calculus (Schaum's),1.0,,1.0
+2,3,Max Sanchez,Midnight at the Well of Souls,1.0,,1.0
+3,3,Max Sanchez,Long Long Way,1.0,,1.0
+4,3,Max Sanchez,Escape of the Pacific Clipper,1.0,,1.0
+5,3,Max Sanchez,"The German Army and Genocide: Crimes Against War Prisoners, Jews, and Other Civilians in the East, 1939-1944",1.0,,1.0
+6,3,Max Sanchez,Flies for Alaska: A Guide to Buying and Tying,1.0,,1.0
+7,3,Max Sanchez,"Where Are They Buried?: How Did They Die? Fitting Ends and Final Resting Places of the Famous, Infamous, and Noteworthy",1.0,,1.0
+8,3,Max Sanchez,the Kandy Kolored Tangerine Flake Streamline Baby,1.0,,1.0
+9,3,Max Sanchez,OPTIONS WORKBOOK,1.0,,1.0
+10,3,Max Sanchez,Macromedia Fireworks MX: Training from the Source,1.0,,1.0
+11,3,Max Sanchez,The First Nine Months of Life.,1.0,,1.0
+12,3,Max Sanchez,Shore Chronicles: Diaries and Traveler's Tales from the Jersey Shore,1.0,,1.0
+13,3,Max Sanchez,The Second Ring of Power,1.0,,1.0
+14,3,Max Sanchez,The Wiccan Mysteries: Ancient Origins & Teachings,1.0,,1.0
+15,3,Max Sanchez,Silence & Solitude: Yellowstone's Winter Wilderness,1.0,,1.0
+16,3,Max Sanchez,A History of Mathematics: An Introduction (2nd Edition),1.0,,1.0
+17,3,Max Sanchez,"A Knife to Remember (Jane Jeffry Mysteries, No. 5)",1.0,,1.0
+18,3,Max Sanchez,Lying Crying Dying,1.0,,1.0
+19,3,Max Sanchez,Biblical Eldership Study Guide,1.0,,1.0
+0,0,Sarah Gonzalez,Zen's Chinese Heritage -- The Masters & Their Teachings,2.0,,2.0
+1,0,Sarah Gonzalez,Ain't Nobody's Bizness (Five Star Expressions),2.0,,2.0
+2,0,Sarah Gonzalez,A terrible thunder: The story of the New Orleans sniper,2.0,,2.0
+3,0,Sarah Gonzalez,The Day and the Hour,2.0,,2.0
+4,0,Sarah Gonzalez,"Fallen Stars, Bitter Waters - America Has Fallen, The Antichrist Reigns...",1.0,,1.0
+5,0,Sarah Gonzalez,"600,000 Terms Large Russian-English-Russian Dictionary of Modern Words and Phrases on CD-ROM",3.0,,3.0
+6,0,Sarah Gonzalez,Home Maintenance for Dummies (For Dummies (Computer/Tech)),2.0,,2.0
+7,0,Sarah Gonzalez,FOUCAULTS PENDULUM,2.0,,2.0
+8,0,Sarah Gonzalez,Rescuing Jesus from the Christians,3.0,,3.0
+9,0,Sarah Gonzalez,Four Things My Geeky-Jock-of-a-Best Friend Must Do in Europe,2.0,,2.0
+10,0,Sarah Gonzalez,Last Crusade: Spain 1936,2.0,,2.0
+11,0,Sarah Gonzalez,Youth Football Skills & Drills: A New Coach's Guide,1.0,,1.0
+12,0,Sarah Gonzalez,Green Arrow: Quiver (Green Arrow (Graphic Novels)),2.0,,2.0
+13,0,Sarah Gonzalez,Cats for Dummies (For Dummies (Computer/Tech)),1.0,,1.0
+14,0,Sarah Gonzalez,The Berenstain Bears Go Out for the Team,1.0,,1.0
+15,0,Sarah Gonzalez,Italian: Level 1 (Learn in Your Car) (Italian Edition),1.0,,1.0
+16,0,Sarah Gonzalez,The Best Thing I Ever Did for My Marriage: 50 Real Life Stories,1.0,,1.0
+17,0,Sarah Gonzalez,Bonechillers: 13 Twisted Tales of Terror,1.0,,1.0
+18,0,Sarah Gonzalez,Liberating Paris : A Novel,1.0,,1.0
+19,0,Sarah Gonzalez,Bin Laden: Behind the Mask of the Terrorist,1.0,,1.0
+0,1,Alex Wallace,Zen's Chinese Heritage -- The Masters & Their Teachings,2.0,,2.0
+1,1,Alex Wallace,Ain't Nobody's Bizness (Five Star Expressions),1.0,,1.0
+2,1,Alex Wallace,A terrible thunder: The story of the New Orleans sniper,1.0,,1.0
+3,1,Alex Wallace,The Day and the Hour,1.0,,1.0
+4,1,Alex Wallace,"Fallen Stars, Bitter Waters - America Has Fallen, The Antichrist Reigns...",1.0,,1.0
+5,1,Alex Wallace,"600,000 Terms Large Russian-English-Russian Dictionary of Modern Words and Phrases on CD-ROM",1.0,,1.0
+6,1,Alex Wallace,Home Maintenance for Dummies (For Dummies (Computer/Tech)),1.0,,1.0
+7,1,Alex Wallace,FOUCAULTS PENDULUM,1.0,,1.0
+8,1,Alex Wallace,Rescuing Jesus from the Christians,1.0,,1.0
+9,1,Alex Wallace,Four Things My Geeky-Jock-of-a-Best Friend Must Do in Europe,1.0,,1.0
+10,1,Alex Wallace,Last Crusade: Spain 1936,1.0,,1.0
+11,1,Alex Wallace,Youth Football Skills & Drills: A New Coach's Guide,1.0,,1.0
+12,1,Alex Wallace,Green Arrow: Quiver (Green Arrow (Graphic Novels)),1.0,,1.0
+13,1,Alex Wallace,Cats for Dummies (For Dummies (Computer/Tech)),1.0,,1.0
+14,1,Alex Wallace,The Berenstain Bears Go Out for the Team,1.0,,1.0
+15,1,Alex Wallace,Italian: Level 1 (Learn in Your Car) (Italian Edition),1.0,,1.0
+16,1,Alex Wallace,The Best Thing I Ever Did for My Marriage: 50 Real Life Stories,1.0,,1.0
+17,1,Alex Wallace,Bonechillers: 13 Twisted Tales of Terror,1.0,,1.0
+18,1,Alex Wallace,Liberating Paris : A Novel,1.0,,1.0
+19,1,Alex Wallace,Bin Laden: Behind the Mask of the Terrorist,1.0,,1.0
+0,2,Tom Lawson,Zen's Chinese Heritage -- The Masters & Their Teachings,1.0,,1.0
+1,2,Tom Lawson,Ain't Nobody's Bizness (Five Star Expressions),1.0,,1.0
+2,2,Tom Lawson,A terrible thunder: The story of the New Orleans sniper,1.0,,1.0
+3,2,Tom Lawson,The Day and the Hour,1.0,,1.0
+4,2,Tom Lawson,"Fallen Stars, Bitter Waters - America Has Fallen, The Antichrist Reigns...",1.0,,1.0
+5,2,Tom Lawson,"600,000 Terms Large Russian-English-Russian Dictionary of Modern Words and Phrases on CD-ROM",1.0,,1.0
+6,2,Tom Lawson,Home Maintenance for Dummies (For Dummies (Computer/Tech)),1.0,,1.0
+7,2,Tom Lawson,FOUCAULTS PENDULUM,1.0,,1.0
+8,2,Tom Lawson,Rescuing Jesus from the Christians,1.0,,1.0
+9,2,Tom Lawson,Four Things My Geeky-Jock-of-a-Best Friend Must Do in Europe,1.0,,1.0
+10,2,Tom Lawson,Last Crusade: Spain 1936,1.0,,1.0
+11,2,Tom Lawson,Youth Football Skills & Drills: A New Coach's Guide,1.0,,1.0
+12,2,Tom Lawson,Green Arrow: Quiver (Green Arrow (Graphic Novels)),1.0,,1.0
+13,2,Tom Lawson,Cats for Dummies (For Dummies (Computer/Tech)),1.0,,1.0
+14,2,Tom Lawson,The Berenstain Bears Go Out for the Team,1.0,,1.0
+15,2,Tom Lawson,Italian: Level 1 (Learn in Your Car) (Italian Edition),1.0,,1.0
+16,2,Tom Lawson,The Best Thing I Ever Did for My Marriage: 50 Real Life Stories,1.0,,1.0
+17,2,Tom Lawson,Bonechillers: 13 Twisted Tales of Terror,1.0,,1.0
+18,2,Tom Lawson,Liberating Paris : A Novel,1.0,,1.0
+19,2,Tom Lawson,Bin Laden: Behind the Mask of the Terrorist,1.0,,1.0
+0,3,Emma Parker,Zen's Chinese Heritage -- The Masters & Their Teachings,3.0,,3.0
+1,3,Emma Parker,Ain't Nobody's Bizness (Five Star Expressions),3.0,,3.0
+2,3,Emma Parker,A terrible thunder: The story of the New Orleans sniper,3.0,,3.0
+3,3,Emma Parker,The Day and the Hour,3.0,,3.0
+4,3,Emma Parker,"Fallen Stars, Bitter Waters - America Has Fallen, The Antichrist Reigns...",3.0,,3.0
+5,3,Emma Parker,"600,000 Terms Large Russian-English-Russian Dictionary of Modern Words and Phrases on CD-ROM",3.0,,3.0
+6,3,Emma Parker,Home Maintenance for Dummies (For Dummies (Computer/Tech)),3.0,,3.0
+7,3,Emma Parker,FOUCAULTS PENDULUM,3.0,,3.0
+8,3,Emma Parker,Rescuing Jesus from the Christians,3.0,,3.0
+9,3,Emma Parker,Four Things My Geeky-Jock-of-a-Best Friend Must Do in Europe,3.0,,3.0
+10,3,Emma Parker,Last Crusade: Spain 1936,3.0,,3.0
+11,3,Emma Parker,Youth Football Skills & Drills: A New Coach's Guide,3.0,,3.0
+12,3,Emma Parker,Green Arrow: Quiver (Green Arrow (Graphic Novels)),3.0,,3.0
+13,3,Emma Parker,Cats for Dummies (For Dummies (Computer/Tech)),3.0,,3.0
+14,3,Emma Parker,The Berenstain Bears Go Out for the Team,3.0,,3.0
+15,3,Emma Parker,Italian: Level 1 (Learn in Your Car) (Italian Edition),3.0,,3.0
+16,3,Emma Parker,The Best Thing I Ever Did for My Marriage: 50 Real Life Stories,2.0,,2.0
+17,3,Emma Parker,Bonechillers: 13 Twisted Tales of Terror,3.0,,3.0
+18,3,Emma Parker,Liberating Paris : A Novel,2.0,,2.0
+19,3,Emma Parker,Bin Laden: Behind the Mask of the Terrorist,2.0,,2.0
+0,0,Rachel Taylor,"Black Skin, white Masks",3.0,,3.0
+1,0,Rachel Taylor,"Little Joe, Superstar: The Films of Joe Dallesandro",3.0,,3.0
+2,0,Rachel Taylor,"Shoes: A Celebration of Pumps, Sandals, Slippers & More",3.0,,3.0
+3,0,Rachel Taylor,Suture Self (Bed-And-Breakfast Mysteries),3.0,,3.0
+4,0,Rachel Taylor,Saucer,3.0,,3.0
+5,0,Rachel Taylor,How to Date Young Women: For Men over 35 vol II (Advanced Skills),3.0,,3.0
+6,0,Rachel Taylor,A Man Without Words.,3.0,,3.0
+7,0,Rachel Taylor,A Perilous Proposal (Carolina Cousins #1),3.0,,3.0
+8,0,Rachel Taylor,One Fine Day,3.0,,3.0
+9,0,Rachel Taylor,I Do (But I Don't),3.0,,3.0
+10,0,Rachel Taylor,The Middlegame - Book I : Static Features (Algebraic Edition) (Bk. 1),3.0,,3.0
+11,0,Rachel Taylor,Kant's Transcendental Idealism: An Interpretation and Defense,3.0,,3.0
+12,0,Rachel Taylor,Veeck-- as in wreck: The autobiography of Bill Veeck (Sports library),3.0,,3.0
+13,0,Rachel Taylor,Forgiveness and Jesus: The Meeting Place of 'A Course in Miracles' and Christianity,3.0,,3.0
+14,0,Rachel Taylor,1000 Glass Beads: Innovation & Imagination in Contemporary Glass Beadmaking (500 Series),3.0,,3.0
+15,0,Rachel Taylor,Gun trader's guide,3.0,,3.0
+16,0,Rachel Taylor,Pleiadian Perspectives on Human Evolution,3.0,,3.0
+17,0,Rachel Taylor,Operating Systems: Internals and Design Principles (4th Edition),3.0,,3.0
+18,0,Rachel Taylor,God Is More than Enough (LifeChange Books),3.0,,3.0
+19,0,Rachel Taylor,Spencerville,3.0,,3.0
+0,1,Michael Young,"Black Skin, white Masks",3.0,,3.0
+1,1,Michael Young,"Little Joe, Superstar: The Films of Joe Dallesandro",3.0,,3.0
+2,1,Michael Young,"Shoes: A Celebration of Pumps, Sandals, Slippers & More",3.0,,3.0
+3,1,Michael Young,Suture Self (Bed-And-Breakfast Mysteries),3.0,,3.0
+4,1,Michael Young,Saucer,3.0,,3.0
+5,1,Michael Young,How to Date Young Women: For Men over 35 vol II (Advanced Skills),3.0,,3.0
+6,1,Michael Young,A Man Without Words.,3.0,,3.0
+7,1,Michael Young,A Perilous Proposal (Carolina Cousins #1),3.0,,3.0
+8,1,Michael Young,One Fine Day,3.0,,3.0
+9,1,Michael Young,I Do (But I Don't),3.0,,3.0
+10,1,Michael Young,The Middlegame - Book I : Static Features (Algebraic Edition) (Bk. 1),3.0,,3.0
+11,1,Michael Young,Kant's Transcendental Idealism: An Interpretation and Defense,3.0,,3.0
+12,1,Michael Young,Veeck-- as in wreck: The autobiography of Bill Veeck (Sports library),4.0,,4.0
+13,1,Michael Young,Forgiveness and Jesus: The Meeting Place of 'A Course in Miracles' and Christianity,3.0,,3.0
+14,1,Michael Young,1000 Glass Beads: Innovation & Imagination in Contemporary Glass Beadmaking (500 Series),3.0,,3.0
+15,1,Michael Young,Gun trader's guide,3.0,,3.0
+16,1,Michael Young,Pleiadian Perspectives on Human Evolution,3.0,,3.0
+17,1,Michael Young,Operating Systems: Internals and Design Principles (4th Edition),3.0,,3.0
+18,1,Michael Young,God Is More than Enough (LifeChange Books),3.0,,3.0
+19,1,Michael Young,Spencerville,3.0,,3.0
+0,2,Laura Jenkins,"Black Skin, white Masks",1.0,,1.0
+1,2,Laura Jenkins,"Little Joe, Superstar: The Films of Joe Dallesandro",1.0,,1.0
+2,2,Laura Jenkins,"Shoes: A Celebration of Pumps, Sandals, Slippers & More",1.0,,1.0
+3,2,Laura Jenkins,Suture Self (Bed-And-Breakfast Mysteries),1.0,,1.0
+4,2,Laura Jenkins,Saucer,1.0,,1.0
+5,2,Laura Jenkins,How to Date Young Women: For Men over 35 vol II (Advanced Skills),1.0,,1.0
+6,2,Laura Jenkins,A Man Without Words.,1.0,,1.0
+7,2,Laura Jenkins,A Perilous Proposal (Carolina Cousins #1),1.0,,1.0
+8,2,Laura Jenkins,One Fine Day,1.0,,1.0
+9,2,Laura Jenkins,I Do (But I Don't),1.0,,1.0
+10,2,Laura Jenkins,The Middlegame - Book I : Static Features (Algebraic Edition) (Bk. 1),1.0,,1.0
+11,2,Laura Jenkins,Kant's Transcendental Idealism: An Interpretation and Defense,1.0,,1.0
+12,2,Laura Jenkins,Veeck-- as in wreck: The autobiography of Bill Veeck (Sports library),1.0,,1.0
+13,2,Laura Jenkins,Forgiveness and Jesus: The Meeting Place of 'A Course in Miracles' and Christianity,1.0,,1.0
+14,2,Laura Jenkins,1000 Glass Beads: Innovation & Imagination in Contemporary Glass Beadmaking (500 Series),1.0,,1.0
+15,2,Laura Jenkins,Gun trader's guide,1.0,,1.0
+16,2,Laura Jenkins,Pleiadian Perspectives on Human Evolution,1.0,,1.0
+17,2,Laura Jenkins,Operating Systems: Internals and Design Principles (4th Edition),1.0,,1.0
+18,2,Laura Jenkins,God Is More than Enough (LifeChange Books),1.0,,1.0
+19,2,Laura Jenkins,Spencerville,1.0,,1.0
+0,3,David Giu,"Black Skin, white Masks",1.0,,1.0
+1,3,David Giu,"Little Joe, Superstar: The Films of Joe Dallesandro",1.0,,1.0
+2,3,David Giu,"Shoes: A Celebration of Pumps, Sandals, Slippers & More",1.0,,1.0
+3,3,David Giu,Suture Self (Bed-And-Breakfast Mysteries),1.0,,1.0
+4,3,David Giu,Saucer,1.0,,1.0
+5,3,David Giu,How to Date Young Women: For Men over 35 vol II (Advanced Skills),1.0,,1.0
+6,3,David Giu,A Man Without Words.,1.0,,1.0
+7,3,David Giu,A Perilous Proposal (Carolina Cousins #1),1.0,,1.0
+8,3,David Giu,One Fine Day,1.0,,1.0
+9,3,David Giu,I Do (But I Don't),1.0,,1.0
+10,3,David Giu,The Middlegame - Book I : Static Features (Algebraic Edition) (Bk. 1),1.0,,1.0
+11,3,David Giu,Kant's Transcendental Idealism: An Interpretation and Defense,1.0,,1.0
+12,3,David Giu,Veeck-- as in wreck: The autobiography of Bill Veeck (Sports library),1.0,,1.0
+13,3,David Giu,Forgiveness and Jesus: The Meeting Place of 'A Course in Miracles' and Christianity,1.0,,1.0
+14,3,David Giu,1000 Glass Beads: Innovation & Imagination in Contemporary Glass Beadmaking (500 Series),1.0,,1.0
+15,3,David Giu,Gun trader's guide,1.0,,1.0
+16,3,David Giu,Pleiadian Perspectives on Human Evolution,1.0,,1.0
+17,3,David Giu,Operating Systems: Internals and Design Principles (4th Edition),1.0,,1.0
+18,3,David Giu,God Is More than Enough (LifeChange Books),1.0,,1.0
+19,3,David Giu,Spencerville,1.0,,1.0
+0,0,Emily Peterson,Killer on the Road (Silent Terror),3.0,,3.0
+1,0,Emily Peterson,Creative Book Reports: Fun Projects with Rubrics for Fiction and Nonfiction [With CDROM],1.0,,1.0
+2,0,Emily Peterson,Thai in Minutes: Over 120 Inspirational Recipes,1.0,,1.0
+3,0,Emily Peterson,Hawksbill Station,3.0,,3.0
+4,0,Emily Peterson,Under the Overpass: A Journey of Faith on the Streets of America,3.0,,3.0
+5,0,Emily Peterson,The Woodsman's Daughter,3.0,,3.0
+6,0,Emily Peterson,Liner,3.0,,3.0
+7,0,Emily Peterson,The Myth of the Perfect Mother: Rethinking the Spirituality of Women,3.0,,3.0
+8,0,Emily Peterson,Half the Way Home: A Memoir of Father and Son,3.0,,3.0
+9,0,Emily Peterson,Worlds of Exile and Illusion: Three Complete Novels of the Hainish Series in One Volume--Rocannon's World; Planet of Exile; City of Illusions,3.0,,3.0
+10,0,Emily Peterson,Operations Management,1.0,,1.0
+11,0,Emily Peterson,"General System Theory: Foundations, Development Applications",3.0,,3.0
+12,0,Emily Peterson,Charles Goodnight: Cowman and Plainsman,3.0,,3.0
+13,0,Emily Peterson,Girls Who Looked Under Rocks: The Lives of Six Pioneering Naturalists,3.0,,3.0
+14,0,Emily Peterson,Too Far,3.0,,3.0
+15,0,Emily Peterson,The Penguin Book of English Verse (Penguin Classics),3.0,,3.0
+16,0,Emily Peterson,CliffsQuickReview Microbiology,2.0,,2.0
+17,0,Emily Peterson,Men Against Fire: The Problem of Battle Command,2.0,,2.0
+18,0,Emily Peterson,Tearing Down the Walls : How Sandy Weill Fought His Way to the Top of the Financial World. . .and Then Nearly Lost It All (Wall Street Journal Book),2.0,,2.0
+19,0,Emily Peterson,Song of the Earth,3.0,,3.0
+0,1,Ethan Simmons,Killer on the Road (Silent Terror),1.0,,1.0
+1,1,Ethan Simmons,Creative Book Reports: Fun Projects with Rubrics for Fiction and Nonfiction [With CDROM],1.0,,1.0
+2,1,Ethan Simmons,Thai in Minutes: Over 120 Inspirational Recipes,1.0,,1.0
+3,1,Ethan Simmons,Hawksbill Station,1.0,,1.0
+4,1,Ethan Simmons,Under the Overpass: A Journey of Faith on the Streets of America,1.0,,1.0
+5,1,Ethan Simmons,The Woodsman's Daughter,1.0,,1.0
+6,1,Ethan Simmons,Liner,1.0,,1.0
+7,1,Ethan Simmons,The Myth of the Perfect Mother: Rethinking the Spirituality of Women,1.0,,1.0
+8,1,Ethan Simmons,Half the Way Home: A Memoir of Father and Son,1.0,,1.0
+9,1,Ethan Simmons,Worlds of Exile and Illusion: Three Complete Novels of the Hainish Series in One Volume--Rocannon's World; Planet of Exile; City of Illusions,1.0,,1.0
+10,1,Ethan Simmons,Operations Management,1.0,,1.0
+11,1,Ethan Simmons,"General System Theory: Foundations, Development Applications",1.0,,1.0
+12,1,Ethan Simmons,Charles Goodnight: Cowman and Plainsman,1.0,,1.0
+13,1,Ethan Simmons,Girls Who Looked Under Rocks: The Lives of Six Pioneering Naturalists,1.0,,1.0
+14,1,Ethan Simmons,Too Far,1.0,,1.0
+15,1,Ethan Simmons,The Penguin Book of English Verse (Penguin Classics),1.0,,1.0
+16,1,Ethan Simmons,CliffsQuickReview Microbiology,1.0,,1.0
+17,1,Ethan Simmons,Men Against Fire: The Problem of Battle Command,1.0,,1.0
+18,1,Ethan Simmons,Tearing Down the Walls : How Sandy Weill Fought His Way to the Top of the Financial World. . .and Then Nearly Lost It All (Wall Street Journal Book),1.0,,1.0
+19,1,Ethan Simmons,Song of the Earth,1.0,,1.0
+0,2,Olivia Nelson,Killer on the Road (Silent Terror),1.0,,1.0
+1,2,Olivia Nelson,Creative Book Reports: Fun Projects with Rubrics for Fiction and Nonfiction [With CDROM],2.0,,2.0
+2,2,Olivia Nelson,Thai in Minutes: Over 120 Inspirational Recipes,1.0,,1.0
+3,2,Olivia Nelson,Hawksbill Station,3.0,,3.0
+4,2,Olivia Nelson,Under the Overpass: A Journey of Faith on the Streets of America,3.0,,3.0
+5,2,Olivia Nelson,The Woodsman's Daughter,3.0,,3.0
+6,2,Olivia Nelson,Liner,3.0,,3.0
+7,2,Olivia Nelson,The Myth of the Perfect Mother: Rethinking the Spirituality of Women,3.0,,3.0
+8,2,Olivia Nelson,Half the Way Home: A Memoir of Father and Son,3.0,,3.0
+9,2,Olivia Nelson,Worlds of Exile and Illusion: Three Complete Novels of the Hainish Series in One Volume--Rocannon's World; Planet of Exile; City of Illusions,3.0,,3.0
+10,2,Olivia Nelson,Operations Management,1.0,,1.0
+11,2,Olivia Nelson,"General System Theory: Foundations, Development Applications",3.0,,3.0
+12,2,Olivia Nelson,Charles Goodnight: Cowman and Plainsman,2.0,,2.0
+13,2,Olivia Nelson,Girls Who Looked Under Rocks: The Lives of Six Pioneering Naturalists,2.0,,2.0
+14,2,Olivia Nelson,Too Far,3.0,,3.0
+15,2,Olivia Nelson,The Penguin Book of English Verse (Penguin Classics),2.0,,2.0
+16,2,Olivia Nelson,CliffsQuickReview Microbiology,2.0,,2.0
+17,2,Olivia Nelson,Men Against Fire: The Problem of Battle Command,3.0,,3.0
+18,2,Olivia Nelson,Tearing Down the Walls : How Sandy Weill Fought His Way to the Top of the Financial World. . .and Then Nearly Lost It All (Wall Street Journal Book),2.0,,2.0
+19,2,Olivia Nelson,Song of the Earth,3.0,,3.0
+0,3,Liam Grayson,Killer on the Road (Silent Terror),2.0,,2.0
+1,3,Liam Grayson,Creative Book Reports: Fun Projects with Rubrics for Fiction and Nonfiction [With CDROM],1.0,,1.0
+2,3,Liam Grayson,Thai in Minutes: Over 120 Inspirational Recipes,1.0,,1.0
+3,3,Liam Grayson,Hawksbill Station,3.0,,3.0
+4,3,Liam Grayson,Under the Overpass: A Journey of Faith on the Streets of America,3.0,,3.0
+5,3,Liam Grayson,The Woodsman's Daughter,3.0,,3.0
+6,3,Liam Grayson,Liner,3.0,,3.0
+7,3,Liam Grayson,The Myth of the Perfect Mother: Rethinking the Spirituality of Women,3.0,,3.0
+8,3,Liam Grayson,Half the Way Home: A Memoir of Father and Son,3.0,,3.0
+9,3,Liam Grayson,Worlds of Exile and Illusion: Three Complete Novels of the Hainish Series in One Volume--Rocannon's World; Planet of Exile; City of Illusions,3.0,,3.0
+10,3,Liam Grayson,Operations Management,1.0,,1.0
+11,3,Liam Grayson,"General System Theory: Foundations, Development Applications",3.0,,3.0
+12,3,Liam Grayson,Charles Goodnight: Cowman and Plainsman,2.0,,2.0
+13,3,Liam Grayson,Girls Who Looked Under Rocks: The Lives of Six Pioneering Naturalists,2.0,,2.0
+14,3,Liam Grayson,Too Far,2.0,,2.0
+15,3,Liam Grayson,The Penguin Book of English Verse (Penguin Classics),2.0,,2.0
+16,3,Liam Grayson,CliffsQuickReview Microbiology,2.0,,2.0
+17,3,Liam Grayson,Men Against Fire: The Problem of Battle Command,3.0,,3.0
+18,3,Liam Grayson,Tearing Down the Walls : How Sandy Weill Fought His Way to the Top of the Financial World. . .and Then Nearly Lost It All (Wall Street Journal Book),3.0,,3.0
+19,3,Liam Grayson,Song of the Earth,3.0,,3.0
+0,0,Sophia Collins,Slaves of Sleep,2.0,,2.0
+1,0,Sophia Collins,The Dead Emcee Scrolls: The Lost Teachings of Hip-Hop,2.0,,2.0
+2,0,Sophia Collins,Memento Mori,2.0,,2.0
+3,0,Sophia Collins,Collected Lyrics,2.0,,2.0
+4,0,Sophia Collins,If I Gave You God's Phone Number....: Searching for Spirituality in America,2.0,,2.0
+5,0,Sophia Collins,Polar Bears: Living With the White Bear,2.0,,2.0
+6,0,Sophia Collins,Beginner's Chinese (Beginner's (Foreign Language)),2.0,,2.0
+7,0,Sophia Collins,Every Man a Speculator : A History of Wall Street in American Life,2.0,,2.0
+8,0,Sophia Collins,The MacArthur New Testament Commentary: Matthew 24-28 (MacArthur New Testament Commentary Series),2.0,,2.0
+9,0,Sophia Collins,In the Name of Love,2.0,,2.0
+10,0,Sophia Collins,Reasons to Live,2.0,,2.0
+11,0,Sophia Collins,When the Tuna Went Down to Texas: How Bill Parcells Led the Cowboys Back to the Promised Land,2.0,,2.0
+12,0,Sophia Collins,SONG OF MIRIAM,2.0,,2.0
+13,0,Sophia Collins,"Imperial Bayonets: Tactics of the Napoleonic Battery, Battalion, and Brigade as Found in Contemporary Regulations",2.0,,2.0
+14,0,Sophia Collins,Legion's Ladies (Zebra Regency Romance),2.0,,2.0
+15,0,Sophia Collins,"Seven men of Gascony,: A novel",2.0,,2.0
+16,0,Sophia Collins,101 Things You Never Knew About Disneyland: An Unauthorized Look At The Little Touches And Inside Jokes,2.0,,2.0
+17,0,Sophia Collins,The Sorcerer's Crossing: A Woman's Journey (Compass),2.0,,2.0
+18,0,Sophia Collins,Paper Quilting: Creative Designs Using Paper & Thread,2.0,,2.0
+19,0,Sophia Collins,Blood Relations,2.0,,2.0
+0,1,Jacob Walker,Slaves of Sleep,1.0,,1.0
+1,1,Jacob Walker,The Dead Emcee Scrolls: The Lost Teachings of Hip-Hop,1.0,,1.0
+2,1,Jacob Walker,Memento Mori,1.0,,1.0
+3,1,Jacob Walker,Collected Lyrics,1.0,,1.0
+4,1,Jacob Walker,If I Gave You God's Phone Number....: Searching for Spirituality in America,1.0,,1.0
+5,1,Jacob Walker,Polar Bears: Living With the White Bear,1.0,,1.0
+6,1,Jacob Walker,Beginner's Chinese (Beginner's (Foreign Language)),1.0,,1.0
+7,1,Jacob Walker,Every Man a Speculator : A History of Wall Street in American Life,1.0,,1.0
+8,1,Jacob Walker,The MacArthur New Testament Commentary: Matthew 24-28 (MacArthur New Testament Commentary Series),1.0,,1.0
+9,1,Jacob Walker,In the Name of Love,1.0,,1.0
+10,1,Jacob Walker,Reasons to Live,1.0,,1.0
+11,1,Jacob Walker,When the Tuna Went Down to Texas: How Bill Parcells Led the Cowboys Back to the Promised Land,1.0,,1.0
+12,1,Jacob Walker,SONG OF MIRIAM,1.0,,1.0
+13,1,Jacob Walker,"Imperial Bayonets: Tactics of the Napoleonic Battery, Battalion, and Brigade as Found in Contemporary Regulations",1.0,,1.0
+14,1,Jacob Walker,Legion's Ladies (Zebra Regency Romance),1.0,,1.0
+15,1,Jacob Walker,"Seven men of Gascony,: A novel",1.0,,1.0
+16,1,Jacob Walker,101 Things You Never Knew About Disneyland: An Unauthorized Look At The Little Touches And Inside Jokes,1.0,,1.0
+17,1,Jacob Walker,The Sorcerer's Crossing: A Woman's Journey (Compass),1.0,,1.0
+18,1,Jacob Walker,Paper Quilting: Creative Designs Using Paper & Thread,1.0,,1.0
+19,1,Jacob Walker,Blood Relations,1.0,,1.0
+0,2,Ava Edwards,Slaves of Sleep,2.0,,2.0
+1,2,Ava Edwards,The Dead Emcee Scrolls: The Lost Teachings of Hip-Hop,2.0,,2.0
+2,2,Ava Edwards,Memento Mori,2.0,,2.0
+3,2,Ava Edwards,Collected Lyrics,2.0,,2.0
+4,2,Ava Edwards,If I Gave You God's Phone Number....: Searching for Spirituality in America,2.0,,2.0
+5,2,Ava Edwards,Polar Bears: Living With the White Bear,2.0,,2.0
+6,2,Ava Edwards,Beginner's Chinese (Beginner's (Foreign Language)),2.0,,2.0
+7,2,Ava Edwards,Every Man a Speculator : A History of Wall Street in American Life,2.0,,2.0
+8,2,Ava Edwards,The MacArthur New Testament Commentary: Matthew 24-28 (MacArthur New Testament Commentary Series),2.0,,2.0
+9,2,Ava Edwards,In the Name of Love,2.0,,2.0
+10,2,Ava Edwards,Reasons to Live,2.0,,2.0
+11,2,Ava Edwards,When the Tuna Went Down to Texas: How Bill Parcells Led the Cowboys Back to the Promised Land,2.0,,2.0
+12,2,Ava Edwards,SONG OF MIRIAM,2.0,,2.0
+13,2,Ava Edwards,"Imperial Bayonets: Tactics of the Napoleonic Battery, Battalion, and Brigade as Found in Contemporary Regulations",2.0,,2.0
+14,2,Ava Edwards,Legion's Ladies (Zebra Regency Romance),2.0,,2.0
+15,2,Ava Edwards,"Seven men of Gascony,: A novel",2.0,,2.0
+16,2,Ava Edwards,101 Things You Never Knew About Disneyland: An Unauthorized Look At The Little Touches And Inside Jokes,2.0,,2.0
+17,2,Ava Edwards,The Sorcerer's Crossing: A Woman's Journey (Compass),2.0,,2.0
+18,2,Ava Edwards,Paper Quilting: Creative Designs Using Paper & Thread,2.0,,2.0
+19,2,Ava Edwards,Blood Relations,2.0,,2.0
+0,3,Oliver Ellis,Slaves of Sleep,1.0,,1.0
+1,3,Oliver Ellis,The Dead Emcee Scrolls: The Lost Teachings of Hip-Hop,1.0,,1.0
+2,3,Oliver Ellis,Memento Mori,1.0,,1.0
+3,3,Oliver Ellis,Collected Lyrics,1.0,,1.0
+4,3,Oliver Ellis,If I Gave You God's Phone Number....: Searching for Spirituality in America,1.0,,1.0
+5,3,Oliver Ellis,Polar Bears: Living With the White Bear,1.0,,1.0
+6,3,Oliver Ellis,Beginner's Chinese (Beginner's (Foreign Language)),1.0,,1.0
+7,3,Oliver Ellis,Every Man a Speculator : A History of Wall Street in American Life,1.0,,1.0
+8,3,Oliver Ellis,The MacArthur New Testament Commentary: Matthew 24-28 (MacArthur New Testament Commentary Series),1.0,,1.0
+9,3,Oliver Ellis,In the Name of Love,1.0,,1.0
+10,3,Oliver Ellis,Reasons to Live,1.0,,1.0
+11,3,Oliver Ellis,When the Tuna Went Down to Texas: How Bill Parcells Led the Cowboys Back to the Promised Land,1.0,,1.0
+12,3,Oliver Ellis,SONG OF MIRIAM,1.0,,1.0
+13,3,Oliver Ellis,"Imperial Bayonets: Tactics of the Napoleonic Battery, Battalion, and Brigade as Found in Contemporary Regulations",1.0,,1.0
+14,3,Oliver Ellis,Legion's Ladies (Zebra Regency Romance),1.0,,1.0
+15,3,Oliver Ellis,"Seven men of Gascony,: A novel",1.0,,1.0
+16,3,Oliver Ellis,101 Things You Never Knew About Disneyland: An Unauthorized Look At The Little Touches And Inside Jokes,1.0,,1.0
+17,3,Oliver Ellis,The Sorcerer's Crossing: A Woman's Journey (Compass),1.0,,1.0
+18,3,Oliver Ellis,Paper Quilting: Creative Designs Using Paper & Thread,1.0,,1.0
+19,3,Oliver Ellis,Blood Relations,1.0,,1.0
+0,0,Sarah Bailey,Making Sense: Philosophy behind the Headlines,1.0,,1.0
+1,0,Sarah Bailey,The Ascent of Everest,1.0,,1.0
+2,0,Sarah Bailey,Longest Day (Dr. Who Series),1.0,,1.0
+3,0,Sarah Bailey,Food Analysis (Food Science Texts Series),1.0,,1.0
+4,0,Sarah Bailey,The sayings of Confucius,1.0,,1.0
+5,0,Sarah Bailey,"Dictionary of Cults, Sects, Religions and the Occult",1.0,,1.0
+6,0,Sarah Bailey,The Island of the Day Before,1.0,,1.0
+7,0,Sarah Bailey,Ancient Greek Alive,1.0,,1.0
+8,0,Sarah Bailey,Baker's Bible atlas,1.0,,1.0
+9,0,Sarah Bailey,Monkees,1.0,,1.0
+10,0,Sarah Bailey,Gods and Kings (Chronicles of the Kings #1),1.0,,1.0
+11,0,Sarah Bailey,Aunt Julia And The Scriptwriter,1.0,,1.0
+12,0,Sarah Bailey,A Light for My Love (SIGNED),1.0,,1.0
+13,0,Sarah Bailey,The Revolt of the Elites and the Betrayal of Democracy,1.0,,1.0
+14,0,Sarah Bailey,Darling Jenny,1.0,,1.0
+15,0,Sarah Bailey,"The Complete Engravings, Etchings and Drypoints of Albrecht Durer (Dover Fine Art, History of Art)",1.0,,1.0
+16,0,Sarah Bailey,Cold War Triumphalism: The Misuse of History After the Fall of Communism,1.0,,1.0
+17,0,Sarah Bailey,What I Believe,1.0,,1.0
+18,0,Sarah Bailey,Unmasking Administrative Evil (Rethinking Public Administration),1.0,,1.0
+19,0,Sarah Bailey,End to Suffering,1.0,,1.0
+0,1,James Clarke,Making Sense: Philosophy behind the Headlines,1.0,,1.0
+1,1,James Clarke,The Ascent of Everest,1.0,,1.0
+2,1,James Clarke,Longest Day (Dr. Who Series),1.0,,1.0
+3,1,James Clarke,Food Analysis (Food Science Texts Series),1.0,,1.0
+4,1,James Clarke,The sayings of Confucius,1.0,,1.0
+5,1,James Clarke,"Dictionary of Cults, Sects, Religions and the Occult",1.0,,1.0
+6,1,James Clarke,The Island of the Day Before,1.0,,1.0
+7,1,James Clarke,Ancient Greek Alive,1.0,,1.0
+8,1,James Clarke,Baker's Bible atlas,1.0,,1.0
+9,1,James Clarke,Monkees,1.0,,1.0
+10,1,James Clarke,Gods and Kings (Chronicles of the Kings #1),1.0,,1.0
+11,1,James Clarke,Aunt Julia And The Scriptwriter,1.0,,1.0
+12,1,James Clarke,A Light for My Love (SIGNED),1.0,,1.0
+13,1,James Clarke,The Revolt of the Elites and the Betrayal of Democracy,1.0,,1.0
+14,1,James Clarke,Darling Jenny,1.0,,1.0
+15,1,James Clarke,"The Complete Engravings, Etchings and Drypoints of Albrecht Durer (Dover Fine Art, History of Art)",1.0,,1.0
+16,1,James Clarke,Cold War Triumphalism: The Misuse of History After the Fall of Communism,1.0,,1.0
+17,1,James Clarke,What I Believe,1.0,,1.0
+18,1,James Clarke,Unmasking Administrative Evil (Rethinking Public Administration),1.0,,1.0
+19,1,James Clarke,End to Suffering,1.0,,1.0
+0,2,Emma Dixon,Making Sense: Philosophy behind the Headlines,1.0,,1.0
+1,2,Emma Dixon,The Ascent of Everest,1.0,,1.0
+2,2,Emma Dixon,Longest Day (Dr. Who Series),1.0,,1.0
+3,2,Emma Dixon,Food Analysis (Food Science Texts Series),1.0,,1.0
+4,2,Emma Dixon,The sayings of Confucius,1.0,,1.0
+5,2,Emma Dixon,"Dictionary of Cults, Sects, Religions and the Occult",1.0,,1.0
+6,2,Emma Dixon,The Island of the Day Before,1.0,,1.0
+7,2,Emma Dixon,Ancient Greek Alive,1.0,,1.0
+8,2,Emma Dixon,Baker's Bible atlas,1.0,,1.0
+9,2,Emma Dixon,Monkees,1.0,,1.0
+10,2,Emma Dixon,Gods and Kings (Chronicles of the Kings #1),1.0,,1.0
+11,2,Emma Dixon,Aunt Julia And The Scriptwriter,1.0,,1.0
+12,2,Emma Dixon,A Light for My Love (SIGNED),1.0,,1.0
+13,2,Emma Dixon,The Revolt of the Elites and the Betrayal of Democracy,1.0,,1.0
+14,2,Emma Dixon,Darling Jenny,1.0,,1.0
+15,2,Emma Dixon,"The Complete Engravings, Etchings and Drypoints of Albrecht Durer (Dover Fine Art, History of Art)",1.0,,1.0
+16,2,Emma Dixon,Cold War Triumphalism: The Misuse of History After the Fall of Communism,1.0,,1.0
+17,2,Emma Dixon,What I Believe,1.0,,1.0
+18,2,Emma Dixon,Unmasking Administrative Evil (Rethinking Public Administration),1.0,,1.0
+19,2,Emma Dixon,End to Suffering,1.0,,1.0
+0,3,Daniel Freeman,Making Sense: Philosophy behind the Headlines,1.0,,1.0
+1,3,Daniel Freeman,The Ascent of Everest,1.0,,1.0
+2,3,Daniel Freeman,Longest Day (Dr. Who Series),1.0,,1.0
+3,3,Daniel Freeman,Food Analysis (Food Science Texts Series),1.0,,1.0
+4,3,Daniel Freeman,The sayings of Confucius,1.0,,1.0
+5,3,Daniel Freeman,"Dictionary of Cults, Sects, Religions and the Occult",1.0,,1.0
+6,3,Daniel Freeman,The Island of the Day Before,1.0,,1.0
+7,3,Daniel Freeman,Ancient Greek Alive,1.0,,1.0
+8,3,Daniel Freeman,Baker's Bible atlas,1.0,,1.0
+9,3,Daniel Freeman,Monkees,1.0,,1.0
+10,3,Daniel Freeman,Gods and Kings (Chronicles of the Kings #1),1.0,,1.0
+11,3,Daniel Freeman,Aunt Julia And The Scriptwriter,1.0,,1.0
+12,3,Daniel Freeman,A Light for My Love (SIGNED),1.0,,1.0
+13,3,Daniel Freeman,The Revolt of the Elites and the Betrayal of Democracy,1.0,,1.0
+14,3,Daniel Freeman,Darling Jenny,1.0,,1.0
+15,3,Daniel Freeman,"The Complete Engravings, Etchings and Drypoints of Albrecht Durer (Dover Fine Art, History of Art)",1.0,,1.0
+16,3,Daniel Freeman,Cold War Triumphalism: The Misuse of History After the Fall of Communism,1.0,,1.0
+17,3,Daniel Freeman,What I Believe,1.0,,1.0
+18,3,Daniel Freeman,Unmasking Administrative Evil (Rethinking Public Administration),1.0,,1.0
+19,3,Daniel Freeman,End to Suffering,1.0,,1.0
+0,0,Emily Griffiths,Power Through Constructive Thinking,1.0,,1.0
+1,0,Emily Griffiths,Me and My Big Mouth: Your Answer is Right Under Your Nose,1.0,,1.0
+2,0,Emily Griffiths,"Vietnamese, Basic: Learn to Speak and Understand Vietnamese with Pimsleur Language Programs",1.0,,1.0
+3,0,Emily Griffiths,PC Magazine Guide Windows XP Media Center Edition,1.0,,1.0
+4,0,Emily Griffiths,The Popcorn Dragon,1.0,,1.0
+5,0,Emily Griffiths,Bmw R50/5 Through R100Gs Pd: 1970-1996 (Clymer Motorcycle Repair),1.0,,1.0
+6,0,Emily Griffiths,The Router Joinery Handbook,1.0,,1.0
+7,0,Emily Griffiths,Granny D: You're Never Too Old to Raise a Little Hell,3.0,,3.0
+8,0,Emily Griffiths,"Johnson/Evinrude Outboards, 1973-91 Repair Manual, Covers all 60-235 HP, 3-Cylinder, V4 and V6, 2-Stroke Models, Includes Jet Drives (Seloc)",1.0,,1.0
+9,0,Emily Griffiths,"If You Can't Live Without Me, Why Aren't You Dead Yet?!",2.0,,2.0
+10,0,Emily Griffiths,Witch Ball (The Seer Series),3.0,,3.0
+11,0,Emily Griffiths,SWASTIKA,3.0,,3.0
+12,0,Emily Griffiths,Creation and the Persistence of Evil The Jewish Drama of Divine Omnipotence,3.0,,3.0
+13,0,Emily Griffiths,Messiah in Full Score (Dover Vocal Scores),3.0,,3.0
+14,0,Emily Griffiths,Across the Great Divide : Robert Stuart and the Discovery of the Oregon Trail,3.0,,3.0
+15,0,Emily Griffiths,Elmo's World: Balls! (Sesame Street) (Sesame Street(R) Elmos World(TM)),1.0,,1.0
+16,0,Emily Griffiths,Mary Chesnuts Civil War,3.0,,3.0
+17,0,Emily Griffiths,Cinderella (Disney Princess) (Read-Aloud Storybook),3.0,,3.0
+18,0,Emily Griffiths,Bahamarama (St. Martin's Minotaur Mysteries),3.0,,3.0
+19,0,Emily Griffiths,Finding Lubchenko,3.0,,3.0
+0,1,Ethan Hayes,Power Through Constructive Thinking,1.0,,1.0
+1,1,Ethan Hayes,Me and My Big Mouth: Your Answer is Right Under Your Nose,1.0,,1.0
+2,1,Ethan Hayes,"Vietnamese, Basic: Learn to Speak and Understand Vietnamese with Pimsleur Language Programs",1.0,,1.0
+3,1,Ethan Hayes,PC Magazine Guide Windows XP Media Center Edition,1.0,,1.0
+4,1,Ethan Hayes,The Popcorn Dragon,1.0,,1.0
+5,1,Ethan Hayes,Bmw R50/5 Through R100Gs Pd: 1970-1996 (Clymer Motorcycle Repair),1.0,,1.0
+6,1,Ethan Hayes,The Router Joinery Handbook,1.0,,1.0
+7,1,Ethan Hayes,Granny D: You're Never Too Old to Raise a Little Hell,1.0,,1.0
+8,1,Ethan Hayes,"Johnson/Evinrude Outboards, 1973-91 Repair Manual, Covers all 60-235 HP, 3-Cylinder, V4 and V6, 2-Stroke Models, Includes Jet Drives (Seloc)",1.0,,1.0
+9,1,Ethan Hayes,"If You Can't Live Without Me, Why Aren't You Dead Yet?!",1.0,,1.0
+10,1,Ethan Hayes,Witch Ball (The Seer Series),1.0,,1.0
+11,1,Ethan Hayes,SWASTIKA,1.0,,1.0
+12,1,Ethan Hayes,Creation and the Persistence of Evil The Jewish Drama of Divine Omnipotence,1.0,,1.0
+13,1,Ethan Hayes,Messiah in Full Score (Dover Vocal Scores),1.0,,1.0
+14,1,Ethan Hayes,Across the Great Divide : Robert Stuart and the Discovery of the Oregon Trail,1.0,,1.0
+15,1,Ethan Hayes,Elmo's World: Balls! (Sesame Street) (Sesame Street(R) Elmos World(TM)),1.0,,1.0
+16,1,Ethan Hayes,Mary Chesnuts Civil War,1.0,,1.0
+17,1,Ethan Hayes,Cinderella (Disney Princess) (Read-Aloud Storybook),1.0,,1.0
+18,1,Ethan Hayes,Bahamarama (St. Martin's Minotaur Mysteries),1.0,,1.0
+19,1,Ethan Hayes,Finding Lubchenko,1.0,,1.0
+0,2,Olivia Ingram,Power Through Constructive Thinking,1.0,,1.0
+1,2,Olivia Ingram,Me and My Big Mouth: Your Answer is Right Under Your Nose,1.0,,1.0
+2,2,Olivia Ingram,"Vietnamese, Basic: Learn to Speak and Understand Vietnamese with Pimsleur Language Programs",1.0,,1.0
+3,2,Olivia Ingram,PC Magazine Guide Windows XP Media Center Edition,1.0,,1.0
+4,2,Olivia Ingram,The Popcorn Dragon,1.0,,1.0
+5,2,Olivia Ingram,Bmw R50/5 Through R100Gs Pd: 1970-1996 (Clymer Motorcycle Repair),1.0,,1.0
+6,2,Olivia Ingram,The Router Joinery Handbook,1.0,,1.0
+7,2,Olivia Ingram,Granny D: You're Never Too Old to Raise a Little Hell,1.0,,1.0
+8,2,Olivia Ingram,"Johnson/Evinrude Outboards, 1973-91 Repair Manual, Covers all 60-235 HP, 3-Cylinder, V4 and V6, 2-Stroke Models, Includes Jet Drives (Seloc)",1.0,,1.0
+9,2,Olivia Ingram,"If You Can't Live Without Me, Why Aren't You Dead Yet?!",1.0,,1.0
+10,2,Olivia Ingram,Witch Ball (The Seer Series),1.0,,1.0
+11,2,Olivia Ingram,SWASTIKA,1.0,,1.0
+12,2,Olivia Ingram,Creation and the Persistence of Evil The Jewish Drama of Divine Omnipotence,1.0,,1.0
+13,2,Olivia Ingram,Messiah in Full Score (Dover Vocal Scores),1.0,,1.0
+14,2,Olivia Ingram,Across the Great Divide : Robert Stuart and the Discovery of the Oregon Trail,1.0,,1.0
+15,2,Olivia Ingram,Elmo's World: Balls! (Sesame Street) (Sesame Street(R) Elmos World(TM)),1.0,,1.0
+16,2,Olivia Ingram,Mary Chesnuts Civil War,1.0,,1.0
+17,2,Olivia Ingram,Cinderella (Disney Princess) (Read-Aloud Storybook),1.0,,1.0
+18,2,Olivia Ingram,Bahamarama (St. Martin's Minotaur Mysteries),1.0,,1.0
+19,2,Olivia Ingram,Finding Lubchenko,1.0,,1.0
+0,3,Oliver Bianchi,Power Through Constructive Thinking,1.0,,1.0
+1,3,Oliver Bianchi,Me and My Big Mouth: Your Answer is Right Under Your Nose,1.0,,1.0
+2,3,Oliver Bianchi,"Vietnamese, Basic: Learn to Speak and Understand Vietnamese with Pimsleur Language Programs",1.0,,1.0
+3,3,Oliver Bianchi,PC Magazine Guide Windows XP Media Center Edition,1.0,,1.0
+4,3,Oliver Bianchi,The Popcorn Dragon,1.0,,1.0
+5,3,Oliver Bianchi,Bmw R50/5 Through R100Gs Pd: 1970-1996 (Clymer Motorcycle Repair),1.0,,1.0
+6,3,Oliver Bianchi,The Router Joinery Handbook,1.0,,1.0
+7,3,Oliver Bianchi,Granny D: You're Never Too Old to Raise a Little Hell,1.0,,1.0
+8,3,Oliver Bianchi,"Johnson/Evinrude Outboards, 1973-91 Repair Manual, Covers all 60-235 HP, 3-Cylinder, V4 and V6, 2-Stroke Models, Includes Jet Drives (Seloc)",1.0,,1.0
+9,3,Oliver Bianchi,"If You Can't Live Without Me, Why Aren't You Dead Yet?!",1.0,,1.0
+10,3,Oliver Bianchi,Witch Ball (The Seer Series),1.0,,1.0
+11,3,Oliver Bianchi,SWASTIKA,1.0,,1.0
+12,3,Oliver Bianchi,Creation and the Persistence of Evil The Jewish Drama of Divine Omnipotence,1.0,,1.0
+13,3,Oliver Bianchi,Messiah in Full Score (Dover Vocal Scores),1.0,,1.0
+14,3,Oliver Bianchi,Across the Great Divide : Robert Stuart and the Discovery of the Oregon Trail,1.0,,1.0
+15,3,Oliver Bianchi,Elmo's World: Balls! (Sesame Street) (Sesame Street(R) Elmos World(TM)),1.0,,1.0
+16,3,Oliver Bianchi,Mary Chesnuts Civil War,1.0,,1.0
+17,3,Oliver Bianchi,Cinderella (Disney Princess) (Read-Aloud Storybook),1.0,,1.0
+18,3,Oliver Bianchi,Bahamarama (St. Martin's Minotaur Mysteries),3.0,,3.0
+19,3,Oliver Bianchi,Finding Lubchenko,1.0,,1.0

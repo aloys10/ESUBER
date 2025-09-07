@@ -75,6 +75,9 @@ class Simulatio4RecSys(gym.Env):
                 "user_description": spaces.Text(
                     max_length=10000, min_length=1, charset=string.printable
                 ),
+                "user_activity_level": spaces.Discrete(4),  # 1-3 levels, 0 for default
+                "user_conformity_level": spaces.Discrete(4),  # 1-3 levels, 0 for default
+                "user_diversity_level": spaces.Discrete(4),  # 1-3 levels, 0 for default
                 "items_interact": spaces.Sequence(
                     spaces.Box(
                         low=np.array([0, 0]),
@@ -131,6 +134,9 @@ class Simulatio4RecSys(gym.Env):
             "user_gender": gender,
             "user_age": np.array([self._user.age], dtype=np.int_),
             "user_description": self._user.description,
+            "user_activity_level": self._user.activity_level,
+            "user_conformity_level": self._user.conformity_level,
+            "user_diversity_level": self._user.diversity_level,
             "items_interact": self._items_interact,
         }
 
@@ -141,6 +147,12 @@ class Simulatio4RecSys(gym.Env):
         """
         super().reset(seed=seed)
         self.clean_memory()
+        # Reset reward shaping internal state if available
+        if hasattr(self.reward_shaping, "reset"):
+            try:
+                self.reward_shaping.reset()
+            except Exception:
+                pass
         if seed is not None:
             self.items_selector.seed(seed)
             self.reward_perturbator.seed(seed)
@@ -199,7 +211,9 @@ class Simulatio4RecSys(gym.Env):
         Given the user, the recommended item and the retieved item we construct a prompt for the LLM to predict the rating that
         the user would give to the recommended Movie.
         """
-        with torch.random.fork_rng(["cuda:0"]):
+        # Use CUDA RNG fork only if CUDA is available; otherwise stay on CPU
+        devices = ([torch.cuda.current_device()] if torch.cuda.is_available() else None)
+        with torch.random.fork_rng(devices=devices):
             torch.manual_seed(self.llm_seed)
             rating, explanation, html_interaction = self.rating_prompt.query(
                 self._user,
@@ -246,11 +260,9 @@ class Simulatio4RecSys(gym.Env):
         )
 
         """
-        Termination is modelled in a similar fashion to a geometric distribution: after every step the user with some small probability
-        stops intercating with the environment 
+        Termination is now controlled by reward shaping (user satisfaction) instead of random chance
         """
-        terminated = self.np_random.choice([True, False], p=[0.025, 0.975])
-        terminated = bool(terminated)
+        terminated = False  # 移除随机终止，只保留满意度驱动的终止
         observation = self._get_obs()
         reward = reduce(lambda x, y: x + y, selected_ratings)
         info = {
@@ -263,6 +275,11 @@ class Simulatio4RecSys(gym.Env):
         reward, reward_shaping_termination = self.reward_shaping.reshape(
             item_interaction, reward
         )
+        # Optional diagnostics for churn-like shaping
+        if hasattr(self.reward_shaping, "_ema"):
+            info["reward_ema"] = getattr(self.reward_shaping, "_ema")
+        if hasattr(self.reward_shaping, "_low_streak"):
+            info["reward_low_streak"] = getattr(self.reward_shaping, "_low_streak")
         if reward_shaping_termination:
             terminated = True
 

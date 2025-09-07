@@ -1,84 +1,124 @@
-# import requests
-# import numpy as np
-# import pandas as pd
-# import json
-# from dotenv import load_dotenv
+import requests
+import numpy as np
+import pandas as pd
+import json
+import os
+from sentence_transformers import SentenceTransformer
+from tqdm import tqdm
+import time
 
-# load_dotenv()
-# import os
-# from sentence_transformers import SentenceTransformer
+# 使用用户提供的API密钥
+TMDB_API_KEY = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiNTY2OWIzODFjZDQ4NzdkMGI3OTUzMzIwMTU0NWFjYiIsIm5iZiI6MTc1NDQwNjYxNS4yOTIsInN1YiI6IjY4OTIxZWQ3OGJmMjVhZmMyZjdkMDA4MyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.YRTBHPh9BnBeSbxTkFArRCGbuZnVnptOvMALc3h7uYQ"
 
-# model = SentenceTransformer("sentence-transformers/sentence-t5-base")
-
-
-# def get_director(id):
-#     headers = {
-#         "accept": "application/json",
-#         "Authorization": "Bearer " + os.getenv("TMDB_API_KEY"),
-#     }
-#     url_credits = f"https://api.themoviedb.org/3/movie/{id}/credits?language=en-US"
-#     response = requests.get(url_credits, headers=headers)
-#     data_credits = response.json()
-
-#     for d in data_credits["crew"]:
-#         if d["job"] == "Director":
-#             return d["name"]
+print("正在加载SentenceTransformer模型（这可能需要一些时间）...")
+try:
+    model = SentenceTransformer("sentence-transformers/sentence-t5-base")
+    print("模型加载成功！")
+except Exception as e:
+    print(f"模型加载失败: {e}")
+    print("请确保已安装sentence-transformers: pip install sentence-transformers")
+    exit(1)
 
 
-# def get_film(id):
-#     url_movie = f"https://api.themoviedb.org/3/movie/{id}?language=en-US"
-#     headers = {
-#         "accept": "application/json",
-#         "Authorization": "Bearer " + os.getenv("TMDB_API_KEY"),
-#     }
-#     response = requests.get(url_movie, headers=headers)
-#     data = response.json()
-#     movies_keys_to_remove = [
-#         "backdrop_path",
-#         "belongs_to_collection",
-#         "homepage",
-#         "poster_path",
-#         "production_companies",
-#         "production_countries",
-#         "spoken_languages",
-#         "status",
-#         "tagline",
-#         "video",
-#     ]
-#     for k in movies_keys_to_remove:
-#         if k in data:
-#             data.pop(k)
+def get_director(id):
+    headers = {
+        "accept": "application/json",
+        "Authorization": f"Bearer {TMDB_API_KEY}",
+    }
+    url_credits = f"https://api.themoviedb.org/3/movie/{id}/credits?language=zh-CN"
+    try:
+        response = requests.get(url_credits, headers=headers, timeout=10)
+        if response.status_code == 200:
+            data_credits = response.json()
+            for d in data_credits.get("crew", []):
+                if d.get("job") == "Director":
+                    return d.get("name")
+        return "未知"
+    except Exception as e:
+        print(f"获取导演信息失败，电影ID {id}: {e}")
+        return "未知"
 
-#     url_credits = f"https://api.themoviedb.org/3/movie/{id}/credits?language=en-US"
-#     response = requests.get(url_credits, headers=headers)
-#     data_credits = response.json()
-#     if "cast" not in data_credits:
-#         top_actors = []
-#     else:
-#         top_actors = data_credits["cast"][0:2]
-#     actors_keys_to_remove = [
-#         "adult",
-#         "known_for_department",
-#         "original_name",
-#         "cast_id",
-#         "credit_id",
-#         "order",
-#         "profile_path",
-#     ]
 
-#     for t in top_actors:
-#         for k in actors_keys_to_remove:
-#             if k in t:
-#                 t.pop(k)
+def get_film(id):
+    url_movie = f"https://api.themoviedb.org/3/movie/{id}?language=zh-CN"
+    headers = {
+        "accept": "application/json",
+        "Authorization": f"Bearer {TMDB_API_KEY}",
+    }
+    try:
+        response = requests.get(url_movie, headers=headers, timeout=10)
+        if response.status_code != 200:
+            print(f"警告: 无法获取电影ID {id} 的数据。状态码: {response.status_code}")
+            return None
+        data = response.json()
+    except Exception as e:
+        print(f"获取电影数据时出错，ID {id}: {e}")
+        return None
 
-#     data["actors"] = top_actors
+    # 移除不需要的字段
+    movies_keys_to_remove = [
+        "backdrop_path",
+        "belongs_to_collection",
+        "homepage",
+        "poster_path",
+        "production_companies",
+        "production_countries",
+        "spoken_languages",
+        "status",
+        "tagline",
+        "video",
+    ]
+    for k in movies_keys_to_remove:
+        if k in data:
+            data.pop(k)
 
-#     embeddings = model.encode(
-#         data["overview"] if len(data["overview"]) > 0 else data["title"]
-#     )
-#     data["overview_embedding"] = embeddings.tolist()
-#     data["director"] = get_director(id)
-#     return data
+    url_credits = f"https://api.themoviedb.org/3/movie/{id}/credits?language=zh-CN"
+    try:
+        response = requests.get(url_credits, headers=headers, timeout=10)
+        if response.status_code == 200:
+            data_credits = response.json()
+        else:
+            data_credits = {}
+    except Exception as e:
+        print(f"获取演职员信息时出错，ID {id}: {e}")
+        data_credits = {}
+
+    if "cast" not in data_credits:
+        top_actors = []
+    else:
+        top_actors = data_credits["cast"][0:2]
+    
+    actors_keys_to_remove = [
+        "adult",
+        "known_for_department",
+        "original_name",
+        "cast_id",
+        "credit_id",
+        "order",
+        "profile_path",
+    ]
+
+    for t in top_actors:
+        for k in actors_keys_to_remove:
+            if k in t:
+                t.pop(k)
+
+    data["actors"] = top_actors
+
+    # 生成文本嵌入
+    overview_text = data.get("overview", "")
+    title_text = data.get("title", "")
+    text_to_encode = overview_text if len(overview_text) > 0 else title_text
+    
+    try:
+        embeddings = model.encode(text_to_encode)
+        data["overview_embedding"] = embeddings.tolist()
+    except Exception as e:
+        print(f"为电影ID {id} 编码文本时出错: {e}")
+        data["overview_embedding"] = []
+    
+    data["director"] = get_director(id)
+    return data
 
 
 # import tqdm
@@ -87,21 +127,29 @@
 # import json
 
 
-# def sample(ids, file_path):
-#     films = {}
-#     counter = 0
-#     for id in tqdm.tqdm(ids):
-#         id = int(id)
-#         film_data = get_film(id)
-#         if "overview" in film_data and film_data["overview"] != "":
-#             films[id] = film_data
-#         else:
-#             print(f"Film {id} has no overview")
-#         counter += 1
-#         if counter % 100 == 0:
-#             print(f"{counter} films sampled")
-#     with open(file_path, "w") as outfile:
-#         json.dump(films, outfile)
+def sample(ids, file_path):
+    films = {}
+    counter = 0
+    for id in tqdm(ids):
+        id = int(id)
+        try:
+            film_data = get_film(id)
+            if film_data and film_data.get("overview") and film_data["overview"] != "":
+                films[id] = film_data
+            else:
+                print(f"电影 {id} 没有简介信息")
+        except Exception as e:
+            print(f"处理电影ID {id} 时出错: {e}")
+        counter += 1
+        if counter % 100 == 0:
+            print(f"已处理 {counter} 部电影")
+        # 避免API请求过于频繁
+        time.sleep(0.1)
+    
+    print(f"\n处理完成！共获取 {len(films)} 部电影")
+    with open(file_path, "w", encoding="utf-8") as outfile:
+        json.dump(films, outfile, ensure_ascii=False, indent=2)
+    print(f"数据已保存到: {file_path}")
 
 
 # # # %%
@@ -224,198 +272,53 @@
 # # print(f"Found {len(df)} movies to process.")
 
 # # sample(df["tmdbId"].values, "./movielens_latest-small.json")
-# ==============================================================================
-#  全新、修复后的 tmdb_dowload_data.py
-#  请用此代码完全替换你本地的同名文件
-# ==============================================================================
-
-import requests
-import pandas as pd
-import json
-from dotenv import load_dotenv
-import os
-import time
-from sentence_transformers import SentenceTransformer
-from tqdm import tqdm
-
-# --- 1. 初始化和加载资源 ---
-
-# 加载 .env 文件中的环境变量 (TMDB_API_KEY)
-load_dotenv()
-
-# 检查 API Key 是否存在
-TMDB_API_KEY = os.getenv("TMDB_API_KEY")
-if not TMDB_API_KEY:
-    raise ValueError("TMDB_API_KEY not found in .env file. Please create a .env file with your key.")
-
-print("Loading SentenceTransformer model (this may take a moment)...")
-# 加载用于生成文本嵌入的模型
-model = SentenceTransformer("sentence-transformers/sentence-t5-base")
-print("Model loaded successfully.")
 
 
-# --- 2. 核心数据获取函数 (已修复，更健壮) ---
 
-def get_film_details(film_id: int, headers: dict) -> dict:
-    """
-    一个更健壮的函数，用于获取单个电影的详细信息。
-    """
-    # --- 获取电影基本信息 ---
-    url_movie = f"https://api.themoviedb.org/3/movie/{film_id}?language=en-US"
-    try:
-        response_movie = requests.get(url_movie, headers=headers, timeout=10)
-        # 如果请求失败 (例如 404 Not Found), 打印警告并返回 None
-        if response_movie.status_code != 200:
-            print(f"Warning: Failed to fetch movie data for ID {film_id}. Status: {response_movie.status_code}")
-            return None
-        data = response_movie.json()
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching movie data for ID {film_id}: {e}")
-        return None
-
-    # --- 获取演职员信息 ---
-    url_credits = f"https://api.themoviedb.org/3/movie/{film_id}/credits?language=en-US"
-    try:
-        response_credits = requests.get(url_credits, headers=headers, timeout=10)
-        if response_credits.status_code == 200:
-            data_credits = response_credits.json()
-        else:
-            data_credits = {} # 如果失败，创建一个空字典以避免后续错误
-    except requests.exceptions.RequestException as e:
-        print(f"Error fetching credits for ID {film_id}: {e}")
-        data_credits = {}
-
-    # --- 安全地提取和组织数据 ---
-
-    # 提取导演
-    director = "Unknown"
-    for crew_member in data_credits.get("crew", []):
-        if crew_member.get("job") == "Director":
-            director = crew_member.get("name", "Unknown")
-            break # 找到第一个导演就停止
-
-    # 提取前两名演员
-    top_actors = []
-    for actor in data_credits.get("cast", [])[:2]:
-        top_actors.append({
-            "gender": actor.get("gender"),
-            "id": actor.get("id"),
-            "name": actor.get("name"),
-            "popularity": actor.get("popularity"),
-            "character": actor.get("character"),
-        })
-        
-    # 确定用于编码的文本 (优先用简介，否则用标题)
-    overview_text = data.get("overview", "")
-    title_text = data.get("title", "Unknown Title")
-    text_to_encode = overview_text if overview_text else title_text
-
-    # 生成文本嵌入
-    try:
-        embeddings = model.encode(text_to_encode).tolist()
-    except Exception as e:
-        print(f"Error encoding text for film ID {film_id}: {e}")
-        embeddings = [] # 如果编码失败，给一个空列表
-
-    # 组装最终的电影数据字典
-    film_data = {
-        "id": data.get("id"),
-        "title": title_text,
-        "overview": overview_text,
-        "genres": data.get("genres", []),
-        "release_date": data.get("release_date", ""),
-        "vote_average": data.get("vote_average", 0),
-        "vote_count": data.get("vote_count", 0),
-        "popularity": data.get("popularity", 0),
-        "original_language": data.get("original_language", ""),
-        "runtime": data.get("runtime", 0),
-        "actors": top_actors,
-        "director": director,
-        "overview_embedding": embeddings,
-    }
-    
-    # 仅当电影有标题和ID时才认为是有效数据
-    if film_data["id"] and film_data["title"] != "Unknown Title":
-        return film_data
-    else:
-        print(f"Warning: Skipping film ID {film_id} due to missing essential data (ID or Title).")
-        return None
-
-# --- 3. 主下载逻辑 (支持断点续传) ---
-
-def download_all_movies(ids: list, output_path: str):
-    """
-    下载所有电影数据，并支持断点续传。
-    数据以 JSON Lines 格式保存，每行一个电影的 JSON 对象。
-    """
-    processed_ids = set()
-    
-    # 检查输出文件是否已存在，如果存在，则读取已处理的电影ID
-    if os.path.exists(output_path):
-        print(f"Output file '{output_path}' found. Resuming download.")
-        with open(output_path, "r", encoding='utf-8') as f:
-            for line in f:
-                try:
-                    # 每一行都是一个JSON对象
-                    processed_ids.add(json.loads(line)["id"])
-                except (json.JSONDecodeError, KeyError):
-                    # 如果行是空的或格式不正确，就忽略它
-                    pass
-        print(f"Found {len(processed_ids)} movies already processed. Skipping them.")
-
-    headers = {
-        "accept": "application/json",
-        "Authorization": f"Bearer {TMDB_API_KEY}",
-    }
-
-    # 以追加模式(a)打开文件，这样就不会覆盖掉已有内容
-    with open(output_path, "a", encoding='utf-8') as f:
-        # 使用tqdm创建进度条
-        pbar = tqdm(ids, desc="Downloading movie data")
-        for film_id in pbar:
-            film_id = int(film_id)
-            
-            # 如果这个ID已经处理过，就跳过
-            if film_id in processed_ids:
-                continue
-
-            try:
-                film_data = get_film_details(film_id, headers)
-                
-                # 如果get_film_details返回了有效数据，就写入文件
-                if film_data:
-                    # 写入一个 JSON 字符串，并加上换行符
-                    f.write(json.dumps(film_data) + "\n")
-                
-                # 短暂休息一下，避免过于频繁地请求API导致被封禁
-                time.sleep(0.1)
-
-            except Exception as e:
-                # 捕获任何其他可能的意外错误，打印并继续
-                print(f"An unexpected error occurred for id {film_id}: {e}")
-                time.sleep(5) # 如果发生未知错误，休息5秒再继续
-
-    print(f"\nDownload finished. Data saved to '{output_path}'.")
-
-
-# --- 4. 脚本执行入口 ---
+# 主程序执行
 if __name__ == "__main__":
+    print("=== TMDB电影数据下载器 ===")
+    print(f"使用API密钥: {TMDB_API_KEY[:20]}...")
+    
+    # 检查是否有links.csv文件
     links_file_path = "./ml-latest-small/links.csv"
-    output_json_path = "./movielens_latest-small.json"
-
-    print(f"Reading movie IDs from '{links_file_path}'...")
-    if not os.path.exists(links_file_path):
-        raise FileNotFoundError(f"Could not find '{links_file_path}'. Make sure you are in the correct directory.")
+    if os.path.exists(links_file_path):
+        print(f"找到links.csv文件，开始处理...")
+        df = pd.read_csv(links_file_path)
+        df = df.dropna(subset=["tmdbId"])
+        df["tmdbId"] = df["tmdbId"].astype(int)
+        movie_ids = df["tmdbId"].values
+        print(f"找到 {len(movie_ids)} 部电影需要处理")
         
-    df = pd.read_csv(links_file_path)
-    # 清理数据：删除没有 tmdbId 的行
-    df = df.dropna(subset=["tmdbId"])
-    # 确保 tmdbId 是整数类型
-    df["tmdbId"] = df["tmdbId"].astype(int)
+        # 下载电影数据
+        sample(movie_ids, "./movielens_latest-small.json")
+    else:
+        print("未找到links.csv文件，将下载热门电影数据...")
+        
+        # 如果没有links.csv，直接下载一些热门电影
+        headers = {
+            "accept": "application/json",
+            "Authorization": f"Bearer {TMDB_API_KEY}",
+        }
+        
+        # 获取热门电影列表
+        url_popular = "https://api.themoviedb.org/3/movie/popular?language=zh-CN&page=1"
+        try:
+            response = requests.get(url_popular, headers=headers, timeout=10)
+            if response.status_code == 200:
+                popular_data = response.json()
+                movies = popular_data.get("results", [])
+                
+                # 获取前50部热门电影的ID
+                popular_ids = [movie.get("id") for movie in movies[:50] if movie.get("id")]
+                print(f"获取到 {len(popular_ids)} 部热门电影")
+                
+                # 下载这些电影的数据
+                sample(popular_ids, "./popular_movies.json")
+            else:
+                print(f"获取热门电影列表失败，状态码: {response.status_code}")
+        except Exception as e:
+            print(f"获取热门电影列表时出错: {e}")
     
-    movie_ids_to_process = df["tmdbId"].values
-    
-    print(f"Found {len(movie_ids_to_process)} movies to process.")
-    
-    download_all_movies(movie_ids_to_process, output_json_path)
+    print("\n程序执行完成！")
 

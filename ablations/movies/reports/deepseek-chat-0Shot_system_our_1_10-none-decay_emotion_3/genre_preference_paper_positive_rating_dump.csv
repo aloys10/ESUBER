@@ -1,0 +1,641 @@
+item,user,user_name,item_name,LLM_rating,LLM_interaction_HTML,rating
+0,0,Emily Riga,The Roundup: No Way Out,8.0,,8.0
+1,0,Emily Riga,A Killer Romance,8.0,,8.0
+2,0,Emily Riga,Breakout,10.0,,10.0
+3,0,Emily Riga,Rev,8.0,,8.0
+4,0,Emily Riga,Fire Cloud Evil God 2: Eighteen Dragon Palms,10.0,,10.0
+5,0,Emily Riga,Devil's Fairground,8.0,,8.0
+6,0,Emily Riga,Space,8.0,,8.0
+7,0,Emily Riga,Daniel Craig vs James Bond,9.0,,9.0
+8,0,Emily Riga,Enemy Within,8.0,,8.0
+9,0,Emily Riga,S.W.A.T.: Under Siege,9.0,,9.0
+10,0,Emily Riga,Kill Switch,8.0,,8.0
+11,0,Emily Riga,Altitude,9.0,,9.0
+12,0,Emily Riga,The Fate of the Furious,10.0,,10.0
+13,0,Emily Riga,Hitman: Agent 47,8.0,,8.0
+14,0,Emily Riga,Absolute Zero,8.0,,8.0
+15,0,Emily Riga,Submarine 707 Revolution,9.0,,9.0
+16,0,Emily Riga,X-Men: The Last Stand,9.0,,9.0
+17,0,Emily Riga,The Day After Tomorrow,8.0,,8.0
+18,0,Emily Riga,The In-Laws,8.0,,8.0
+19,0,Emily Riga,Pearl Harbor,1.0,,1.0
+0,1,Ethan Mitchell,The Roundup: No Way Out,8.0,,8.0
+1,1,Ethan Mitchell,A Killer Romance,7.0,,7.0
+2,1,Ethan Mitchell,Breakout,9.0,,9.0
+3,1,Ethan Mitchell,Rev,8.0,,8.0
+4,1,Ethan Mitchell,Fire Cloud Evil God 2: Eighteen Dragon Palms,10.0,,10.0
+5,1,Ethan Mitchell,Devil's Fairground,8.0,,8.0
+6,1,Ethan Mitchell,Space,8.0,,8.0
+7,1,Ethan Mitchell,Daniel Craig vs James Bond,8.0,,8.0
+8,1,Ethan Mitchell,Enemy Within,8.0,,8.0
+9,1,Ethan Mitchell,S.W.A.T.: Under Siege,9.0,,9.0
+10,1,Ethan Mitchell,Kill Switch,8.0,,8.0
+11,1,Ethan Mitchell,Altitude,8.0,,8.0
+12,1,Ethan Mitchell,The Fate of the Furious,9.0,,9.0
+13,1,Ethan Mitchell,Hitman: Agent 47,8.0,,8.0
+14,1,Ethan Mitchell,Absolute Zero,8.0,,8.0
+15,1,Ethan Mitchell,Submarine 707 Revolution,9.0,,9.0
+16,1,Ethan Mitchell,X-Men: The Last Stand,8.0,,8.0
+17,1,Ethan Mitchell,The Day After Tomorrow,8.0,,8.0
+18,1,Ethan Mitchell,The In-Laws,7.0,,7.0
+19,1,Ethan Mitchell,Pearl Harbor,3.0,,3.0
+0,2,Oliva Turner ,The Roundup: No Way Out,9.0,,9.0
+1,2,Oliva Turner ,A Killer Romance,8.0,,8.0
+2,2,Oliva Turner ,Breakout,10.0,,10.0
+3,2,Oliva Turner ,Rev,8.0,,8.0
+4,2,Oliva Turner ,Fire Cloud Evil God 2: Eighteen Dragon Palms,10.0,,10.0
+5,2,Oliva Turner ,Devil's Fairground,8.0,,8.0
+6,2,Oliva Turner ,Space,8.0,,8.0
+7,2,Oliva Turner ,Daniel Craig vs James Bond,10.0,,10.0
+8,2,Oliva Turner ,Enemy Within,8.0,,8.0
+9,2,Oliva Turner ,S.W.A.T.: Under Siege,10.0,,10.0
+10,2,Oliva Turner ,Kill Switch,10.0,,10.0
+11,2,Oliva Turner ,Altitude,8.0,,8.0
+12,2,Oliva Turner ,The Fate of the Furious,10.0,,10.0
+13,2,Oliva Turner ,Hitman: Agent 47,8.0,,8.0
+14,2,Oliva Turner ,Absolute Zero,8.0,,8.0
+15,2,Oliva Turner ,Submarine 707 Revolution,8.0,,8.0
+16,2,Oliva Turner ,X-Men: The Last Stand,8.0,,8.0
+17,2,Oliva Turner ,The Day After Tomorrow,8.0,,8.0
+18,2,Oliva Turner ,The In-Laws,8.0,,8.0
+19,2,Oliva Turner ,Pearl Harbor,1.0,,1.0
+0,3,Marcus Roger,The Roundup: No Way Out,10.0,,10.0
+1,3,Marcus Roger,A Killer Romance,10.0,,10.0
+2,3,Marcus Roger,Breakout,10.0,,10.0
+3,3,Marcus Roger,Rev,10.0,,10.0
+4,3,Marcus Roger,Fire Cloud Evil God 2: Eighteen Dragon Palms,10.0,,10.0
+5,3,Marcus Roger,Devil's Fairground,10.0,,10.0
+6,3,Marcus Roger,Space,10.0,,10.0
+7,3,Marcus Roger,Daniel Craig vs James Bond,10.0,,10.0
+8,3,Marcus Roger,Enemy Within,10.0,,10.0
+9,3,Marcus Roger,S.W.A.T.: Under Siege,10.0,,10.0
+10,3,Marcus Roger,Kill Switch,10.0,,10.0
+11,3,Marcus Roger,Altitude,10.0,,10.0
+12,3,Marcus Roger,The Fate of the Furious,10.0,,10.0
+13,3,Marcus Roger,Hitman: Agent 47,10.0,,10.0
+14,3,Marcus Roger,Absolute Zero,10.0,,10.0
+15,3,Marcus Roger,Submarine 707 Revolution,10.0,,10.0
+16,3,Marcus Roger,X-Men: The Last Stand,10.0,,10.0
+17,3,Marcus Roger,The Day After Tomorrow,10.0,,10.0
+18,3,Marcus Roger,The In-Laws,10.0,,10.0
+19,3,Marcus Roger,Pearl Harbor,5.0,,5.0
+0,0,Lily White,"Lord, I Believe",8.0,,8.0
+1,0,Lily White,Shrek,10.0,,10.0
+2,0,Lily White,Early Bloomer,10.0,,10.0
+3,0,Lily White,Princess Stories Volume Two: Tales of Friendship,10.0,,10.0
+4,0,Lily White,Dora the Explorer: Undercover Dora,9.0,,9.0
+5,0,Lily White,The Garden of Sinners: The Hollow Shrine,9.0,,9.0
+6,0,Lily White,Space Chimps 2: Zartog Strikes Back,9.0,,9.0
+7,0,Lily White,Kowarekake no Orgel,9.0,,9.0
+8,0,Lily White,Chelsea Manning Had Secrets,8.0,,8.0
+9,0,Lily White,Epic,9.0,,9.0
+10,0,Lily White,Exploring New Horizons,8.0,,8.0
+11,0,Lily White,Prologue,8.0,,8.0
+12,0,Lily White,The Motor City Slice,9.0,,9.0
+13,0,Lily White,Parralel,10.0,,10.0
+14,0,Lily White,Zoo Wars 2,9.0,,9.0
+15,0,Lily White,Scoob!,9.0,,9.0
+16,0,Lily White,The Academy of Magic,10.0,,10.0
+17,0,Lily White,Armstrong,10.0,,10.0
+18,0,Lily White,Spider-Man: Across the Spider-Verse,10.0,,10.0
+19,0,Lily White,I Know You're Afraid Too,9.0,,9.0
+0,1,Oliver Fitzgerald,"Lord, I Believe",10.0,,10.0
+1,1,Oliver Fitzgerald,Shrek,9.0,,9.0
+2,1,Oliver Fitzgerald,Early Bloomer,10.0,,10.0
+3,1,Oliver Fitzgerald,Princess Stories Volume Two: Tales of Friendship,9.0,,9.0
+4,1,Oliver Fitzgerald,Dora the Explorer: Undercover Dora,8.0,,8.0
+5,1,Oliver Fitzgerald,The Garden of Sinners: The Hollow Shrine,9.0,,9.0
+6,1,Oliver Fitzgerald,Space Chimps 2: Zartog Strikes Back,8.0,,8.0
+7,1,Oliver Fitzgerald,Kowarekake no Orgel,9.0,,9.0
+8,1,Oliver Fitzgerald,Chelsea Manning Had Secrets,10.0,,10.0
+9,1,Oliver Fitzgerald,Epic,9.0,,9.0
+10,1,Oliver Fitzgerald,Exploring New Horizons,9.0,,9.0
+11,1,Oliver Fitzgerald,Prologue,9.0,,9.0
+12,1,Oliver Fitzgerald,The Motor City Slice,10.0,,10.0
+13,1,Oliver Fitzgerald,Parralel,10.0,,10.0
+14,1,Oliver Fitzgerald,Zoo Wars 2,10.0,,10.0
+15,1,Oliver Fitzgerald,Scoob!,8.0,,8.0
+16,1,Oliver Fitzgerald,The Academy of Magic,9.0,,9.0
+17,1,Oliver Fitzgerald,Armstrong,9.0,,9.0
+18,1,Oliver Fitzgerald,Spider-Man: Across the Spider-Verse,10.0,,10.0
+19,1,Oliver Fitzgerald,I Know You're Afraid Too,10.0,,10.0
+0,2,Sophie Jenkins,"Lord, I Believe",10.0,,10.0
+1,2,Sophie Jenkins,Shrek,10.0,,10.0
+2,2,Sophie Jenkins,Early Bloomer,10.0,,10.0
+3,2,Sophie Jenkins,Princess Stories Volume Two: Tales of Friendship,10.0,,10.0
+4,2,Sophie Jenkins,Dora the Explorer: Undercover Dora,10.0,,10.0
+5,2,Sophie Jenkins,The Garden of Sinners: The Hollow Shrine,10.0,,10.0
+6,2,Sophie Jenkins,Space Chimps 2: Zartog Strikes Back,10.0,,10.0
+7,2,Sophie Jenkins,Kowarekake no Orgel,10.0,,10.0
+8,2,Sophie Jenkins,Chelsea Manning Had Secrets,8.0,,8.0
+9,2,Sophie Jenkins,Epic,10.0,,10.0
+10,2,Sophie Jenkins,Exploring New Horizons,8.0,,8.0
+11,2,Sophie Jenkins,Prologue,8.0,,8.0
+12,2,Sophie Jenkins,The Motor City Slice,10.0,,10.0
+13,2,Sophie Jenkins,Parralel,10.0,,10.0
+14,2,Sophie Jenkins,Zoo Wars 2,10.0,,10.0
+15,2,Sophie Jenkins,Scoob!,10.0,,10.0
+16,2,Sophie Jenkins,The Academy of Magic,10.0,,10.0
+17,2,Sophie Jenkins,Armstrong,10.0,,10.0
+18,2,Sophie Jenkins,Spider-Man: Across the Spider-Verse,10.0,,10.0
+19,2,Sophie Jenkins,I Know You're Afraid Too,10.0,,10.0
+0,3,Max Sanchez,"Lord, I Believe",8.0,,8.0
+1,3,Max Sanchez,Shrek,10.0,,10.0
+2,3,Max Sanchez,Early Bloomer,10.0,,10.0
+3,3,Max Sanchez,Princess Stories Volume Two: Tales of Friendship,10.0,,10.0
+4,3,Max Sanchez,Dora the Explorer: Undercover Dora,10.0,,10.0
+5,3,Max Sanchez,The Garden of Sinners: The Hollow Shrine,10.0,,10.0
+6,3,Max Sanchez,Space Chimps 2: Zartog Strikes Back,10.0,,10.0
+7,3,Max Sanchez,Kowarekake no Orgel,10.0,,10.0
+8,3,Max Sanchez,Chelsea Manning Had Secrets,8.0,,8.0
+9,3,Max Sanchez,Epic,10.0,,10.0
+10,3,Max Sanchez,Exploring New Horizons,8.0,,8.0
+11,3,Max Sanchez,Prologue,8.0,,8.0
+12,3,Max Sanchez,The Motor City Slice,10.0,,10.0
+13,3,Max Sanchez,Parralel,10.0,,10.0
+14,3,Max Sanchez,Zoo Wars 2,10.0,,10.0
+15,3,Max Sanchez,Scoob!,10.0,,10.0
+16,3,Max Sanchez,The Academy of Magic,10.0,,10.0
+17,3,Max Sanchez,Armstrong,10.0,,10.0
+18,3,Max Sanchez,Spider-Man: Across the Spider-Verse,10.0,,10.0
+19,3,Max Sanchez,I Know You're Afraid Too,10.0,,10.0
+0,0,Sarah Gonzalez,L'estate del mio primo bacio,8.0,,8.0
+1,0,Sarah Gonzalez,The Break-Up,8.0,,8.0
+2,0,Sarah Gonzalez,The Deviants,9.0,,9.0
+3,0,Sarah Gonzalez,I Was a Teenage Faust,8.0,,8.0
+4,0,Sarah Gonzalez,Paper Soldiers,8.0,,8.0
+5,0,Sarah Gonzalez,Chris Porter: Screaming from the Cosmos,9.0,,9.0
+6,0,Sarah Gonzalez,The Good Soldier Shweik,8.0,,8.0
+7,0,Sarah Gonzalez,"Tom, Dick and Harriet",8.0,,8.0
+8,0,Sarah Gonzalez,The Christmas Consultant,8.0,,8.0
+9,0,Sarah Gonzalez,A Dogwalker's Christmas Tale,9.0,,9.0
+10,0,Sarah Gonzalez,Revolting Rhymes,8.0,,8.0
+11,0,Sarah Gonzalez,Cooking with Love,9.0,,9.0
+12,0,Sarah Gonzalez,Venus im vierten Haus,8.0,,8.0
+13,0,Sarah Gonzalez,Mary's Land,8.0,,8.0
+14,0,Sarah Gonzalez,Critters Attack!,3.0,,3.0
+15,0,Sarah Gonzalez,Agent Toby Barks,9.0,,9.0
+16,0,Sarah Gonzalez,Book of Laughter,8.0,,8.0
+17,0,Sarah Gonzalez,Goodbye Herman,10.0,,10.0
+18,0,Sarah Gonzalez,Rally Road Racers,9.0,,9.0
+19,0,Sarah Gonzalez,BlackBerry,7.0,,7.0
+0,1,Alex Wallace,L'estate del mio primo bacio,6.0,,6.0
+1,1,Alex Wallace,The Break-Up,8.0,,8.0
+2,1,Alex Wallace,The Deviants,8.0,,8.0
+3,1,Alex Wallace,I Was a Teenage Faust,7.0,,7.0
+4,1,Alex Wallace,Paper Soldiers,7.0,,7.0
+5,1,Alex Wallace,Chris Porter: Screaming from the Cosmos,8.0,,8.0
+6,1,Alex Wallace,The Good Soldier Shweik,9.0,,9.0
+7,1,Alex Wallace,"Tom, Dick and Harriet",6.0,,6.0
+8,1,Alex Wallace,The Christmas Consultant,4.0,,4.0
+9,1,Alex Wallace,A Dogwalker's Christmas Tale,4.0,,4.0
+10,1,Alex Wallace,Revolting Rhymes,8.0,,8.0
+11,1,Alex Wallace,Cooking with Love,3.0,,3.0
+12,1,Alex Wallace,Venus im vierten Haus,7.0,,7.0
+13,1,Alex Wallace,Mary's Land,7.0,,7.0
+14,1,Alex Wallace,Critters Attack!,3.0,,3.0
+15,1,Alex Wallace,Agent Toby Barks,7.0,,7.0
+16,1,Alex Wallace,Book of Laughter,8.0,,8.0
+17,1,Alex Wallace,Goodbye Herman,10.0,,10.0
+18,1,Alex Wallace,Rally Road Racers,7.0,,7.0
+19,1,Alex Wallace,BlackBerry,7.0,,7.0
+0,2,Tom Lawson,L'estate del mio primo bacio,8.0,,8.0
+1,2,Tom Lawson,The Break-Up,9.0,,9.0
+2,2,Tom Lawson,The Deviants,9.0,,9.0
+3,2,Tom Lawson,I Was a Teenage Faust,8.0,,8.0
+4,2,Tom Lawson,Paper Soldiers,8.0,,8.0
+5,2,Tom Lawson,Chris Porter: Screaming from the Cosmos,9.0,,9.0
+6,2,Tom Lawson,The Good Soldier Shweik,9.0,,9.0
+7,2,Tom Lawson,"Tom, Dick and Harriet",9.0,,9.0
+8,2,Tom Lawson,The Christmas Consultant,9.0,,9.0
+9,2,Tom Lawson,A Dogwalker's Christmas Tale,9.0,,9.0
+10,2,Tom Lawson,Revolting Rhymes,9.0,,9.0
+11,2,Tom Lawson,Cooking with Love,9.0,,9.0
+12,2,Tom Lawson,Venus im vierten Haus,9.0,,9.0
+13,2,Tom Lawson,Mary's Land,8.0,,8.0
+14,2,Tom Lawson,Critters Attack!,3.0,,3.0
+15,2,Tom Lawson,Agent Toby Barks,9.0,,9.0
+16,2,Tom Lawson,Book of Laughter,8.0,,8.0
+17,2,Tom Lawson,Goodbye Herman,10.0,,10.0
+18,2,Tom Lawson,Rally Road Racers,9.0,,9.0
+19,2,Tom Lawson,BlackBerry,7.0,,7.0
+0,3,Emma Parker,L'estate del mio primo bacio,8.0,,8.0
+1,3,Emma Parker,The Break-Up,8.0,,8.0
+2,3,Emma Parker,The Deviants,9.0,,9.0
+3,3,Emma Parker,I Was a Teenage Faust,8.0,,8.0
+4,3,Emma Parker,Paper Soldiers,8.0,,8.0
+5,3,Emma Parker,Chris Porter: Screaming from the Cosmos,9.0,,9.0
+6,3,Emma Parker,The Good Soldier Shweik,9.0,,9.0
+7,3,Emma Parker,"Tom, Dick and Harriet",8.0,,8.0
+8,3,Emma Parker,The Christmas Consultant,8.0,,8.0
+9,3,Emma Parker,A Dogwalker's Christmas Tale,9.0,,9.0
+10,3,Emma Parker,Revolting Rhymes,9.0,,9.0
+11,3,Emma Parker,Cooking with Love,9.0,,9.0
+12,3,Emma Parker,Venus im vierten Haus,8.0,,8.0
+13,3,Emma Parker,Mary's Land,8.0,,8.0
+14,3,Emma Parker,Critters Attack!,3.0,,3.0
+15,3,Emma Parker,Agent Toby Barks,9.0,,9.0
+16,3,Emma Parker,Book of Laughter,9.0,,9.0
+17,3,Emma Parker,Goodbye Herman,10.0,,10.0
+18,3,Emma Parker,Rally Road Racers,9.0,,9.0
+19,3,Emma Parker,BlackBerry,6.0,,6.0
+0,0,Rachel Taylor,Ponts de Bordeaux: Technologie de haut vol,9.0,,9.0
+1,0,Rachel Taylor,A Real Life Underdog Story,9.0,,9.0
+2,0,Rachel Taylor,Hijacked: Flight 73,9.0,,9.0
+3,0,Rachel Taylor,Brainwashed: Sex-Camera-Power,10.0,,10.0
+4,0,Rachel Taylor,The Last Mountain,9.0,,9.0
+5,0,Rachel Taylor,Wir Kinder vom Bahnhof Zoo – Lost Generation,9.0,,9.0
+6,0,Rachel Taylor,Women of the Third Reich,9.0,,9.0
+7,0,Rachel Taylor,Out,9.0,,9.0
+8,0,Rachel Taylor,Lenin and the Other Story of the Russian Revolution,9.0,,9.0
+9,0,Rachel Taylor,Jimi Hendrix: Hear My Train a Comin',9.0,,9.0
+10,0,Rachel Taylor,Freedom or Death!,9.0,,9.0
+11,0,Rachel Taylor,A Better Life,10.0,,10.0
+12,0,Rachel Taylor,Speechless: The Polar Realm,9.0,,9.0
+13,0,Rachel Taylor,Voyager: To the Final Frontier,10.0,,10.0
+14,0,Rachel Taylor,Buying Sex,9.0,,9.0
+15,0,Rachel Taylor,Urbanites - You Can't Rewind The Years,10.0,,10.0
+16,0,Rachel Taylor,Berliner,10.0,,10.0
+17,0,Rachel Taylor,September,9.0,,9.0
+18,0,Rachel Taylor,Charlie Chaplin: His Life & Work,9.0,,9.0
+19,0,Rachel Taylor,Hitler's Britain,9.0,,9.0
+0,1,Michael Young,Ponts de Bordeaux: Technologie de haut vol,9.0,,9.0
+1,1,Michael Young,A Real Life Underdog Story,9.0,,9.0
+2,1,Michael Young,Hijacked: Flight 73,9.0,,9.0
+3,1,Michael Young,Brainwashed: Sex-Camera-Power,9.0,,9.0
+4,1,Michael Young,The Last Mountain,9.0,,9.0
+5,1,Michael Young,Wir Kinder vom Bahnhof Zoo – Lost Generation,9.0,,9.0
+6,1,Michael Young,Women of the Third Reich,9.0,,9.0
+7,1,Michael Young,Out,9.0,,9.0
+8,1,Michael Young,Lenin and the Other Story of the Russian Revolution,9.0,,9.0
+9,1,Michael Young,Jimi Hendrix: Hear My Train a Comin',9.0,,9.0
+10,1,Michael Young,Freedom or Death!,9.0,,9.0
+11,1,Michael Young,A Better Life,10.0,,10.0
+12,1,Michael Young,Speechless: The Polar Realm,9.0,,9.0
+13,1,Michael Young,Voyager: To the Final Frontier,9.0,,9.0
+14,1,Michael Young,Buying Sex,9.0,,9.0
+15,1,Michael Young,Urbanites - You Can't Rewind The Years,10.0,,10.0
+16,1,Michael Young,Berliner,10.0,,10.0
+17,1,Michael Young,September,9.0,,9.0
+18,1,Michael Young,Charlie Chaplin: His Life & Work,9.0,,9.0
+19,1,Michael Young,Hitler's Britain,9.0,,9.0
+0,2,Laura Jenkins,Ponts de Bordeaux: Technologie de haut vol,9.0,,9.0
+1,2,Laura Jenkins,A Real Life Underdog Story,9.0,,9.0
+2,2,Laura Jenkins,Hijacked: Flight 73,9.0,,9.0
+3,2,Laura Jenkins,Brainwashed: Sex-Camera-Power,10.0,,10.0
+4,2,Laura Jenkins,The Last Mountain,9.0,,9.0
+5,2,Laura Jenkins,Wir Kinder vom Bahnhof Zoo – Lost Generation,10.0,,10.0
+6,2,Laura Jenkins,Women of the Third Reich,9.0,,9.0
+7,2,Laura Jenkins,Out,10.0,,10.0
+8,2,Laura Jenkins,Lenin and the Other Story of the Russian Revolution,9.0,,9.0
+9,2,Laura Jenkins,Jimi Hendrix: Hear My Train a Comin',10.0,,10.0
+10,2,Laura Jenkins,Freedom or Death!,10.0,,10.0
+11,2,Laura Jenkins,A Better Life,10.0,,10.0
+12,2,Laura Jenkins,Speechless: The Polar Realm,9.0,,9.0
+13,2,Laura Jenkins,Voyager: To the Final Frontier,10.0,,10.0
+14,2,Laura Jenkins,Buying Sex,9.0,,9.0
+15,2,Laura Jenkins,Urbanites - You Can't Rewind The Years,10.0,,10.0
+16,2,Laura Jenkins,Berliner,10.0,,10.0
+17,2,Laura Jenkins,September,9.0,,9.0
+18,2,Laura Jenkins,Charlie Chaplin: His Life & Work,9.0,,9.0
+19,2,Laura Jenkins,Hitler's Britain,9.0,,9.0
+0,3,David Giu,Ponts de Bordeaux: Technologie de haut vol,9.0,,9.0
+1,3,David Giu,A Real Life Underdog Story,8.0,,8.0
+2,3,David Giu,Hijacked: Flight 73,9.0,,9.0
+3,3,David Giu,Brainwashed: Sex-Camera-Power,10.0,,10.0
+4,3,David Giu,The Last Mountain,9.0,,9.0
+5,3,David Giu,Wir Kinder vom Bahnhof Zoo – Lost Generation,8.0,,8.0
+6,3,David Giu,Women of the Third Reich,9.0,,9.0
+7,3,David Giu,Out,9.0,,9.0
+8,3,David Giu,Lenin and the Other Story of the Russian Revolution,9.0,,9.0
+9,3,David Giu,Jimi Hendrix: Hear My Train a Comin',9.0,,9.0
+10,3,David Giu,Freedom or Death!,9.0,,9.0
+11,3,David Giu,A Better Life,10.0,,10.0
+12,3,David Giu,Speechless: The Polar Realm,9.0,,9.0
+13,3,David Giu,Voyager: To the Final Frontier,10.0,,10.0
+14,3,David Giu,Buying Sex,9.0,,9.0
+15,3,David Giu,Urbanites - You Can't Rewind The Years,8.0,,8.0
+16,3,David Giu,Berliner,10.0,,10.0
+17,3,David Giu,September,9.0,,9.0
+18,3,David Giu,Charlie Chaplin: His Life & Work,9.0,,9.0
+19,3,David Giu,Hitler's Britain,9.0,,9.0
+0,0,Emily Griffiths,The Little Mermaid,9.0,,9.0
+1,0,Emily Griffiths,The Final Say,3.0,,3.0
+2,0,Emily Griffiths,"Cases of Teens: The Nerd, the Brute and the Rocker",9.0,,9.0
+3,0,Emily Griffiths,Rally Road Racers,9.0,,9.0
+4,0,Emily Griffiths,Crater,8.0,,8.0
+5,0,Emily Griffiths,Heaven Under The Sky,9.0,,9.0
+6,0,Emily Griffiths,Detective Bruno,9.0,,9.0
+7,0,Emily Griffiths,Sonic Drone Home,9.0,,9.0
+8,0,Emily Griffiths,Sneakerella,9.0,,9.0
+9,0,Emily Griffiths,The Snail and the Whale,10.0,,10.0
+10,0,Emily Griffiths,Poor Rich Family,9.0,,9.0
+11,0,Emily Griffiths,Blurt!,9.0,,9.0
+12,0,Emily Griffiths,Luis and the Aliens,9.0,,9.0
+13,0,Emily Griffiths,Trek: The Movie,8.0,,8.0
+14,0,Emily Griffiths,Thomas & Friends: The Great Race,9.0,,9.0
+15,0,Emily Griffiths,Bling,9.0,,9.0
+16,0,Emily Griffiths,Tiny Giants 3D,9.0,,9.0
+17,0,Emily Griffiths,Trennung auf Italienisch,9.0,,9.0
+18,0,Emily Griffiths,Ta Ra Rum Pum,9.0,,9.0
+19,0,Emily Griffiths,Just My Luck,8.0,,8.0
+0,1,Ethan Hayes,The Little Mermaid,9.0,,9.0
+1,1,Ethan Hayes,The Final Say,9.0,,9.0
+2,1,Ethan Hayes,"Cases of Teens: The Nerd, the Brute and the Rocker",8.0,,8.0
+3,1,Ethan Hayes,Rally Road Racers,9.0,,9.0
+4,1,Ethan Hayes,Crater,8.0,,8.0
+5,1,Ethan Hayes,Heaven Under The Sky,9.0,,9.0
+6,1,Ethan Hayes,Detective Bruno,9.0,,9.0
+7,1,Ethan Hayes,Sonic Drone Home,8.0,,8.0
+8,1,Ethan Hayes,Sneakerella,9.0,,9.0
+9,1,Ethan Hayes,The Snail and the Whale,9.0,,9.0
+10,1,Ethan Hayes,Poor Rich Family,9.0,,9.0
+11,1,Ethan Hayes,Blurt!,9.0,,9.0
+12,1,Ethan Hayes,Luis and the Aliens,9.0,,9.0
+13,1,Ethan Hayes,Trek: The Movie,9.0,,9.0
+14,1,Ethan Hayes,Thomas & Friends: The Great Race,9.0,,9.0
+15,1,Ethan Hayes,Bling,9.0,,9.0
+16,1,Ethan Hayes,Tiny Giants 3D,9.0,,9.0
+17,1,Ethan Hayes,Trennung auf Italienisch,9.0,,9.0
+18,1,Ethan Hayes,Ta Ra Rum Pum,9.0,,9.0
+19,1,Ethan Hayes,Just My Luck,8.0,,8.0
+0,2,Olivia Ingram,The Little Mermaid,9.0,,9.0
+1,2,Olivia Ingram,The Final Say,7.0,,7.0
+2,2,Olivia Ingram,"Cases of Teens: The Nerd, the Brute and the Rocker",9.0,,9.0
+3,2,Olivia Ingram,Rally Road Racers,9.0,,9.0
+4,2,Olivia Ingram,Crater,8.0,,8.0
+5,2,Olivia Ingram,Heaven Under The Sky,9.0,,9.0
+6,2,Olivia Ingram,Detective Bruno,9.0,,9.0
+7,2,Olivia Ingram,Sonic Drone Home,9.0,,9.0
+8,2,Olivia Ingram,Sneakerella,9.0,,9.0
+9,2,Olivia Ingram,The Snail and the Whale,10.0,,10.0
+10,2,Olivia Ingram,Poor Rich Family,9.0,,9.0
+11,2,Olivia Ingram,Blurt!,9.0,,9.0
+12,2,Olivia Ingram,Luis and the Aliens,9.0,,9.0
+13,2,Olivia Ingram,Trek: The Movie,9.0,,9.0
+14,2,Olivia Ingram,Thomas & Friends: The Great Race,9.0,,9.0
+15,2,Olivia Ingram,Bling,9.0,,9.0
+16,2,Olivia Ingram,Tiny Giants 3D,9.0,,9.0
+17,2,Olivia Ingram,Trennung auf Italienisch,9.0,,9.0
+18,2,Olivia Ingram,Ta Ra Rum Pum,9.0,,9.0
+19,2,Olivia Ingram,Just My Luck,9.0,,9.0
+0,3,Oliver v,The Little Mermaid,9.0,,9.0
+1,3,Oliver v,The Final Say,7.0,,7.0
+2,3,Oliver v,"Cases of Teens: The Nerd, the Brute and the Rocker",9.0,,9.0
+3,3,Oliver v,Rally Road Racers,3.0,,3.0
+4,3,Oliver v,Crater,5.0,,5.0
+5,3,Oliver v,Heaven Under The Sky,9.0,,9.0
+6,3,Oliver v,Detective Bruno,9.0,,9.0
+7,3,Oliver v,Sonic Drone Home,8.0,,8.0
+8,3,Oliver v,Sneakerella,9.0,,9.0
+9,3,Oliver v,The Snail and the Whale,9.0,,9.0
+10,3,Oliver v,Poor Rich Family,9.0,,9.0
+11,3,Oliver v,Blurt!,8.0,,8.0
+12,3,Oliver v,Luis and the Aliens,9.0,,9.0
+13,3,Oliver v,Trek: The Movie,9.0,,9.0
+14,3,Oliver v,Thomas & Friends: The Great Race,9.0,,9.0
+15,3,Oliver v,Bling,9.0,,9.0
+16,3,Oliver v,Tiny Giants 3D,9.0,,9.0
+17,3,Oliver v,Trennung auf Italienisch,8.0,,8.0
+18,3,Oliver v,Ta Ra Rum Pum,9.0,,9.0
+19,3,Oliver v,Just My Luck,8.0,,8.0
+0,0,Emily Peterson,Futari wa Precure: Max Heart Movie,9.0,,9.0
+1,0,Emily Peterson,Pokémon 3D Adventure: Find Mew!,9.0,,9.0
+2,0,Emily Peterson,Spider-Man 3,8.0,,8.0
+3,0,Emily Peterson,The Invisible,7.0,,7.0
+4,0,Emily Peterson,Sweet Rain: Accuracy of Death,6.0,,6.0
+5,0,Emily Peterson,The Other Side of the Tracks,7.0,,7.0
+6,0,Emily Peterson,Duyung,8.0,,8.0
+7,0,Emily Peterson,Skellig,8.0,,8.0
+8,0,Emily Peterson,Jaane Kahan Se Aayi Hai,7.0,,7.0
+9,0,Emily Peterson,SPEC: Heaven,6.0,,6.0
+10,0,Emily Peterson,Survivor,3.0,,3.0
+11,0,Emily Peterson,Iceman,6.0,,6.0
+12,0,Emily Peterson,Arthur & Merlin,9.0,,9.0
+13,0,Emily Peterson,The Age of Adaline,7.0,,7.0
+14,0,Emily Peterson,Zombies Have Fallen,3.0,,3.0
+15,0,Emily Peterson,Super Monsters Furever Friends,8.0,,8.0
+16,0,Emily Peterson,Bloodsuckers,3.0,,3.0
+17,0,Emily Peterson,Remain In Twilight,5.0,,5.0
+18,0,Emily Peterson,"Justice League x RWBY: Super Heroes & Huntsmen, Part One",9.0,,9.0
+19,0,Emily Peterson,Knights of the Zodiac,9.0,,9.0
+0,1,Ethan Simmons,Futari wa Precure: Max Heart Movie,9.0,,9.0
+1,1,Ethan Simmons,Pokémon 3D Adventure: Find Mew!,8.0,,8.0
+2,1,Ethan Simmons,Spider-Man 3,8.0,,8.0
+3,1,Ethan Simmons,The Invisible,7.0,,7.0
+4,1,Ethan Simmons,Sweet Rain: Accuracy of Death,7.0,,7.0
+5,1,Ethan Simmons,The Other Side of the Tracks,7.0,,7.0
+6,1,Ethan Simmons,Duyung,7.0,,7.0
+7,1,Ethan Simmons,Skellig,8.0,,8.0
+8,1,Ethan Simmons,Jaane Kahan Se Aayi Hai,6.0,,6.0
+9,1,Ethan Simmons,SPEC: Heaven,5.0,,5.0
+10,1,Ethan Simmons,Survivor,7.0,,7.0
+11,1,Ethan Simmons,Iceman,6.0,,6.0
+12,1,Ethan Simmons,Arthur & Merlin,9.0,,9.0
+13,1,Ethan Simmons,The Age of Adaline,7.0,,7.0
+14,1,Ethan Simmons,Zombies Have Fallen,3.0,,3.0
+15,1,Ethan Simmons,Super Monsters Furever Friends,7.0,,7.0
+16,1,Ethan Simmons,Bloodsuckers,4.0,,4.0
+17,1,Ethan Simmons,Remain In Twilight,5.0,,5.0
+18,1,Ethan Simmons,"Justice League x RWBY: Super Heroes & Huntsmen, Part One",9.0,,9.0
+19,1,Ethan Simmons,Knights of the Zodiac,9.0,,9.0
+0,2,Olivia Nelson,Futari wa Precure: Max Heart Movie,9.0,,9.0
+1,2,Olivia Nelson,Pokémon 3D Adventure: Find Mew!,9.0,,9.0
+2,2,Olivia Nelson,Spider-Man 3,7.0,,7.0
+3,2,Olivia Nelson,The Invisible,7.0,,7.0
+4,2,Olivia Nelson,Sweet Rain: Accuracy of Death,7.0,,7.0
+5,2,Olivia Nelson,The Other Side of the Tracks,3.0,,3.0
+6,2,Olivia Nelson,Duyung,8.0,,8.0
+7,2,Olivia Nelson,Skellig,9.0,,9.0
+8,2,Olivia Nelson,Jaane Kahan Se Aayi Hai,8.0,,8.0
+9,2,Olivia Nelson,SPEC: Heaven,4.0,,4.0
+10,2,Olivia Nelson,Survivor,3.0,,3.0
+11,2,Olivia Nelson,Iceman,6.0,,6.0
+12,2,Olivia Nelson,Arthur & Merlin,9.0,,9.0
+13,2,Olivia Nelson,The Age of Adaline,7.0,,7.0
+14,2,Olivia Nelson,Zombies Have Fallen,3.0,,3.0
+15,2,Olivia Nelson,Super Monsters Furever Friends,8.0,,8.0
+16,2,Olivia Nelson,Bloodsuckers,3.0,,3.0
+17,2,Olivia Nelson,Remain In Twilight,6.0,,6.0
+18,2,Olivia Nelson,"Justice League x RWBY: Super Heroes & Huntsmen, Part One",9.0,,9.0
+19,2,Olivia Nelson,Knights of the Zodiac,9.0,,9.0
+0,3,Liam Grayson,Futari wa Precure: Max Heart Movie,8.0,,8.0
+1,3,Liam Grayson,Pokémon 3D Adventure: Find Mew!,8.0,,8.0
+2,3,Liam Grayson,Spider-Man 3,7.0,,7.0
+3,3,Liam Grayson,The Invisible,7.0,,7.0
+4,3,Liam Grayson,Sweet Rain: Accuracy of Death,5.0,,5.0
+5,3,Liam Grayson,The Other Side of the Tracks,4.0,,4.0
+6,3,Liam Grayson,Duyung,8.0,,8.0
+7,3,Liam Grayson,Skellig,7.0,,7.0
+8,3,Liam Grayson,Jaane Kahan Se Aayi Hai,6.0,,6.0
+9,3,Liam Grayson,SPEC: Heaven,3.0,,3.0
+10,3,Liam Grayson,Survivor,4.0,,4.0
+11,3,Liam Grayson,Iceman,7.0,,7.0
+12,3,Liam Grayson,Arthur & Merlin,9.0,,9.0
+13,3,Liam Grayson,The Age of Adaline,5.0,,5.0
+14,3,Liam Grayson,Zombies Have Fallen,3.0,,3.0
+15,3,Liam Grayson,Super Monsters Furever Friends,3.0,,3.0
+16,3,Liam Grayson,Bloodsuckers,3.0,,3.0
+17,3,Liam Grayson,Remain In Twilight,4.0,,4.0
+18,3,Liam Grayson,"Justice League x RWBY: Super Heroes & Huntsmen, Part One",9.0,,9.0
+19,3,Liam Grayson,Knights of the Zodiac,8.0,,8.0
+0,0,Sarah Bailey,The Greenskeeper,9.0,,9.0
+1,0,Sarah Bailey,Vulgar,8.0,,8.0
+2,0,Sarah Bailey,The Triangle,8.0,,8.0
+3,0,Sarah Bailey,Rise: Blood Hunter,9.0,,9.0
+4,0,Sarah Bailey,Wicked Lake,9.0,,9.0
+5,0,Sarah Bailey,Dream Home,9.0,,9.0
+6,0,Sarah Bailey,Ingression,9.0,,9.0
+7,0,Sarah Bailey,Legion of the Dead,9.0,,9.0
+8,0,Sarah Bailey,2-Headed Shark Attack,8.0,,8.0
+9,0,Sarah Bailey,Parasyte: Part 2,9.0,,9.0
+10,0,Sarah Bailey,Swamp Freak,9.0,,9.0
+11,0,Sarah Bailey,The Basement,9.0,,9.0
+12,0,Sarah Bailey,The Factory,10.0,,10.0
+13,0,Sarah Bailey,Zombie Fighters,9.0,,9.0
+14,0,Sarah Bailey,Edgar Allen Poe's Ligeia,10.0,,10.0
+15,0,Sarah Bailey,We Summon the Darkness,9.0,,9.0
+16,0,Sarah Bailey,Spookiz: The Movie,6.0,,6.0
+17,0,Sarah Bailey,The Huntress: Rune of the Dead,9.0,,9.0
+18,0,Sarah Bailey,The Beta Test,8.0,,8.0
+19,0,Sarah Bailey,Undeaducated,9.0,,9.0
+0,1,James Clarke,The Greenskeeper,8.0,,8.0
+1,1,James Clarke,Vulgar,6.0,,6.0
+2,1,James Clarke,The Triangle,7.0,,7.0
+3,1,James Clarke,Rise: Blood Hunter,8.0,,8.0
+4,1,James Clarke,Wicked Lake,8.0,,8.0
+5,1,James Clarke,Dream Home,8.0,,8.0
+6,1,James Clarke,Ingression,9.0,,9.0
+7,1,James Clarke,Legion of the Dead,9.0,,9.0
+8,1,James Clarke,2-Headed Shark Attack,3.0,,3.0
+9,1,James Clarke,Parasyte: Part 2,9.0,,9.0
+10,1,James Clarke,Swamp Freak,9.0,,9.0
+11,1,James Clarke,The Basement,9.0,,9.0
+12,1,James Clarke,The Factory,9.0,,9.0
+13,1,James Clarke,Zombie Fighters,8.0,,8.0
+14,1,James Clarke,Edgar Allen Poe's Ligeia,10.0,,10.0
+15,1,James Clarke,We Summon the Darkness,8.0,,8.0
+16,1,James Clarke,Spookiz: The Movie,3.0,,3.0
+17,1,James Clarke,The Huntress: Rune of the Dead,9.0,,9.0
+18,1,James Clarke,The Beta Test,7.0,,7.0
+19,1,James Clarke,Undeaducated,8.0,,8.0
+0,2,Emma Dixon,The Greenskeeper,9.0,,9.0
+1,2,Emma Dixon,Vulgar,7.0,,7.0
+2,2,Emma Dixon,The Triangle,9.0,,9.0
+3,2,Emma Dixon,Rise: Blood Hunter,9.0,,9.0
+4,2,Emma Dixon,Wicked Lake,9.0,,9.0
+5,2,Emma Dixon,Dream Home,9.0,,9.0
+6,2,Emma Dixon,Ingression,9.0,,9.0
+7,2,Emma Dixon,Legion of the Dead,9.0,,9.0
+8,2,Emma Dixon,2-Headed Shark Attack,9.0,,9.0
+9,2,Emma Dixon,Parasyte: Part 2,9.0,,9.0
+10,2,Emma Dixon,Swamp Freak,9.0,,9.0
+11,2,Emma Dixon,The Basement,9.0,,9.0
+12,2,Emma Dixon,The Factory,10.0,,10.0
+13,2,Emma Dixon,Zombie Fighters,9.0,,9.0
+14,2,Emma Dixon,Edgar Allen Poe's Ligeia,10.0,,10.0
+15,2,Emma Dixon,We Summon the Darkness,9.0,,9.0
+16,2,Emma Dixon,Spookiz: The Movie,5.0,,5.0
+17,2,Emma Dixon,The Huntress: Rune of the Dead,9.0,,9.0
+18,2,Emma Dixon,The Beta Test,8.0,,8.0
+19,2,Emma Dixon,Undeaducated,9.0,,9.0
+0,3,Daniel Freeman,The Greenskeeper,9.0,,9.0
+1,3,Daniel Freeman,Vulgar,6.0,,6.0
+2,3,Daniel Freeman,The Triangle,8.0,,8.0
+3,3,Daniel Freeman,Rise: Blood Hunter,9.0,,9.0
+4,3,Daniel Freeman,Wicked Lake,8.0,,8.0
+5,3,Daniel Freeman,Dream Home,9.0,,9.0
+6,3,Daniel Freeman,Ingression,9.0,,9.0
+7,3,Daniel Freeman,Legion of the Dead,9.0,,9.0
+8,3,Daniel Freeman,2-Headed Shark Attack,8.0,,8.0
+9,3,Daniel Freeman,Parasyte: Part 2,9.0,,9.0
+10,3,Daniel Freeman,Swamp Freak,9.0,,9.0
+11,3,Daniel Freeman,The Basement,9.0,,9.0
+12,3,Daniel Freeman,The Factory,10.0,,10.0
+13,3,Daniel Freeman,Zombie Fighters,8.0,,8.0
+14,3,Daniel Freeman,Edgar Allen Poe's Ligeia,10.0,,10.0
+15,3,Daniel Freeman,We Summon the Darkness,9.0,,9.0
+16,3,Daniel Freeman,Spookiz: The Movie,3.0,,3.0
+17,3,Daniel Freeman,The Huntress: Rune of the Dead,9.0,,9.0
+18,3,Daniel Freeman,The Beta Test,8.0,,8.0
+19,3,Daniel Freeman,Undeaducated,9.0,,9.0
+0,0,Sophia Collins,Holy,8.0,,8.0
+1,0,Sophia Collins,Twelve Days,8.0,,8.0
+2,0,Sophia Collins,My Precious,8.0,,8.0
+3,0,Sophia Collins,Love in Harmony Valley,10.0,,10.0
+4,0,Sophia Collins,Seal of Desire,8.0,,8.0
+5,0,Sophia Collins,Greyson Family Christmas,9.0,,9.0
+6,0,Sophia Collins,"Ma Belle, My Beauty",9.0,,9.0
+7,0,Sophia Collins,Bodies of Desire,10.0,,10.0
+8,0,Sophia Collins,Love on Safari,9.0,,9.0
+9,0,Sophia Collins,Christmas Wedding Planner,9.0,,9.0
+10,0,Sophia Collins,Beauty Salon: Special Service 3,8.0,,8.0
+11,0,Sophia Collins,Love Takes Flight,10.0,,10.0
+12,0,Sophia Collins,Voice from the Stone,7.0,,7.0
+13,0,Sophia Collins,Cinta Selamanya,9.0,,9.0
+14,0,Sophia Collins,Your Place or Mine?,10.0,,10.0
+15,0,Sophia Collins,Undercover Bridesmaid,8.0,,8.0
+16,0,Sophia Collins,Anna Bond,7.0,,7.0
+17,0,Sophia Collins,Made of Honor,9.0,,9.0
+18,0,Sophia Collins,Adam & Steve,9.0,,9.0
+19,0,Sophia Collins,Life or Something Like It,8.0,,8.0
+0,1,Jacob Walker,Holy,8.0,,8.0
+1,1,Jacob Walker,Twelve Days,8.0,,8.0
+2,1,Jacob Walker,My Precious,8.0,,8.0
+3,1,Jacob Walker,Love in Harmony Valley,9.0,,9.0
+4,1,Jacob Walker,Seal of Desire,8.0,,8.0
+5,1,Jacob Walker,Greyson Family Christmas,9.0,,9.0
+6,1,Jacob Walker,"Ma Belle, My Beauty",8.0,,8.0
+7,1,Jacob Walker,Bodies of Desire,10.0,,10.0
+8,1,Jacob Walker,Love on Safari,9.0,,9.0
+9,1,Jacob Walker,Christmas Wedding Planner,9.0,,9.0
+10,1,Jacob Walker,Beauty Salon: Special Service 3,8.0,,8.0
+11,1,Jacob Walker,Love Takes Flight,9.0,,9.0
+12,1,Jacob Walker,Voice from the Stone,7.0,,7.0
+13,1,Jacob Walker,Cinta Selamanya,9.0,,9.0
+14,1,Jacob Walker,Your Place or Mine?,9.0,,9.0
+15,1,Jacob Walker,Undercover Bridesmaid,8.0,,8.0
+16,1,Jacob Walker,Anna Bond,7.0,,7.0
+17,1,Jacob Walker,Made of Honor,9.0,,9.0
+18,1,Jacob Walker,Adam & Steve,9.0,,9.0
+19,1,Jacob Walker,Life or Something Like It,7.0,,7.0
+0,2,Ava Edwards,Holy,9.0,,9.0
+1,2,Ava Edwards,Twelve Days,9.0,,9.0
+2,2,Ava Edwards,My Precious,9.0,,9.0
+3,2,Ava Edwards,Love in Harmony Valley,10.0,,10.0
+4,2,Ava Edwards,Seal of Desire,10.0,,10.0
+5,2,Ava Edwards,Greyson Family Christmas,10.0,,10.0
+6,2,Ava Edwards,"Ma Belle, My Beauty",9.0,,9.0
+7,2,Ava Edwards,Bodies of Desire,10.0,,10.0
+8,2,Ava Edwards,Love on Safari,10.0,,10.0
+9,2,Ava Edwards,Christmas Wedding Planner,10.0,,10.0
+10,2,Ava Edwards,Beauty Salon: Special Service 3,9.0,,9.0
+11,2,Ava Edwards,Love Takes Flight,10.0,,10.0
+12,2,Ava Edwards,Voice from the Stone,6.0,,6.0
+13,2,Ava Edwards,Cinta Selamanya,10.0,,10.0
+14,2,Ava Edwards,Your Place or Mine?,10.0,,10.0
+15,2,Ava Edwards,Undercover Bridesmaid,10.0,,10.0
+16,2,Ava Edwards,Anna Bond,9.0,,9.0
+17,2,Ava Edwards,Made of Honor,9.0,,9.0
+18,2,Ava Edwards,Adam & Steve,9.0,,9.0
+19,2,Ava Edwards,Life or Something Like It,8.0,,8.0
+0,3,Oliver Ellis,Holy,8.0,,8.0
+1,3,Oliver Ellis,Twelve Days,9.0,,9.0
+2,3,Oliver Ellis,My Precious,8.0,,8.0
+3,3,Oliver Ellis,Love in Harmony Valley,9.0,,9.0
+4,3,Oliver Ellis,Seal of Desire,6.0,,6.0
+5,3,Oliver Ellis,Greyson Family Christmas,9.0,,9.0
+6,3,Oliver Ellis,"Ma Belle, My Beauty",9.0,,9.0
+7,3,Oliver Ellis,Bodies of Desire,10.0,,10.0
+8,3,Oliver Ellis,Love on Safari,9.0,,9.0
+9,3,Oliver Ellis,Christmas Wedding Planner,8.0,,8.0
+10,3,Oliver Ellis,Beauty Salon: Special Service 3,3.0,,3.0
+11,3,Oliver Ellis,Love Takes Flight,9.0,,9.0
+12,3,Oliver Ellis,Voice from the Stone,6.0,,6.0
+13,3,Oliver Ellis,Cinta Selamanya,9.0,,9.0
+14,3,Oliver Ellis,Your Place or Mine?,9.0,,9.0
+15,3,Oliver Ellis,Undercover Bridesmaid,8.0,,8.0
+16,3,Oliver Ellis,Anna Bond,4.0,,4.0
+17,3,Oliver Ellis,Made of Honor,8.0,,8.0
+18,3,Oliver Ellis,Adam & Steve,8.0,,8.0
+19,3,Oliver Ellis,Life or Something Like It,7.0,,7.0

@@ -242,3 +242,93 @@ class SentenceSimilarityItemsRetrieval(ItemsRetrieval):
             [item for item, _ in item_interactions[: self.num]],
             [interaction for _, interaction in item_interactions[: self.num]],
         )
+
+
+class DecayEmotionWeightedRetrieval(ItemsRetrieval):
+    """
+    Retrieve by combining content similarity with time decay and emotional consistency bonus.
+
+    score = similarity(curr, hist) * exp(-lambda * age) * (1 + emotion_bonus)
+
+    - similarity: cosine similarity over a selected embedding field
+    - age: derived from interaction timestamp rank difference (logical time)
+    - emotion_bonus: +b when valence matches recent valence (or arousal band), else 0
+    """
+
+    def __init__(
+        self,
+        num: int,
+        name_field_embedding: str,
+        lambda_time_decay: float = 0.1,
+        emotion_bonus: float = 0.2,
+        consider_arousal: bool = False,
+    ) -> None:
+        self.num = num
+        self.name_field_embedding = name_field_embedding
+        self.lambda_time_decay = lambda_time_decay
+        self.emotion_bonus = emotion_bonus
+        self.consider_arousal = consider_arousal
+        super().__init__()
+
+    def retrieve(
+        self,
+        curr_item: Movie,
+        item_list: typing.List[Movie],
+        interactions: typing.List[UserMovieInteraction],
+    ) -> typing.Tuple[typing.List[Movie], typing.List[UserMovieInteraction]]:
+        import math
+        import numpy as np
+
+        if len(item_list) == 0:
+            return [], []
+
+        def cosine(a, b):
+            a = np.array(a)
+            b = np.array(b)
+            denom = (np.linalg.norm(a) * np.linalg.norm(b))
+            if denom == 0:
+                return 0.0
+            return float(np.dot(a, b) / denom)
+
+        # recent emotion as target for consistency
+        recent_valence = interactions[-1].valence
+        recent_arousal = interactions[-1].arousal
+
+        def valence_to_num(v: str) -> float:
+            return {"negative": -1.0, "neutral": 0.0, "positive": 1.0}.get(v, 0.0)
+
+        def arousal_to_num(a: str) -> float:
+            return {"low": 0.0, "medium": 0.5, "high": 1.0}.get(a, 0.5)
+
+        rv = valence_to_num(recent_valence)
+        ra = arousal_to_num(recent_arousal)
+
+        curr_emb = curr_item.__getattribute__(self.name_field_embedding)
+
+        # normalize timestamps to age by rank distance to the most recent
+        max_ts = max(i.timestamp for i in interactions) if interactions else 0
+
+        triples = []
+        for m, inter in zip(item_list, interactions):
+            sim = cosine(curr_emb, m.__getattribute__(self.name_field_embedding))
+            age = max(0, max_ts - inter.timestamp)
+            decay = math.exp(-self.lambda_time_decay * age)
+            # Fractional emotion alignment: closer valence/arousal => larger bonus
+            emo = 0.0
+            vv = valence_to_num(inter.valence)
+            av = arousal_to_num(inter.arousal)
+            # Valence alignment in [0,1]: 1 - |diff|/2 (max diff = 2)
+            val_align = 1.0 - min(2.0, abs(vv - rv)) / 2.0
+            emo += self.emotion_bonus * val_align
+            if self.consider_arousal:
+                # Arousal alignment in [0,1]: 1 - |diff| (max diff = 1)
+                aro_align = 1.0 - min(1.0, abs(av - ra))
+                emo += (self.emotion_bonus * 0.5) * aro_align
+            score = sim * decay * (1.0 + emo)
+            triples.append((score, m, inter))
+
+        triples.sort(key=lambda x: x[0], reverse=True)
+        return (
+            [m for _, m, _ in triples[: self.num]],
+            [it for _, _, it in triples[: self.num]],
+        )

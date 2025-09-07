@@ -1,0 +1,9 @@
+Config,Name,Category,Percentage success,Percentage success (Positive),Percentage success (Negative)
+deepseek-chat-0Shot_system_default_our-none-decay_emotion_3,category_preference_paper,Fiction,0.66,0.66,0.66
+deepseek-chat-0Shot_system_default_our-none-decay_emotion_3,category_preference_paper,Biography,0.66,0.66,0.66
+deepseek-chat-0Shot_system_default_our-none-decay_emotion_3,category_preference_paper,Economics,0.66,0.66,0.66
+deepseek-chat-0Shot_system_default_our-none-decay_emotion_3,category_preference_paper,Health,0.66,0.66,0.66
+deepseek-chat-0Shot_system_default_our-none-decay_emotion_3,category_preference_paper,Philosophy,0.66,0.66,0.66
+deepseek-chat-0Shot_system_default_our-none-decay_emotion_3,category_preference_paper,Computer,0.66,0.66,0.66
+deepseek-chat-0Shot_system_default_our-none-decay_emotion_3,category_preference_paper,Humor,0.66,0.66,0.66
+deepseek-chat-0Shot_system_default_our-none-decay_emotion_3,category_preference_paper,Drama,0.66,0.66,0.66

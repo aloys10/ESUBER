@@ -75,17 +75,22 @@ if __name__ == "__main__":
     print(exp_name)
 
     if not args.sampling:
-        genre_study = CategoryPreferenceStudy(create_env, exp_name)
+        # 使用 configs 中的函数构建环境，确保包含所有配置
+        def create_env_with_config(item: str, user_loader: UsersLoader = None):
+            return get_enviroment_from_args(model, args)
+        
+        print(f"🚀 [实验] 开始运行类别偏好研究...")
+        genre_study = CategoryPreferenceStudy(create_env_with_config, exp_name)
         genre_study.run()
 
-        high_study = HighRatingStudy(create_env, exp_name)
+        high_study = HighRatingStudy(create_env_with_config, exp_name)
         high_study.run()
 
-        low_study = LowRatingStudy(create_env, exp_name)
+        low_study = LowRatingStudy(create_env_with_config, exp_name)
         low_study.run()
 
         books_collection_random_study = BooksCollectionStudy(
-            create_env, exp_name, user_dataset=get_user_dataset(args.user_dataset)
+            create_env_with_config, exp_name, user_dataset=get_user_dataset(args.user_dataset)
         )
         books_collection_random_study.run()
     else:

@@ -1,0 +1,9 @@
+Config,Name,Genre,Percentage success,Percentage success (Positive),Percentage success (Negative)
+deepseek-chat-0Shot_cotlite_our-none-simple_3,genre_preference_paper,Action,0.96,0.90,1.0
+deepseek-chat-0Shot_cotlite_our-none-simple_3,genre_preference_paper,Animation,0.99,0.98,1.0
+deepseek-chat-0Shot_cotlite_our-none-simple_3,genre_preference_paper,Comedy,0.87,0.77,0.97
+deepseek-chat-0Shot_cotlite_our-none-simple_3,genre_preference_paper,Documentary,0.98,0.97,0.99
+deepseek-chat-0Shot_cotlite_our-none-simple_3,genre_preference_paper,Family,0.89,0.92,0.86
+deepseek-chat-0Shot_cotlite_our-none-simple_3,genre_preference_paper,Fantasy,0.68,0.40,0.96
+deepseek-chat-0Shot_cotlite_our-none-simple_3,genre_preference_paper,Horror,0.89,0.86,0.92
+deepseek-chat-0Shot_cotlite_our-none-simple_3,genre_preference_paper,Romance,0.91,0.87,0.95

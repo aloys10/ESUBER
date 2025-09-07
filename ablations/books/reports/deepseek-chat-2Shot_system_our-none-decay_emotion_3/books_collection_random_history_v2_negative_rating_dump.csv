@@ -1,0 +1,2001 @@
+item,user,user_name,item_name,LLM_explanation,LLM_rating,LLM_interaction_HTML,rating
+3,577,Ethan Kim,Harry Potter and the Goblet of Fire,,2.0,,2.0
+3,529,Ethan Lee,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,3,David Brown,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,144,Olivia Johnson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,479,James Anderson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,263,William Brown,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,376,Aaliyah Johnson,Harry Potter and the Goblet of Fire,,2.0,,2.0
+3,172,Alice,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,482,Ava Martinez,Harry Potter and the Goblet of Fire,,2.0,,2.0
+3,84,Samantha Johnson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,58,Sarah Lee,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,54,John Smith,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,165,Ben,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,23,Oliver Smith,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,551,Lily Taylor,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,181,Alex Williams,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,131,Mohammed Ahmed,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,16,Emma Parker,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,535,Emily Wilson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,268,Alice,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,241,Sofia,Harry Potter and the Goblet of Fire,,2.0,,2.0
+3,438,James,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,599,Jackson Brown,Harry Potter and the Goblet of Fire,,2.0,,2.0
+3,399,David Green,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,171,Emily Adams,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,259,James,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,226,Maria,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,445,Sophia Lee,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,527,James Thompson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,368,Aman Sharma,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,386,Emily Thompson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,570,Mia Thompson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,220,Emily Johnson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,301,Jack Lee,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,276,Ava Lee,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,371,Maya Patel,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,348,Alex Johnson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,430,Luna,Harry Potter and the Goblet of Fire,,3.0,,3.0
+3,114,Emily Adams,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,83,Jackson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,110,Ben,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,184,Emily Williams,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,384,Maria Sanchez,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,4,Emma Wilson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,517,Max,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,208,Ava,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,197,Ethan Thompson,Harry Potter and the Goblet of Fire,,2.0,,2.0
+3,334,Emily Smith,Harry Potter and the Goblet of Fire,,2.0,,2.0
+3,222,Sarah Jones,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,161,Tom,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,133,James Thompson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,415,David Lee,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,569,Jack Lee,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,502,Jared Lee,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,279,William Taylor,Harry Potter and the Goblet of Fire,,5.0,,5.0
+3,273,Emily Wilson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,60,Emily Williams,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,64,Emily Wilson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,152,Ethan Thompson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,72,Avery Adams,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,356,Adrian Thompson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,457,James Williams,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,557,Ethan Kim,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,324,Ava,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,129,Mark Thompson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,441,David Kim,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,85,James Thompson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,402,Maya,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,31,Thomas,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,200,Ava Nelson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,347,William Brown,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,188,Anna Smith,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,378,Sarah Taylor,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,365,David Thompson,Harry Potter and the Goblet of Fire,,2.0,,2.0
+3,221,Mark Thompson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,48,Emily Taylor,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,215,William Green,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,33,Lily Chen,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,544,Sophia Thompson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,582,Sophia Martin,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,339,David Lee,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,592,Aaliyah Williams,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,494,Emily Jackson,Harry Potter and the Goblet of Fire,,2.0,,2.0
+3,96,Alexander Chen,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,345,James Johnson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,318,Michael Rodriguez,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,566,David Lee,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,377,David Lee,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,2,Ava Green,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,533,Samantha Davis,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,420,Alex,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,484,Alex,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,163,Jack,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,390,Emily Smith,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,395,David Lee,Harry Potter and the Goblet of Fire,,2.0,,2.0
+3,506,Lily,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,588,Emily Miller,Harry Potter and the Goblet of Fire,,3.0,,3.0
+3,593,Samuel Johnson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,113,James Johnson,Harry Potter and the Goblet of Fire,,1.0,,1.0
+3,175,David,Harry Potter and the Goblet of Fire,,1.0,,1.0
+6,571,Ethan Brown,The Return of the King,,1.0,,1.0
+6,213,David Lee,The Return of the King,,2.0,,2.0
+6,137,Emily Kim,The Return of the King,,4.0,,4.0
+6,292,Alex,The Return of the King,,1.0,,1.0
+6,156,Jared Smith,The Return of the King,,3.0,,3.0
+6,230,Sarah Garcia,The Return of the King,,3.0,,3.0
+6,144,Olivia Johnson,The Return of the King,,1.0,,1.0
+6,537,Jack Johnson,The Return of the King,,1.0,,1.0
+6,30,Emma,The Return of the King,,1.0,,1.0
+6,494,Emily Jackson,The Return of the King,,2.0,,2.0
+6,371,Maya Patel,The Return of the King,,1.0,,1.0
+6,232,Amelia Johnson,The Return of the King,,1.0,,1.0
+6,254,Elizabeth Williams,The Return of the King,,1.0,,1.0
+6,575,David Thompson,The Return of the King,,1.0,,1.0
+6,402,Maya,The Return of the King,,1.0,,1.0
+6,241,Sofia,The Return of the King,,1.0,,1.0
+6,92,Ava,The Return of the King,,1.0,,1.0
+6,51,Samuel Garcia,The Return of the King,,1.0,,1.0
+6,293,Sarah,The Return of the King,,1.0,,1.0
+6,109,Ava,The Return of the King,,1.0,,1.0
+6,526,Lily Johnson,The Return of the King,,1.0,,1.0
+6,129,Mark Thompson,The Return of the King,,1.0,,1.0
+6,76,Emily Wilson,The Return of the King,,1.0,,1.0
+6,12,Alex Johnson,The Return of the King,,3.0,,3.0
+6,239,David Kim,The Return of the King,,1.0,,1.0
+6,174,Charlotte,The Return of the King,,1.0,,1.0
+6,256,Ava,The Return of the King,,1.0,,1.0
+6,217,David,The Return of the King,,1.0,,1.0
+6,298,Maria Hernandez,The Return of the King,,1.0,,1.0
+6,554,Mohammad Ali,The Return of the King,,3.0,,3.0
+6,433,Sarah Johnson,The Return of the King,,1.0,,1.0
+6,120,Ava,The Return of the King,,2.0,,2.0
+6,23,Oliver Smith,The Return of the King,,2.0,,2.0
+6,354,Maya Patel,The Return of the King,,1.0,,1.0
+6,487,Sarah,The Return of the King,,1.0,,1.0
+6,60,Emily Williams,The Return of the King,,1.0,,1.0
+6,247,William Brown,The Return of the King,,1.0,,1.0
+6,483,Peter Smith,The Return of the King,,1.0,,1.0
+6,507,Max,The Return of the King,,1.0,,1.0
+6,126,Linda Chen,The Return of the King,,1.0,,1.0
+6,56,Ava Anderson,The Return of the King,,1.0,,1.0
+6,482,Ava Martinez,The Return of the King,,1.0,,1.0
+6,576,Aaliyah Patel,The Return of the King,,1.0,,1.0
+6,185,Mark Johnson,The Return of the King,,1.0,,1.0
+6,276,Ava Lee,The Return of the King,,3.0,,3.0
+6,134,Emily Lee,The Return of the King,,1.0,,1.0
+6,9,Liam Johnson,The Return of the King,,1.0,,1.0
+6,75,David Wilson,The Return of the King,,1.0,,1.0
+6,368,Aman Sharma,The Return of the King,,4.0,,4.0
+6,422,James,The Return of the King,,3.0,,3.0
+6,164,Ava,The Return of the King,,2.0,,2.0
+6,485,Emily,The Return of the King,,1.0,,1.0
+6,57,Lucas Green,The Return of the King,,1.0,,1.0
+6,178,Emily Williams,The Return of the King,,1.0,,1.0
+6,281,Elizabeth Williams,The Return of the King,,1.0,,1.0
+6,470,John Smith,The Return of the King,,1.0,,1.0
+6,0,Lily Jackson,The Return of the King,,4.0,,4.0
+6,523,David Johnson,The Return of the King,,1.0,,1.0
+6,428,Ava,The Return of the King,,2.0,,2.0
+6,469,Sarah Lee,The Return of the King,,1.0,,1.0
+6,22,Maya Rodriguez,The Return of the King,,1.0,,1.0
+6,586,James Thompson,The Return of the King,,2.0,,2.0
+6,484,Alex,The Return of the King,,1.0,,1.0
+6,404,Olivia Thompson,The Return of the King,,1.0,,1.0
+6,401,Alex,The Return of the King,,1.0,,1.0
+6,278,Sophia Jones,The Return of the King,,1.0,,1.0
+6,390,Emily Smith,The Return of the King,,1.0,,1.0
+6,343,Emily Kim,The Return of the King,,1.0,,1.0
+6,262,Elizabeth Johnson,The Return of the King,,1.0,,1.0
+6,4,Emma Wilson,The Return of the King,,1.0,,1.0
+6,465,Emma Rodriguez,The Return of the King,,1.0,,1.0
+6,290,Amanda Williams,The Return of the King,,1.0,,1.0
+6,577,Ethan Kim,The Return of the King,,2.0,,2.0
+6,214,Emily Brown,The Return of the King,,1.0,,1.0
+6,131,Mohammed Ahmed,The Return of the King,,2.0,,2.0
+6,374,Isabella Wilson,The Return of the King,,1.0,,1.0
+6,383,Samuel Brown,The Return of the King,,1.0,,1.0
+6,190,Emma Williams,The Return of the King,,1.0,,1.0
+6,502,Jared Lee,The Return of the King,,5.0,,5.0
+6,356,Adrian Thompson,The Return of the King,,1.0,,1.0
+6,406,Ava Roberts,The Return of the King,,1.0,,1.0
+6,509,Liam Wilson,The Return of the King,,1.0,,1.0
+6,121,Jack,The Return of the King,,2.0,,2.0
+6,135,Robert Brown,The Return of the King,,1.0,,1.0
+6,195,Liam O'Connell,The Return of the King,,1.0,,1.0
+6,68,Michael Johnson,The Return of the King,,1.0,,1.0
+6,582,Sophia Martin,The Return of the King,,1.0,,1.0
+6,524,Emma Stone,The Return of the King,,1.0,,1.0
+6,83,Jackson,The Return of the King,,3.0,,3.0
+6,467,Olivia Wilson,The Return of the King,,1.0,,1.0
+6,365,David Thompson,The Return of the King,,1.0,,1.0
+6,345,James Johnson,The Return of the King,,1.0,,1.0
+6,136,Alex Johnson,The Return of the King,,1.0,,1.0
+6,11,Jacob Nelson,The Return of the King,,1.0,,1.0
+6,541,Emily Smith,The Return of the King,,1.0,,1.0
+6,111,Caitlin,The Return of the King,,1.0,,1.0
+6,224,Lily,The Return of the King,,1.0,,1.0
+6,320,Alex Johnson,The Return of the King,,1.0,,1.0
+6,7,David Johnson,The Return of the King,,1.0,,1.0
+6,337,Jack Thompson,The Return of the King,,1.0,,1.0
+10,400,Ava,A Feast for Crows,,1.0,,1.0
+10,84,Samantha Johnson,A Feast for Crows,,2.0,,2.0
+10,559,Jack Chen,A Feast for Crows,,1.0,,1.0
+10,36,Ava Johnson,A Feast for Crows,,1.0,,1.0
+10,315,Sarah Lee,A Feast for Crows,,1.0,,1.0
+10,235,William Scott,A Feast for Crows,,2.0,,2.0
+10,73,Ethan Brown,A Feast for Crows,,1.0,,1.0
+10,472,Lily Johnson,A Feast for Crows,,1.0,,1.0
+10,337,Jack Thompson,A Feast for Crows,,1.0,,1.0
+10,231,Robert Lee,A Feast for Crows,,2.0,,2.0
+10,520,Sarah Thompson,A Feast for Crows,,2.0,,2.0
+10,247,William Brown,A Feast for Crows,,1.0,,1.0
+10,553,Emily Wilson,A Feast for Crows,,1.0,,1.0
+10,293,Sarah,A Feast for Crows,,1.0,,1.0
+10,58,Sarah Lee,A Feast for Crows,,3.0,,3.0
+10,513,Ethan Thompson,A Feast for Crows,,1.0,,1.0
+10,80,Olivia,A Feast for Crows,,1.0,,1.0
+10,586,James Thompson,A Feast for Crows,,2.0,,2.0
+10,95,Thomas,A Feast for Crows,,2.0,,2.0
+10,185,Mark Johnson,A Feast for Crows,,1.0,,1.0
+10,152,Ethan Thompson,A Feast for Crows,,1.0,,1.0
+10,45,Alex Brown,A Feast for Crows,,1.0,,1.0
+10,488,Ava,A Feast for Crows,,3.0,,3.0
+10,182,Sofia Rodriguez,A Feast for Crows,,1.0,,1.0
+10,32,Alex Johnson,A Feast for Crows,,1.0,,1.0
+10,241,Sofia,A Feast for Crows,,1.0,,1.0
+10,593,Samuel Johnson,A Feast for Crows,,1.0,,1.0
+10,245,John Smith,A Feast for Crows,,1.0,,1.0
+10,473,Jack Taylor,A Feast for Crows,,1.0,,1.0
+10,255,Samuel Lee,A Feast for Crows,,1.0,,1.0
+10,579,Omar Hassan,A Feast for Crows,,1.0,,1.0
+10,481,Ryan Davis,A Feast for Crows,,1.0,,1.0
+10,23,Oliver Smith,A Feast for Crows,,2.0,,2.0
+10,427,Thomas,A Feast for Crows,,2.0,,2.0
+10,365,David Thompson,A Feast for Crows,,1.0,,1.0
+10,155,Emily Nguyen,A Feast for Crows,,1.0,,1.0
+10,232,Amelia Johnson,A Feast for Crows,,2.0,,2.0
+10,50,Olivia Brown,A Feast for Crows,,1.0,,1.0
+10,549,Emma Rodriguez,A Feast for Crows,,2.0,,2.0
+10,132,Lily Johnson,A Feast for Crows,,1.0,,1.0
+10,461,Max,A Feast for Crows,,2.0,,2.0
+10,566,David Lee,A Feast for Crows,,1.0,,1.0
+10,529,Ethan Lee,A Feast for Crows,,1.0,,1.0
+10,139,Olivia Wilson,A Feast for Crows,,2.0,,2.0
+10,159,Mary Johnson,A Feast for Crows,,1.0,,1.0
+10,368,Aman Sharma,A Feast for Crows,,1.0,,1.0
+10,290,Amanda Williams,A Feast for Crows,,2.0,,2.0
+10,151,Michael Johnson,A Feast for Crows,,2.0,,2.0
+10,342,William Smith,A Feast for Crows,,1.0,,1.0
+10,364,Aaliyah Patel,A Feast for Crows,,2.0,,2.0
+10,371,Maya Patel,A Feast for Crows,,1.0,,1.0
+10,85,James Thompson,A Feast for Crows,,1.0,,1.0
+10,457,James Williams,A Feast for Crows,,1.0,,1.0
+10,196,Emily Johnson,A Feast for Crows,,1.0,,1.0
+10,286,Mark Lee,A Feast for Crows,,1.0,,1.0
+10,319,Emily,A Feast for Crows,,2.0,,2.0
+10,522,Elizabeth Taylor,A Feast for Crows,,1.0,,1.0
+10,539,William Lee,A Feast for Crows,,1.0,,1.0
+10,106,Amelia Rose,A Feast for Crows,,1.0,,1.0
+10,572,Samantha Smith,A Feast for Crows,,1.0,,1.0
+10,262,Elizabeth Johnson,A Feast for Crows,,1.0,,1.0
+10,533,Samantha Davis,A Feast for Crows,,1.0,,1.0
+10,348,Alex Johnson,A Feast for Crows,,1.0,,1.0
+10,401,Alex,A Feast for Crows,,2.0,,2.0
+10,328,Alex Johnson,A Feast for Crows,,1.0,,1.0
+10,258,Lily,A Feast for Crows,,3.0,,3.0
+10,578,Amelia Jackson,A Feast for Crows,,1.0,,1.0
+10,598,Victoria Lee,A Feast for Crows,,3.0,,3.0
+10,527,James Thompson,A Feast for Crows,,1.0,,1.0
+10,93,Ethan,A Feast for Crows,,1.0,,1.0
+10,551,Lily Taylor,A Feast for Crows,,1.0,,1.0
+10,168,Ethan Thompson,A Feast for Crows,,1.0,,1.0
+10,573,John Davis,A Feast for Crows,,1.0,,1.0
+10,475,James Clark,A Feast for Crows,,2.0,,2.0
+10,454,Ava Johnson,A Feast for Crows,,2.0,,2.0
+10,213,David Lee,A Feast for Crows,,1.0,,1.0
+10,555,Isabella Martinez,A Feast for Crows,,1.0,,1.0
+10,110,Ben,A Feast for Crows,,1.0,,1.0
+10,584,Oliver Harris,A Feast for Crows,,1.0,,1.0
+10,175,David,A Feast for Crows,,2.0,,2.0
+10,405,Ethan Williams,A Feast for Crows,,2.0,,2.0
+10,403,David,A Feast for Crows,,1.0,,1.0
+10,27,David Martin,A Feast for Crows,,1.0,,1.0
+10,568,Ava Green,A Feast for Crows,,2.0,,2.0
+10,308,Emily Johnson,A Feast for Crows,,1.0,,1.0
+10,78,Sophia Reed,A Feast for Crows,,2.0,,2.0
+10,287,Lily Chen,A Feast for Crows,,2.0,,2.0
+10,463,James,A Feast for Crows,,1.0,,1.0
+10,570,Mia Thompson,A Feast for Crows,,1.0,,1.0
+10,37,Ethan Brown,A Feast for Crows,,1.0,,1.0
+10,122,Jasmine,A Feast for Crows,,1.0,,1.0
+10,356,Adrian Thompson,A Feast for Crows,,2.0,,2.0
+10,202,Sophia Brown,A Feast for Crows,,1.0,,1.0
+10,41,James Thompson,A Feast for Crows,,2.0,,2.0
+10,252,Emily Johnson,A Feast for Crows,,1.0,,1.0
+10,424,Ava,A Feast for Crows,,1.0,,1.0
+10,569,Jack Lee,A Feast for Crows,,1.0,,1.0
+10,362,Lily Johnson,A Feast for Crows,,1.0,,1.0
+10,171,Emily Adams,A Feast for Crows,,2.0,,2.0
+10,456,Ava Jones,A Feast for Crows,,2.0,,2.0
+14,254,Elizabeth Williams,The Horse and His Boy,,1.0,,1.0
+14,482,Ava Martinez,The Horse and His Boy,,1.0,,1.0
+14,483,Peter Smith,The Horse and His Boy,,1.0,,1.0
+14,299,Mark Johnson,The Horse and His Boy,,3.0,,3.0
+14,1,Marcus Williams,The Horse and His Boy,,2.0,,2.0
+14,175,David,The Horse and His Boy,,1.0,,1.0
+14,52,Alex Johnson,The Horse and His Boy,,1.0,,1.0
+14,8,Luna James,The Horse and His Boy,,1.0,,1.0
+14,20,Aaliyah Patel,The Horse and His Boy,,3.0,,3.0
+14,580,Emma Woods,The Horse and His Boy,,1.0,,1.0
+14,121,Jack,The Horse and His Boy,,2.0,,2.0
+14,491,Max,The Horse and His Boy,,2.0,,2.0
+14,281,Elizabeth Williams,The Horse and His Boy,,1.0,,1.0
+14,236,Emily Thompson,The Horse and His Boy,,1.0,,1.0
+14,536,Emily Smith,The Horse and His Boy,,2.0,,2.0
+14,375,Alexander Johnson,The Horse and His Boy,,3.0,,3.0
+14,33,Lily Chen,The Horse and His Boy,,4.0,,4.0
+14,410,Emily Brown,The Horse and His Boy,,1.0,,1.0
+14,203,David Thompson,The Horse and His Boy,,3.0,,3.0
+14,335,Michael Johnson,The Horse and His Boy,,1.0,,1.0
+14,15,Sarah Smith,The Horse and His Boy,,2.0,,2.0
+14,451,Mark Davis,The Horse and His Boy,,4.0,,4.0
+14,380,Aria Ross,The Horse and His Boy,,4.0,,4.0
+14,284,Akira Saito,The Horse and His Boy,,1.0,,1.0
+14,424,Ava,The Horse and His Boy,,3.0,,3.0
+14,427,Thomas,The Horse and His Boy,,1.0,,1.0
+14,172,Alice,The Horse and His Boy,,3.0,,3.0
+14,50,Olivia Brown,The Horse and His Boy,,1.0,,1.0
+14,437,Emma,The Horse and His Boy,,1.0,,1.0
+14,524,Emma Stone,The Horse and His Boy,,2.0,,2.0
+14,446,William Brown,The Horse and His Boy,,4.0,,4.0
+14,135,Robert Brown,The Horse and His Boy,,3.0,,3.0
+14,391,David Lee,The Horse and His Boy,,1.0,,1.0
+14,245,John Smith,The Horse and His Boy,,3.0,,3.0
+14,262,Elizabeth Johnson,The Horse and His Boy,,3.0,,3.0
+14,182,Sofia Rodriguez,The Horse and His Boy,,1.0,,1.0
+14,156,Jared Smith,The Horse and His Boy,,1.0,,1.0
+14,382,Sophia Lee,The Horse and His Boy,,3.0,,3.0
+14,513,Ethan Thompson,The Horse and His Boy,,1.0,,1.0
+14,468,Alex Johnson,The Horse and His Boy,,1.0,,1.0
+14,27,David Martin,The Horse and His Boy,,1.0,,1.0
+14,402,Maya,The Horse and His Boy,,1.0,,1.0
+14,88,Ava,The Horse and His Boy,,3.0,,3.0
+14,273,Emily Wilson,The Horse and His Boy,,3.0,,3.0
+14,576,Aaliyah Patel,The Horse and His Boy,,1.0,,1.0
+14,187,William Brown,The Horse and His Boy,,4.0,,4.0
+14,173,Bob,The Horse and His Boy,,4.0,,4.0
+14,324,Ava,The Horse and His Boy,,4.0,,4.0
+14,531,James Anderson,The Horse and His Boy,,2.0,,2.0
+14,196,Emily Johnson,The Horse and His Boy,,4.0,,4.0
+14,53,Emily Chen,The Horse and His Boy,,3.0,,3.0
+14,574,Emily Wilson,The Horse and His Boy,,2.0,,2.0
+14,333,William Brown,The Horse and His Boy,,1.0,,1.0
+14,444,Alex Miller,The Horse and His Boy,,3.0,,3.0
+14,357,Emma Johnson,The Horse and His Boy,,3.0,,3.0
+14,120,Ava,The Horse and His Boy,,3.0,,3.0
+14,18,Sophia Garcia,The Horse and His Boy,,3.0,,3.0
+14,417,John Smith,The Horse and His Boy,,1.0,,1.0
+14,171,Emily Adams,The Horse and His Boy,,3.0,,3.0
+14,181,Alex Williams,The Horse and His Boy,,1.0,,1.0
+14,421,Emma,The Horse and His Boy,,3.0,,3.0
+14,473,Jack Taylor,The Horse and His Boy,,1.0,,1.0
+14,190,Emma Williams,The Horse and His Boy,,2.0,,2.0
+14,311,Oliver Wilson,The Horse and His Boy,,1.0,,1.0
+14,81,Ethan,The Horse and His Boy,,1.0,,1.0
+14,447,Emily Jones,The Horse and His Boy,,3.0,,3.0
+14,227,Max,The Horse and His Boy,,5.0,,5.0
+14,420,Alex,The Horse and His Boy,,1.0,,1.0
+14,544,Sophia Thompson,The Horse and His Boy,,1.0,,1.0
+14,118,Sofia Rodriguez,The Horse and His Boy,,1.0,,1.0
+14,543,Sarah Johnson,The Horse and His Boy,,3.0,,3.0
+14,546,Emily Rodriguez,The Horse and His Boy,,3.0,,3.0
+14,107,Thomas Brown,The Horse and His Boy,,1.0,,1.0
+14,474,Emma Thompson,The Horse and His Boy,,1.0,,1.0
+14,381,James Thompson,The Horse and His Boy,,1.0,,1.0
+14,39,James Johnson,The Horse and His Boy,,1.0,,1.0
+14,287,Lily Chen,The Horse and His Boy,,3.0,,3.0
+14,37,Ethan Brown,The Horse and His Boy,,3.0,,3.0
+14,149,Ethan Kim,The Horse and His Boy,,1.0,,1.0
+14,517,Max,The Horse and His Boy,,2.0,,2.0
+14,132,Lily Johnson,The Horse and His Boy,,3.0,,3.0
+14,242,James,The Horse and His Boy,,1.0,,1.0
+14,252,Emily Johnson,The Horse and His Boy,,1.0,,1.0
+14,533,Samantha Davis,The Horse and His Boy,,1.0,,1.0
+14,183,David Johnson,The Horse and His Boy,,2.0,,2.0
+14,274,William Cooper,The Horse and His Boy,,1.0,,1.0
+14,202,Sophia Brown,The Horse and His Boy,,2.0,,2.0
+14,495,Ethan Brown,The Horse and His Boy,,2.0,,2.0
+14,60,Emily Williams,The Horse and His Boy,,2.0,,2.0
+14,376,Aaliyah Johnson,The Horse and His Boy,,2.0,,2.0
+14,49,Alex Johnson,The Horse and His Boy,,1.0,,1.0
+14,384,Maria Sanchez,The Horse and His Boy,,2.0,,2.0
+14,575,David Thompson,The Horse and His Boy,,3.0,,3.0
+14,283,Emily Taylor,The Horse and His Boy,,1.0,,1.0
+14,534,David Thompson,The Horse and His Boy,,1.0,,1.0
+14,270,Claire,The Horse and His Boy,,1.0,,1.0
+14,231,Robert Lee,The Horse and His Boy,,3.0,,3.0
+14,504,Ava,The Horse and His Boy,,1.0,,1.0
+14,68,Michael Johnson,The Horse and His Boy,,2.0,,2.0
+14,282,James Johnson,The Horse and His Boy,,1.0,,1.0
+18,182,Sofia Rodriguez,The Hound of the Baskervilles,,4.0,,4.0
+18,114,Emily Adams,The Hound of the Baskervilles,,3.0,,3.0
+18,147,William Brown,The Hound of the Baskervilles,,2.0,,2.0
+18,5,John Smith,The Hound of the Baskervilles,,3.0,,3.0
+18,426,Mia,The Hound of the Baskervilles,,2.0,,2.0
+18,560,Lily Patel,The Hound of the Baskervilles,,3.0,,3.0
+18,374,Isabella Wilson,The Hound of the Baskervilles,,1.0,,1.0
+18,26,Sarah Lee,The Hound of the Baskervilles,,2.0,,2.0
+18,39,James Johnson,The Hound of the Baskervilles,,3.0,,3.0
+18,289,Jack Taylor,The Hound of the Baskervilles,,1.0,,1.0
+18,65,David Lee,The Hound of the Baskervilles,,1.0,,1.0
+18,287,Lily Chen,The Hound of the Baskervilles,,3.0,,3.0
+18,349,Lily Green,The Hound of the Baskervilles,,3.0,,3.0
+18,424,Ava,The Hound of the Baskervilles,,3.0,,3.0
+18,77,David Thompson,The Hound of the Baskervilles,,1.0,,1.0
+18,540,Alex Johnson,The Hound of the Baskervilles,,1.0,,1.0
+18,394,Emily Smith,The Hound of the Baskervilles,,1.0,,1.0
+18,356,Adrian Thompson,The Hound of the Baskervilles,,3.0,,3.0
+18,313,Emily Chen,The Hound of the Baskervilles,,1.0,,1.0
+18,223,David Lee,The Hound of the Baskervilles,,4.0,,4.0
+18,228,Emily Thompson,The Hound of the Baskervilles,,4.0,,4.0
+18,404,Olivia Thompson,The Hound of the Baskervilles,,1.0,,1.0
+18,31,Thomas,The Hound of the Baskervilles,,3.0,,3.0
+18,261,Liam Adams,The Hound of the Baskervilles,,3.0,,3.0
+18,16,Emma Parker,The Hound of the Baskervilles,,3.0,,3.0
+18,176,Evelyn Thompson,The Hound of the Baskervilles,,4.0,,4.0
+18,84,Samantha Johnson,The Hound of the Baskervilles,,4.0,,4.0
+18,571,Ethan Brown,The Hound of the Baskervilles,,2.0,,2.0
+18,395,David Lee,The Hound of the Baskervilles,,3.0,,3.0
+18,537,Jack Johnson,The Hound of the Baskervilles,,1.0,,1.0
+18,304,Ava,The Hound of the Baskervilles,,1.0,,1.0
+18,123,Alex,The Hound of the Baskervilles,,2.0,,2.0
+18,509,Liam Wilson,The Hound of the Baskervilles,,1.0,,1.0
+18,380,Aria Ross,The Hound of the Baskervilles,,3.0,,3.0
+18,126,Linda Chen,The Hound of the Baskervilles,,1.0,,1.0
+18,74,Emily Johnson,The Hound of the Baskervilles,,3.0,,3.0
+18,549,Emma Rodriguez,The Hound of the Baskervilles,,1.0,,1.0
+18,414,Sarah Taylor,The Hound of the Baskervilles,,2.0,,2.0
+18,68,Michael Johnson,The Hound of the Baskervilles,,3.0,,3.0
+18,385,Mark Johnson,The Hound of the Baskervilles,,4.0,,4.0
+18,266,Emily Thompson,The Hound of the Baskervilles,,2.0,,2.0
+18,262,Elizabeth Johnson,The Hound of the Baskervilles,,1.0,,1.0
+18,493,David Wilson,The Hound of the Baskervilles,,2.0,,2.0
+18,438,James,The Hound of the Baskervilles,,1.0,,1.0
+18,498,Sophia,The Hound of the Baskervilles,,3.0,,3.0
+18,76,Emily Wilson,The Hound of the Baskervilles,,1.0,,1.0
+18,528,Aaliyah Johnson,The Hound of the Baskervilles,,3.0,,3.0
+18,60,Emily Williams,The Hound of the Baskervilles,,2.0,,2.0
+18,318,Michael Rodriguez,The Hound of the Baskervilles,,4.0,,4.0
+18,259,James,The Hound of the Baskervilles,,3.0,,3.0
+18,485,Emily,The Hound of the Baskervilles,,2.0,,2.0
+18,562,Ava Martin,The Hound of the Baskervilles,,3.0,,3.0
+18,254,Elizabeth Williams,The Hound of the Baskervilles,,2.0,,2.0
+18,436,Alex,The Hound of the Baskervilles,,4.0,,4.0
+18,103,Noah Nelson,The Hound of the Baskervilles,,1.0,,1.0
+18,55,Sarah Kim,The Hound of the Baskervilles,,1.0,,1.0
+18,144,Olivia Johnson,The Hound of the Baskervilles,,2.0,,2.0
+18,570,Mia Thompson,The Hound of the Baskervilles,,1.0,,1.0
+18,417,John Smith,The Hound of the Baskervilles,,1.0,,1.0
+18,392,"Alexandra ""Alex"" Johnson",The Hound of the Baskervilles,,1.0,,1.0
+18,196,Emily Johnson,The Hound of the Baskervilles,,1.0,,1.0
+18,347,William Brown,The Hound of the Baskervilles,,3.0,,3.0
+18,124,Emily Johnson,The Hound of the Baskervilles,,3.0,,3.0
+18,390,Emily Smith,The Hound of the Baskervilles,,1.0,,1.0
+18,52,Alex Johnson,The Hound of the Baskervilles,,1.0,,1.0
+18,95,Thomas,The Hound of the Baskervilles,,3.0,,3.0
+18,265,Michael Williams,The Hound of the Baskervilles,,1.0,,1.0
+18,579,Omar Hassan,The Hound of the Baskervilles,,3.0,,3.0
+18,566,David Lee,The Hound of the Baskervilles,,1.0,,1.0
+18,342,William Smith,The Hound of the Baskervilles,,1.0,,1.0
+18,350,Ethan Williams,The Hound of the Baskervilles,,2.0,,2.0
+18,583,Oliver Thompson,The Hound of the Baskervilles,,1.0,,1.0
+18,7,David Johnson,The Hound of the Baskervilles,,3.0,,3.0
+18,531,James Anderson,The Hound of the Baskervilles,,3.0,,3.0
+18,554,Mohammad Ali,The Hound of the Baskervilles,,1.0,,1.0
+18,164,Ava,The Hound of the Baskervilles,,2.0,,2.0
+18,545,Jack Williams,The Hound of the Baskervilles,,2.0,,2.0
+18,529,Ethan Lee,The Hound of the Baskervilles,,1.0,,1.0
+18,503,Emily Chen,The Hound of the Baskervilles,,3.0,,3.0
+18,495,Ethan Brown,The Hound of the Baskervilles,,3.0,,3.0
+18,80,Olivia,The Hound of the Baskervilles,,2.0,,2.0
+18,37,Ethan Brown,The Hound of the Baskervilles,,3.0,,3.0
+18,447,Emily Jones,The Hound of the Baskervilles,,3.0,,3.0
+18,230,Sarah Garcia,The Hound of the Baskervilles,,3.0,,3.0
+18,479,James Anderson,The Hound of the Baskervilles,,1.0,,1.0
+18,30,Emma,The Hound of the Baskervilles,,1.0,,1.0
+18,78,Sophia Reed,The Hound of the Baskervilles,,4.0,,4.0
+18,312,Alex Johnson,The Hound of the Baskervilles,,3.0,,3.0
+18,207,Catherine,The Hound of the Baskervilles,,1.0,,1.0
+18,173,Bob,The Hound of the Baskervilles,,3.0,,3.0
+18,161,Tom,The Hound of the Baskervilles,,1.0,,1.0
+18,582,Sophia Martin,The Hound of the Baskervilles,,4.0,,4.0
+18,2,Ava Green,The Hound of the Baskervilles,,1.0,,1.0
+18,321,Emily Lee,The Hound of the Baskervilles,,1.0,,1.0
+18,279,William Taylor,The Hound of the Baskervilles,,3.0,,3.0
+18,524,Emma Stone,The Hound of the Baskervilles,,1.0,,1.0
+18,122,Jasmine,The Hound of the Baskervilles,,1.0,,1.0
+18,210,Maya,The Hound of the Baskervilles,,1.0,,1.0
+18,516,Lily,The Hound of the Baskervilles,,3.0,,3.0
+18,107,Thomas Brown,The Hound of the Baskervilles,,1.0,,1.0
+22,361,David Kim,"So Long, and Thanks for All the Fish",,3.0,,3.0
+22,38,Olivia Thompson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,56,Ava Anderson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,340,Michael Johnson,"So Long, and Thanks for All the Fish",,2.0,,2.0
+22,322,Sam Patel,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,593,Samuel Johnson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,100,Emily Johnson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,121,Jack,"So Long, and Thanks for All the Fish",,2.0,,2.0
+22,130,Sofia Garcia,"So Long, and Thanks for All the Fish",,3.0,,3.0
+22,570,Mia Thompson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,512,Aaliyah Patel,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,276,Ava Lee,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,229,Michael Johnson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,509,Liam Wilson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,572,Samantha Smith,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,252,Emily Johnson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,377,David Lee,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,116,Aaliyah Johnson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,43,Mark Johnson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,96,Alexander Chen,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,246,Emily Jones,"So Long, and Thanks for All the Fish",,2.0,,2.0
+22,204,Alex,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,392,"Alexandra ""Alex"" Johnson","So Long, and Thanks for All the Fish",,1.0,,1.0
+22,137,Emily Kim,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,77,David Thompson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,215,William Green,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,369,Sofia Rodriguez,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,278,Sophia Jones,"So Long, and Thanks for All the Fish",,2.0,,2.0
+22,353,Ethan Kim,"So Long, and Thanks for All the Fish",,3.0,,3.0
+22,484,Alex,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,169,Lily Wilson,"So Long, and Thanks for All the Fish",,3.0,,3.0
+22,349,Lily Green,"So Long, and Thanks for All the Fish",,2.0,,2.0
+22,253,Thomas Brown,"So Long, and Thanks for All the Fish",,3.0,,3.0
+22,411,"William ""Bill"" Thompson","So Long, and Thanks for All the Fish",,2.0,,2.0
+22,63,Michael Johnson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,574,Emily Wilson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,255,Samuel Lee,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,55,Sarah Kim,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,284,Akira Saito,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,419,William Johnson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,145,Ethan Thompson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,260,Emily Thompson,"So Long, and Thanks for All the Fish",,2.0,,2.0
+22,326,Charlie,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,467,Olivia Wilson,"So Long, and Thanks for All the Fish",,3.0,,3.0
+22,24,Nisha Patel,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,433,Sarah Johnson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,289,Jack Taylor,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,3,David Brown,"So Long, and Thanks for All the Fish",,2.0,,2.0
+22,595,David Thompson,"So Long, and Thanks for All the Fish",,2.0,,2.0
+22,548,Alex Johnson,"So Long, and Thanks for All the Fish",,2.0,,2.0
+22,316,Aiden Thompson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,234,Jasmine Lee,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,34,Henry Brown,"So Long, and Thanks for All the Fish",,2.0,,2.0
+22,597,Ethan Davis,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,590,Sarah Lee,"So Long, and Thanks for All the Fish",,2.0,,2.0
+22,578,Amelia Jackson,"So Long, and Thanks for All the Fish",,3.0,,3.0
+22,372,Amelia Parker,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,233,Ethan Harris,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,474,Emma Thompson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,301,Jack Lee,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,176,Evelyn Thompson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,491,Max,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,346,Sarah Davis,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,345,James Johnson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,165,Ben,"So Long, and Thanks for All the Fish",,2.0,,2.0
+22,560,Lily Patel,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,198,Lily Wilson,"So Long, and Thanks for All the Fish",,2.0,,2.0
+22,463,James,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,545,Jack Williams,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,163,Jack,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,208,Ava,"So Long, and Thanks for All the Fish",,2.0,,2.0
+22,261,Liam Adams,"So Long, and Thanks for All the Fish",,3.0,,3.0
+22,452,Emily Wilson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,503,Emily Chen,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,594,Sophia Taylor,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,404,Olivia Thompson,"So Long, and Thanks for All the Fish",,2.0,,2.0
+22,426,Mia,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,492,Maya Patel,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,309,Liam Thompson,"So Long, and Thanks for All the Fish",,2.0,,2.0
+22,451,Mark Davis,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,277,Ethan Green,"So Long, and Thanks for All the Fish",,2.0,,2.0
+22,300,Emily Johnson,"So Long, and Thanks for All the Fish",,3.0,,3.0
+22,2,Ava Green,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,49,Alex Johnson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,259,James,"So Long, and Thanks for All the Fish",,2.0,,2.0
+22,496,Ava,"So Long, and Thanks for All the Fish",,2.0,,2.0
+22,571,Ethan Brown,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,79,William Green,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,533,Samantha Davis,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,312,Alex Johnson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,385,Mark Johnson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,138,Samuel Lee,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,28,Ava Parker,"So Long, and Thanks for All the Fish",,2.0,,2.0
+22,128,Aaliyah Johnson,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,418,Emily Williams,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,302,Sarah Thompson,"So Long, and Thanks for All the Fish",,3.0,,3.0
+22,347,William Brown,"So Long, and Thanks for All the Fish",,1.0,,1.0
+22,587,Elizabeth Johnson,"So Long, and Thanks for All the Fish",,3.0,,3.0
+22,472,Lily Johnson,"So Long, and Thanks for All the Fish",,2.0,,2.0
+22,498,Sophia,"So Long, and Thanks for All the Fish",,3.0,,3.0
+25,453,David Smith,Mockingjay,,1.0,,1.0
+25,473,Jack Taylor,Mockingjay,,1.0,,1.0
+25,157,Sophia Brown,Mockingjay,,1.0,,1.0
+25,391,David Lee,Mockingjay,,1.0,,1.0
+25,587,Elizabeth Johnson,Mockingjay,,1.0,,1.0
+25,54,John Smith,Mockingjay,,1.0,,1.0
+25,536,Emily Smith,Mockingjay,,2.0,,2.0
+25,261,Liam Adams,Mockingjay,,4.0,,4.0
+25,363,William Brown,Mockingjay,,1.0,,1.0
+25,139,Olivia Wilson,Mockingjay,,2.0,,2.0
+25,285,Sophie Thompson,Mockingjay,,2.0,,2.0
+25,223,David Lee,Mockingjay,,1.0,,1.0
+25,112,Olivia Thompson,Mockingjay,,1.0,,1.0
+25,520,Sarah Thompson,Mockingjay,,1.0,,1.0
+25,169,Lily Wilson,Mockingjay,,3.0,,3.0
+25,178,Emily Williams,Mockingjay,,1.0,,1.0
+25,295,Catherine,Mockingjay,,1.0,,1.0
+25,581,George Taylor,Mockingjay,,1.0,,1.0
+25,120,Ava,Mockingjay,,1.0,,1.0
+25,440,Lily Johnson,Mockingjay,,1.0,,1.0
+25,292,Alex,Mockingjay,,1.0,,1.0
+25,27,David Martin,Mockingjay,,1.0,,1.0
+25,411,"William ""Bill"" Thompson",Mockingjay,,1.0,,1.0
+25,280,Adrian Thompson,Mockingjay,,2.0,,2.0
+25,249,Lisa,Mockingjay,,1.0,,1.0
+25,361,David Kim,Mockingjay,,1.0,,1.0
+25,558,Sophie Anderson,Mockingjay,,2.0,,2.0
+25,252,Emily Johnson,Mockingjay,,1.0,,1.0
+25,93,Ethan,Mockingjay,,1.0,,1.0
+25,571,Ethan Brown,Mockingjay,,1.0,,1.0
+25,245,John Smith,Mockingjay,,2.0,,2.0
+25,397,Mark Johnson,Mockingjay,,1.0,,1.0
+25,16,Emma Parker,Mockingjay,,4.0,,4.0
+25,180,Luna Rossi,Mockingjay,,1.0,,1.0
+25,188,Anna Smith,Mockingjay,,1.0,,1.0
+25,213,David Lee,Mockingjay,,2.0,,2.0
+25,263,William Brown,Mockingjay,,1.0,,1.0
+25,515,Elijah Johnson,Mockingjay,,1.0,,1.0
+25,522,Elizabeth Taylor,Mockingjay,,1.0,,1.0
+25,352,Aaliyah Johnson,Mockingjay,,2.0,,2.0
+25,209,Ethan,Mockingjay,,1.0,,1.0
+25,67,James Johnson,Mockingjay,,2.0,,2.0
+25,83,Jackson,Mockingjay,,1.0,,1.0
+25,192,Emily Williams,Mockingjay,,1.0,,1.0
+25,371,Maya Patel,Mockingjay,,1.0,,1.0
+25,422,James,Mockingjay,,1.0,,1.0
+25,390,Emily Smith,Mockingjay,,1.0,,1.0
+25,370,David Lee,Mockingjay,,1.0,,1.0
+25,529,Ethan Lee,Mockingjay,,1.0,,1.0
+25,449,Jack Thompson,Mockingjay,,1.0,,1.0
+25,12,Alex Johnson,Mockingjay,,2.0,,2.0
+25,311,Oliver Wilson,Mockingjay,,1.0,,1.0
+25,332,Olivia Thompson,Mockingjay,,2.0,,2.0
+25,493,David Wilson,Mockingjay,,2.0,,2.0
+25,217,David,Mockingjay,,1.0,,1.0
+25,597,Ethan Davis,Mockingjay,,1.0,,1.0
+25,256,Ava,Mockingjay,,1.0,,1.0
+25,524,Emma Stone,Mockingjay,,1.0,,1.0
+25,474,Emma Thompson,Mockingjay,,1.0,,1.0
+25,517,Max,Mockingjay,,1.0,,1.0
+25,544,Sophia Thompson,Mockingjay,,1.0,,1.0
+25,555,Isabella Martinez,Mockingjay,,1.0,,1.0
+25,381,James Thompson,Mockingjay,,1.0,,1.0
+25,28,Ava Parker,Mockingjay,,2.0,,2.0
+25,475,James Clark,Mockingjay,,2.0,,2.0
+25,81,Ethan,Mockingjay,,1.0,,1.0
+25,559,Jack Chen,Mockingjay,,1.0,,1.0
+25,26,Sarah Lee,Mockingjay,,1.0,,1.0
+25,145,Ethan Thompson,Mockingjay,,1.0,,1.0
+25,2,Ava Green,Mockingjay,,1.0,,1.0
+25,331,Maria Rodriguez,Mockingjay,,2.0,,2.0
+25,494,Emily Jackson,Mockingjay,,1.0,,1.0
+25,373,Ethan Harris,Mockingjay,,2.0,,2.0
+25,147,William Brown,Mockingjay,,1.0,,1.0
+25,5,John Smith,Mockingjay,,1.0,,1.0
+25,364,Aaliyah Patel,Mockingjay,,2.0,,2.0
+25,266,Emily Thompson,Mockingjay,,2.0,,2.0
+25,431,Liam,Mockingjay,,1.0,,1.0
+25,436,Alex,Mockingjay,,1.0,,1.0
+25,181,Alex Williams,Mockingjay,,1.0,,1.0
+25,289,Jack Taylor,Mockingjay,,1.0,,1.0
+25,439,Lily,Mockingjay,,2.0,,2.0
+25,594,Sophia Taylor,Mockingjay,,1.0,,1.0
+25,40,Lily Johnson,Mockingjay,,2.0,,2.0
+25,595,David Thompson,Mockingjay,,1.0,,1.0
+25,32,Alex Johnson,Mockingjay,,1.0,,1.0
+25,556,Ava Lee,Mockingjay,,1.0,,1.0
+25,410,Emily Brown,Mockingjay,,2.0,,2.0
+25,534,David Thompson,Mockingjay,,2.0,,2.0
+25,573,John Davis,Mockingjay,,1.0,,1.0
+25,47,David Thompson,Mockingjay,,1.0,,1.0
+25,34,Henry Brown,Mockingjay,,1.0,,1.0
+25,477,John Miller,Mockingjay,,1.0,,1.0
+25,231,Robert Lee,Mockingjay,,1.0,,1.0
+25,523,David Johnson,Mockingjay,,1.0,,1.0
+25,450,Lily Wilson,Mockingjay,,1.0,,1.0
+25,296,Aaliyah Patel,Mockingjay,,1.0,,1.0
+25,41,James Thompson,Mockingjay,,1.0,,1.0
+25,466,James Parker,Mockingjay,,1.0,,1.0
+25,214,Emily Brown,Mockingjay,,1.0,,1.0
+29,412,Emily Johnson,The Battle of the Labyrinth,,4.0,,4.0
+29,84,Samantha Johnson,The Battle of the Labyrinth,,2.0,,2.0
+29,478,Emily Brown,The Battle of the Labyrinth,,1.0,,1.0
+29,482,Ava Martinez,The Battle of the Labyrinth,,1.0,,1.0
+29,551,Lily Taylor,The Battle of the Labyrinth,,3.0,,3.0
+29,16,Emma Parker,The Battle of the Labyrinth,,4.0,,4.0
+29,92,Ava,The Battle of the Labyrinth,,1.0,,1.0
+29,223,David Lee,The Battle of the Labyrinth,,3.0,,3.0
+29,333,William Brown,The Battle of the Labyrinth,,1.0,,1.0
+29,32,Alex Johnson,The Battle of the Labyrinth,,1.0,,1.0
+29,64,Emily Wilson,The Battle of the Labyrinth,,1.0,,1.0
+29,477,John Miller,The Battle of the Labyrinth,,1.0,,1.0
+29,51,Samuel Garcia,The Battle of the Labyrinth,,3.0,,3.0
+29,539,William Lee,The Battle of the Labyrinth,,1.0,,1.0
+29,467,Olivia Wilson,The Battle of the Labyrinth,,3.0,,3.0
+29,176,Evelyn Thompson,The Battle of the Labyrinth,,3.0,,3.0
+29,592,Aaliyah Williams,The Battle of the Labyrinth,,1.0,,1.0
+29,127,Samuel Johnson,The Battle of the Labyrinth,,1.0,,1.0
+29,425,Ethan,The Battle of the Labyrinth,,1.0,,1.0
+29,448,Emily Johnson,The Battle of the Labyrinth,,3.0,,3.0
+29,29,Eric,The Battle of the Labyrinth,,1.0,,1.0
+29,189,Michael Johnson,The Battle of the Labyrinth,,2.0,,2.0
+29,260,Emily Thompson,The Battle of the Labyrinth,,1.0,,1.0
+29,387,David Brown,The Battle of the Labyrinth,,2.0,,2.0
+29,136,Alex Johnson,The Battle of the Labyrinth,,1.0,,1.0
+29,240,Alex,The Battle of the Labyrinth,,1.0,,1.0
+29,417,John Smith,The Battle of the Labyrinth,,1.0,,1.0
+29,514,Olivia Wong,The Battle of the Labyrinth,,1.0,,1.0
+29,386,Emily Thompson,The Battle of the Labyrinth,,2.0,,2.0
+29,418,Emily Williams,The Battle of the Labyrinth,,1.0,,1.0
+29,27,David Martin,The Battle of the Labyrinth,,1.0,,1.0
+29,0,Lily Jackson,The Battle of the Labyrinth,,3.0,,3.0
+29,392,"Alexandra ""Alex"" Johnson",The Battle of the Labyrinth,,3.0,,3.0
+29,367,Christopher Walker,The Battle of the Labyrinth,,4.0,,4.0
+29,459,John Miller,The Battle of the Labyrinth,,1.0,,1.0
+29,490,Lily,The Battle of the Labyrinth,,1.0,,1.0
+29,265,Michael Williams,The Battle of the Labyrinth,,4.0,,4.0
+29,554,Mohammad Ali,The Battle of the Labyrinth,,1.0,,1.0
+29,35,Emily Lee,The Battle of the Labyrinth,,1.0,,1.0
+29,1,Marcus Williams,The Battle of the Labyrinth,,1.0,,1.0
+29,294,John,The Battle of the Labyrinth,,1.0,,1.0
+29,587,Elizabeth Johnson,The Battle of the Labyrinth,,1.0,,1.0
+29,332,Olivia Thompson,The Battle of the Labyrinth,,3.0,,3.0
+29,329,Emily Thompson,The Battle of the Labyrinth,,1.0,,1.0
+29,542,David Lee,The Battle of the Labyrinth,,1.0,,1.0
+29,502,Jared Lee,The Battle of the Labyrinth,,3.0,,3.0
+29,303,John Smith,The Battle of the Labyrinth,,1.0,,1.0
+29,10,Sophia Peterson,The Battle of the Labyrinth,,2.0,,2.0
+29,277,Ethan Green,The Battle of the Labyrinth,,1.0,,1.0
+29,405,Ethan Williams,The Battle of the Labyrinth,,1.0,,1.0
+29,350,Ethan Williams,The Battle of the Labyrinth,,1.0,,1.0
+29,37,Ethan Brown,The Battle of the Labyrinth,,2.0,,2.0
+29,306,Sarah,The Battle of the Labyrinth,,1.0,,1.0
+29,296,Aaliyah Patel,The Battle of the Labyrinth,,3.0,,3.0
+29,150,Isabella Rodriguez,The Battle of the Labyrinth,,3.0,,3.0
+29,6,Clara Brown,The Battle of the Labyrinth,,3.0,,3.0
+29,495,Ethan Brown,The Battle of the Labyrinth,,3.0,,3.0
+29,192,Emily Williams,The Battle of the Labyrinth,,1.0,,1.0
+29,4,Emma Wilson,The Battle of the Labyrinth,,1.0,,1.0
+29,538,Maria Rodriguez,The Battle of the Labyrinth,,3.0,,3.0
+29,532,Alex Johnson,The Battle of the Labyrinth,,1.0,,1.0
+29,137,Emily Kim,The Battle of the Labyrinth,,4.0,,4.0
+29,153,Lily Chen,The Battle of the Labyrinth,,2.0,,2.0
+29,394,Emily Smith,The Battle of the Labyrinth,,1.0,,1.0
+29,43,Mark Johnson,The Battle of the Labyrinth,,1.0,,1.0
+29,301,Jack Lee,The Battle of the Labyrinth,,1.0,,1.0
+29,180,Luna Rossi,The Battle of the Labyrinth,,2.0,,2.0
+29,9,Liam Johnson,The Battle of the Labyrinth,,1.0,,1.0
+29,516,Lily,The Battle of the Labyrinth,,2.0,,2.0
+29,246,Emily Jones,The Battle of the Labyrinth,,2.0,,2.0
+29,185,Mark Johnson,The Battle of the Labyrinth,,2.0,,2.0
+29,253,Thomas Brown,The Battle of the Labyrinth,,1.0,,1.0
+29,254,Elizabeth Williams,The Battle of the Labyrinth,,1.0,,1.0
+29,487,Sarah,The Battle of the Labyrinth,,1.0,,1.0
+29,262,Elizabeth Johnson,The Battle of the Labyrinth,,1.0,,1.0
+29,65,David Lee,The Battle of the Labyrinth,,2.0,,2.0
+29,34,Henry Brown,The Battle of the Labyrinth,,2.0,,2.0
+29,231,Robert Lee,The Battle of the Labyrinth,,3.0,,3.0
+29,257,Ethan,The Battle of the Labyrinth,,2.0,,2.0
+29,370,David Lee,The Battle of the Labyrinth,,1.0,,1.0
+29,124,Emily Johnson,The Battle of the Labyrinth,,1.0,,1.0
+29,406,Ava Roberts,The Battle of the Labyrinth,,1.0,,1.0
+29,300,Emily Johnson,The Battle of the Labyrinth,,3.0,,3.0
+29,204,Alex,The Battle of the Labyrinth,,1.0,,1.0
+29,42,Emily Wilson,The Battle of the Labyrinth,,4.0,,4.0
+29,233,Ethan Harris,The Battle of the Labyrinth,,1.0,,1.0
+29,358,David Lee,The Battle of the Labyrinth,,1.0,,1.0
+29,48,Emily Taylor,The Battle of the Labyrinth,,3.0,,3.0
+29,264,Alice Johnson,The Battle of the Labyrinth,,1.0,,1.0
+29,216,Ava,The Battle of the Labyrinth,,4.0,,4.0
+29,305,Jack,The Battle of the Labyrinth,,1.0,,1.0
+29,281,Elizabeth Williams,The Battle of the Labyrinth,,2.0,,2.0
+29,109,Ava,The Battle of the Labyrinth,,1.0,,1.0
+29,302,Sarah Thompson,The Battle of the Labyrinth,,1.0,,1.0
+29,237,Michael Johnson,The Battle of the Labyrinth,,3.0,,3.0
+29,24,Nisha Patel,The Battle of the Labyrinth,,1.0,,1.0
+29,498,Sophia,The Battle of the Labyrinth,,2.0,,2.0
+29,197,Ethan Thompson,The Battle of the Labyrinth,,1.0,,1.0
+29,205,Amy,The Battle of the Labyrinth,,1.0,,1.0
+29,110,Ben,The Battle of the Labyrinth,,1.0,,1.0
+33,508,Ava Green,The Shadow Rising,,2.0,,2.0
+33,400,Ava,The Shadow Rising,,3.0,,3.0
+33,562,Ava Martin,The Shadow Rising,,1.0,,1.0
+33,376,Aaliyah Johnson,The Shadow Rising,,2.0,,2.0
+33,525,William Smith,The Shadow Rising,,1.0,,1.0
+33,281,Elizabeth Williams,The Shadow Rising,,2.0,,2.0
+33,9,Liam Johnson,The Shadow Rising,,1.0,,1.0
+33,418,Emily Williams,The Shadow Rising,,1.0,,1.0
+33,251,Emily,The Shadow Rising,,1.0,,1.0
+33,179,James Jackson,The Shadow Rising,,2.0,,2.0
+33,173,Bob,The Shadow Rising,,4.0,,4.0
+33,172,Alice,The Shadow Rising,,1.0,,1.0
+33,503,Emily Chen,The Shadow Rising,,2.0,,2.0
+33,86,Sarah Wilson,The Shadow Rising,,1.0,,1.0
+33,1,Marcus Williams,The Shadow Rising,,1.0,,1.0
+33,404,Olivia Thompson,The Shadow Rising,,1.0,,1.0
+33,358,David Lee,The Shadow Rising,,1.0,,1.0
+33,61,John Smith,The Shadow Rising,,1.0,,1.0
+33,243,Lily,The Shadow Rising,,2.0,,2.0
+33,66,Sarah Jones,The Shadow Rising,,1.0,,1.0
+33,319,Emily,The Shadow Rising,,2.0,,2.0
+33,150,Isabella Rodriguez,The Shadow Rising,,3.0,,3.0
+33,375,Alexander Johnson,The Shadow Rising,,1.0,,1.0
+33,286,Mark Lee,The Shadow Rising,,1.0,,1.0
+33,361,David Kim,The Shadow Rising,,1.0,,1.0
+33,372,Amelia Parker,The Shadow Rising,,1.0,,1.0
+33,458,Lily Parker,The Shadow Rising,,1.0,,1.0
+33,107,Thomas Brown,The Shadow Rising,,1.0,,1.0
+33,282,James Johnson,The Shadow Rising,,1.0,,1.0
+33,113,James Johnson,The Shadow Rising,,1.0,,1.0
+33,520,Sarah Thompson,The Shadow Rising,,3.0,,3.0
+33,593,Samuel Johnson,The Shadow Rising,,1.0,,1.0
+33,515,Elijah Johnson,The Shadow Rising,,1.0,,1.0
+33,335,Michael Johnson,The Shadow Rising,,1.0,,1.0
+33,146,Emily Wilson,The Shadow Rising,,2.0,,2.0
+33,330,David Lee,The Shadow Rising,,1.0,,1.0
+33,448,Emily Johnson,The Shadow Rising,,3.0,,3.0
+33,262,Elizabeth Johnson,The Shadow Rising,,1.0,,1.0
+33,223,David Lee,The Shadow Rising,,3.0,,3.0
+33,225,Ethan,The Shadow Rising,,2.0,,2.0
+33,381,James Thompson,The Shadow Rising,,2.0,,2.0
+33,85,James Thompson,The Shadow Rising,,1.0,,1.0
+33,417,John Smith,The Shadow Rising,,1.0,,1.0
+33,289,Jack Taylor,The Shadow Rising,,1.0,,1.0
+33,492,Maya Patel,The Shadow Rising,,2.0,,2.0
+33,256,Ava,The Shadow Rising,,1.0,,1.0
+33,440,Lily Johnson,The Shadow Rising,,1.0,,1.0
+33,327,Daisy,The Shadow Rising,,1.0,,1.0
+33,599,Jackson Brown,The Shadow Rising,,1.0,,1.0
+33,426,Mia,The Shadow Rising,,1.0,,1.0
+33,124,Emily Johnson,The Shadow Rising,,1.0,,1.0
+33,437,Emma,The Shadow Rising,,3.0,,3.0
+33,565,Emily Thompson,The Shadow Rising,,1.0,,1.0
+33,421,Emma,The Shadow Rising,,1.0,,1.0
+33,16,Emma Parker,The Shadow Rising,,1.0,,1.0
+33,217,David,The Shadow Rising,,1.0,,1.0
+33,533,Samantha Davis,The Shadow Rising,,2.0,,2.0
+33,112,Olivia Thompson,The Shadow Rising,,2.0,,2.0
+33,402,Maya,The Shadow Rising,,1.0,,1.0
+33,37,Ethan Brown,The Shadow Rising,,1.0,,1.0
+33,579,Omar Hassan,The Shadow Rising,,1.0,,1.0
+33,116,Aaliyah Johnson,The Shadow Rising,,1.0,,1.0
+33,202,Sophia Brown,The Shadow Rising,,1.0,,1.0
+33,140,Ava,The Shadow Rising,,1.0,,1.0
+33,186,Sarah Thompson,The Shadow Rising,,1.0,,1.0
+33,60,Emily Williams,The Shadow Rising,,3.0,,3.0
+33,181,Alex Williams,The Shadow Rising,,1.0,,1.0
+33,567,Olivia Smith,The Shadow Rising,,1.0,,1.0
+33,337,Jack Thompson,The Shadow Rising,,1.0,,1.0
+33,506,Lily,The Shadow Rising,,1.0,,1.0
+33,296,Aaliyah Patel,The Shadow Rising,,1.0,,1.0
+33,528,Aaliyah Johnson,The Shadow Rising,,2.0,,2.0
+33,148,Ava Chen,The Shadow Rising,,1.0,,1.0
+33,369,Sofia Rodriguez,The Shadow Rising,,1.0,,1.0
+33,320,Alex Johnson,The Shadow Rising,,1.0,,1.0
+33,89,Ethan,The Shadow Rising,,1.0,,1.0
+33,29,Eric,The Shadow Rising,,2.0,,2.0
+33,250,John,The Shadow Rising,,3.0,,3.0
+33,334,Emily Smith,The Shadow Rising,,1.0,,1.0
+33,59,David Kim,The Shadow Rising,,3.0,,3.0
+33,22,Maya Rodriguez,The Shadow Rising,,1.0,,1.0
+33,213,David Lee,The Shadow Rising,,2.0,,2.0
+33,47,David Thompson,The Shadow Rising,,1.0,,1.0
+33,554,Mohammad Ali,The Shadow Rising,,1.0,,1.0
+33,266,Emily Thompson,The Shadow Rising,,1.0,,1.0
+33,312,Alex Johnson,The Shadow Rising,,1.0,,1.0
+33,390,Emily Smith,The Shadow Rising,,2.0,,2.0
+33,482,Ava Martinez,The Shadow Rising,,1.0,,1.0
+33,311,Oliver Wilson,The Shadow Rising,,1.0,,1.0
+33,246,Emily Jones,The Shadow Rising,,2.0,,2.0
+33,118,Sofia Rodriguez,The Shadow Rising,,2.0,,2.0
+33,76,Emily Wilson,The Shadow Rising,,1.0,,1.0
+33,531,James Anderson,The Shadow Rising,,2.0,,2.0
+33,583,Oliver Thompson,The Shadow Rising,,1.0,,1.0
+33,457,James Williams,The Shadow Rising,,1.0,,1.0
+33,484,Alex,The Shadow Rising,,1.0,,1.0
+33,88,Ava,The Shadow Rising,,1.0,,1.0
+33,473,Jack Taylor,The Shadow Rising,,1.0,,1.0
+33,98,David Kim,The Shadow Rising,,2.0,,2.0
+33,11,Jacob Nelson,The Shadow Rising,,1.0,,1.0
+37,41,James Thompson,Wizard and Glass,,2.0,,2.0
+37,575,David Thompson,Wizard and Glass,,1.0,,1.0
+37,389,Ryan Johnson,Wizard and Glass,,3.0,,3.0
+37,562,Ava Martin,Wizard and Glass,,2.0,,2.0
+37,563,Oliver Wilson,Wizard and Glass,,1.0,,1.0
+37,502,Jared Lee,Wizard and Glass,,4.0,,4.0
+37,205,Amy,Wizard and Glass,,1.0,,1.0
+37,427,Thomas,Wizard and Glass,,2.0,,2.0
+37,273,Emily Wilson,Wizard and Glass,,1.0,,1.0
+37,111,Caitlin,Wizard and Glass,,1.0,,1.0
+37,523,David Johnson,Wizard and Glass,,3.0,,3.0
+37,167,David,Wizard and Glass,,2.0,,2.0
+37,138,Samuel Lee,Wizard and Glass,,3.0,,3.0
+37,428,Ava,Wizard and Glass,,1.0,,1.0
+37,65,David Lee,Wizard and Glass,,1.0,,1.0
+37,415,David Lee,Wizard and Glass,,3.0,,3.0
+37,211,Benjamin,Wizard and Glass,,3.0,,3.0
+37,550,Ryan Lee,Wizard and Glass,,3.0,,3.0
+37,326,Charlie,Wizard and Glass,,1.0,,1.0
+37,238,Aisha Patel,Wizard and Glass,,1.0,,1.0
+37,186,Sarah Thompson,Wizard and Glass,,3.0,,3.0
+37,412,Emily Johnson,Wizard and Glass,,3.0,,3.0
+37,225,Ethan,Wizard and Glass,,4.0,,4.0
+37,239,David Kim,Wizard and Glass,,2.0,,2.0
+37,61,John Smith,Wizard and Glass,,2.0,,2.0
+37,490,Lily,Wizard and Glass,,1.0,,1.0
+37,114,Emily Adams,Wizard and Glass,,2.0,,2.0
+37,193,David Lee,Wizard and Glass,,2.0,,2.0
+37,379,James Thompson,Wizard and Glass,,1.0,,1.0
+37,515,Elijah Johnson,Wizard and Glass,,1.0,,1.0
+37,75,David Wilson,Wizard and Glass,,2.0,,2.0
+37,20,Aaliyah Patel,Wizard and Glass,,3.0,,3.0
+37,91,James,Wizard and Glass,,2.0,,2.0
+37,287,Lily Chen,Wizard and Glass,,3.0,,3.0
+37,467,Olivia Wilson,Wizard and Glass,,2.0,,2.0
+37,96,Alexander Chen,Wizard and Glass,,2.0,,2.0
+37,148,Ava Chen,Wizard and Glass,,1.0,,1.0
+37,494,Emily Jackson,Wizard and Glass,,2.0,,2.0
+37,298,Maria Hernandez,Wizard and Glass,,3.0,,3.0
+37,37,Ethan Brown,Wizard and Glass,,3.0,,3.0
+37,581,George Taylor,Wizard and Glass,,1.0,,1.0
+37,275,Maria Garcia,Wizard and Glass,,1.0,,1.0
+37,370,David Lee,Wizard and Glass,,2.0,,2.0
+37,332,Olivia Thompson,Wizard and Glass,,3.0,,3.0
+37,59,David Kim,Wizard and Glass,,1.0,,1.0
+37,354,Maya Patel,Wizard and Glass,,1.0,,1.0
+37,390,Emily Smith,Wizard and Glass,,1.0,,1.0
+37,334,Emily Smith,Wizard and Glass,,1.0,,1.0
+37,346,Sarah Davis,Wizard and Glass,,1.0,,1.0
+37,421,Emma,Wizard and Glass,,1.0,,1.0
+37,199,James Anderson,Wizard and Glass,,2.0,,2.0
+37,459,John Miller,Wizard and Glass,,1.0,,1.0
+37,88,Ava,Wizard and Glass,,2.0,,2.0
+37,264,Alice Johnson,Wizard and Glass,,1.0,,1.0
+37,256,Ava,Wizard and Glass,,1.0,,1.0
+37,272,Alex Johnson,Wizard and Glass,,1.0,,1.0
+37,435,Emily Wilson,Wizard and Glass,,1.0,,1.0
+37,74,Emily Johnson,Wizard and Glass,,1.0,,1.0
+37,67,James Johnson,Wizard and Glass,,2.0,,2.0
+37,321,Emily Lee,Wizard and Glass,,1.0,,1.0
+37,297,Ethan Lee,Wizard and Glass,,3.0,,3.0
+37,122,Jasmine,Wizard and Glass,,1.0,,1.0
+37,63,Michael Johnson,Wizard and Glass,,3.0,,3.0
+37,7,David Johnson,Wizard and Glass,,2.0,,2.0
+37,93,Ethan,Wizard and Glass,,1.0,,1.0
+37,566,David Lee,Wizard and Glass,,1.0,,1.0
+37,309,Liam Thompson,Wizard and Glass,,1.0,,1.0
+37,586,James Thompson,Wizard and Glass,,2.0,,2.0
+37,29,Eric,Wizard and Glass,,1.0,,1.0
+37,425,Ethan,Wizard and Glass,,1.0,,1.0
+37,444,Alex Miller,Wizard and Glass,,1.0,,1.0
+37,400,Ava,Wizard and Glass,,3.0,,3.0
+37,392,"Alexandra ""Alex"" Johnson",Wizard and Glass,,2.0,,2.0
+37,253,Thomas Brown,Wizard and Glass,,1.0,,1.0
+37,6,Clara Brown,Wizard and Glass,,1.0,,1.0
+37,496,Ava,Wizard and Glass,,2.0,,2.0
+37,282,James Johnson,Wizard and Glass,,1.0,,1.0
+37,178,Emily Williams,Wizard and Glass,,2.0,,2.0
+37,553,Emily Wilson,Wizard and Glass,,3.0,,3.0
+37,141,Liam,Wizard and Glass,,2.0,,2.0
+37,384,Maria Sanchez,Wizard and Glass,,1.0,,1.0
+37,455,Ethan Thompson,Wizard and Glass,,3.0,,3.0
+37,159,Mary Johnson,Wizard and Glass,,2.0,,2.0
+37,597,Ethan Davis,Wizard and Glass,,1.0,,1.0
+37,419,William Johnson,Wizard and Glass,,2.0,,2.0
+37,245,John Smith,Wizard and Glass,,4.0,,4.0
+37,378,Sarah Taylor,Wizard and Glass,,1.0,,1.0
+37,57,Lucas Green,Wizard and Glass,,3.0,,3.0
+37,214,Emily Brown,Wizard and Glass,,2.0,,2.0
+37,125,David Peterson,Wizard and Glass,,1.0,,1.0
+37,3,David Brown,Wizard and Glass,,2.0,,2.0
+37,14,John Lee,Wizard and Glass,,1.0,,1.0
+37,77,David Thompson,Wizard and Glass,,1.0,,1.0
+37,488,Ava,Wizard and Glass,,2.0,,2.0
+37,16,Emma Parker,Wizard and Glass,,3.0,,3.0
+37,53,Emily Chen,Wizard and Glass,,1.0,,1.0
+37,165,Ben,Wizard and Glass,,1.0,,1.0
+37,594,Sophia Taylor,Wizard and Glass,,1.0,,1.0
+37,137,Emily Kim,Wizard and Glass,,2.0,,2.0
+37,364,Aaliyah Patel,Wizard and Glass,,3.0,,3.0
+41,295,Catherine,The Missing Chums,,1.0,,1.0
+41,175,David,The Missing Chums,,2.0,,2.0
+41,408,"Alexandra ""Alex"" Johnson",The Missing Chums,,1.0,,1.0
+41,437,Emma,The Missing Chums,,3.0,,3.0
+41,245,John Smith,The Missing Chums,,3.0,,3.0
+41,265,Michael Williams,The Missing Chums,,3.0,,3.0
+41,213,David Lee,The Missing Chums,,3.0,,3.0
+41,50,Olivia Brown,The Missing Chums,,2.0,,2.0
+41,180,Luna Rossi,The Missing Chums,,4.0,,4.0
+41,139,Olivia Wilson,The Missing Chums,,1.0,,1.0
+41,125,David Peterson,The Missing Chums,,1.0,,1.0
+41,123,Alex,The Missing Chums,,2.0,,2.0
+41,436,Alex,The Missing Chums,,2.0,,2.0
+41,128,Aaliyah Johnson,The Missing Chums,,3.0,,3.0
+41,12,Alex Johnson,The Missing Chums,,1.0,,1.0
+41,417,John Smith,The Missing Chums,,1.0,,1.0
+41,591,Michael Brown,The Missing Chums,,2.0,,2.0
+41,62,Sarah Lee,The Missing Chums,,3.0,,3.0
+41,276,Ava Lee,The Missing Chums,,2.0,,2.0
+41,599,Jackson Brown,The Missing Chums,,3.0,,3.0
+41,452,Emily Wilson,The Missing Chums,,3.0,,3.0
+41,458,Lily Parker,The Missing Chums,,2.0,,2.0
+41,53,Emily Chen,The Missing Chums,,3.0,,3.0
+41,39,James Johnson,The Missing Chums,,3.0,,3.0
+41,272,Alex Johnson,The Missing Chums,,3.0,,3.0
+41,218,Sophia,The Missing Chums,,3.0,,3.0
+41,138,Samuel Lee,The Missing Chums,,1.0,,1.0
+41,488,Ava,The Missing Chums,,2.0,,2.0
+41,286,Mark Lee,The Missing Chums,,1.0,,1.0
+41,302,Sarah Thompson,The Missing Chums,,3.0,,3.0
+41,152,Ethan Thompson,The Missing Chums,,1.0,,1.0
+41,540,Alex Johnson,The Missing Chums,,2.0,,2.0
+41,146,Emily Wilson,The Missing Chums,,2.0,,2.0
+41,134,Emily Lee,The Missing Chums,,3.0,,3.0
+41,274,William Cooper,The Missing Chums,,3.0,,3.0
+41,241,Sofia,The Missing Chums,,2.0,,2.0
+41,432,Aaron Smith,The Missing Chums,,1.0,,1.0
+41,57,Lucas Green,The Missing Chums,,3.0,,3.0
+41,421,Emma,The Missing Chums,,2.0,,2.0
+41,4,Emma Wilson,The Missing Chums,,1.0,,1.0
+41,171,Emily Adams,The Missing Chums,,2.0,,2.0
+41,433,Sarah Johnson,The Missing Chums,,1.0,,1.0
+41,422,James,The Missing Chums,,2.0,,2.0
+41,424,Ava,The Missing Chums,,3.0,,3.0
+41,306,Sarah,The Missing Chums,,3.0,,3.0
+41,244,Alice Wilson,The Missing Chums,,3.0,,3.0
+41,111,Caitlin,The Missing Chums,,1.0,,1.0
+41,462,Sophie,The Missing Chums,,2.0,,2.0
+41,443,Michael Johnson,The Missing Chums,,1.0,,1.0
+41,367,Christopher Walker,The Missing Chums,,1.0,,1.0
+41,101,Ethan Thompson,The Missing Chums,,3.0,,3.0
+41,466,James Parker,The Missing Chums,,3.0,,3.0
+41,497,Ethan,The Missing Chums,,2.0,,2.0
+41,451,Mark Davis,The Missing Chums,,4.0,,4.0
+41,236,Emily Thompson,The Missing Chums,,1.0,,1.0
+41,185,Mark Johnson,The Missing Chums,,3.0,,3.0
+41,32,Alex Johnson,The Missing Chums,,2.0,,2.0
+41,34,Henry Brown,The Missing Chums,,1.0,,1.0
+41,149,Ethan Kim,The Missing Chums,,2.0,,2.0
+41,266,Emily Thompson,The Missing Chums,,2.0,,2.0
+41,119,William Brown,The Missing Chums,,2.0,,2.0
+41,552,Adrian Thompson,The Missing Chums,,2.0,,2.0
+41,277,Ethan Green,The Missing Chums,,1.0,,1.0
+41,506,Lily,The Missing Chums,,1.0,,1.0
+41,49,Alex Johnson,The Missing Chums,,1.0,,1.0
+41,508,Ava Green,The Missing Chums,,2.0,,2.0
+41,574,Emily Wilson,The Missing Chums,,1.0,,1.0
+41,481,Ryan Davis,The Missing Chums,,1.0,,1.0
+41,335,Michael Johnson,The Missing Chums,,1.0,,1.0
+41,598,Victoria Lee,The Missing Chums,,2.0,,2.0
+41,164,Ava,The Missing Chums,,1.0,,1.0
+41,388,"Alexandra ""Lexie"" Thompson",The Missing Chums,,1.0,,1.0
+41,132,Lily Johnson,The Missing Chums,,2.0,,2.0
+41,110,Ben,The Missing Chums,,1.0,,1.0
+41,253,Thomas Brown,The Missing Chums,,2.0,,2.0
+41,461,Max,The Missing Chums,,3.0,,3.0
+41,587,Elizabeth Johnson,The Missing Chums,,2.0,,2.0
+41,353,Ethan Kim,The Missing Chums,,2.0,,2.0
+41,37,Ethan Brown,The Missing Chums,,3.0,,3.0
+41,588,Emily Miller,The Missing Chums,,1.0,,1.0
+41,415,David Lee,The Missing Chums,,3.0,,3.0
+41,573,John Davis,The Missing Chums,,1.0,,1.0
+41,215,William Green,The Missing Chums,,2.0,,2.0
+41,418,Emily Williams,The Missing Chums,,1.0,,1.0
+41,467,Olivia Wilson,The Missing Chums,,1.0,,1.0
+41,440,Lily Johnson,The Missing Chums,,4.0,,4.0
+41,153,Lily Chen,The Missing Chums,,2.0,,2.0
+41,430,Luna,The Missing Chums,,2.0,,2.0
+41,346,Sarah Davis,The Missing Chums,,2.0,,2.0
+41,464,Oliver Sinclair,The Missing Chums,,1.0,,1.0
+41,509,Liam Wilson,The Missing Chums,,2.0,,2.0
+41,447,Emily Jones,The Missing Chums,,2.0,,2.0
+41,468,Alex Johnson,The Missing Chums,,2.0,,2.0
+41,118,Sofia Rodriguez,The Missing Chums,,3.0,,3.0
+41,52,Alex Johnson,The Missing Chums,,1.0,,1.0
+41,331,Maria Rodriguez,The Missing Chums,,3.0,,3.0
+41,339,David Lee,The Missing Chums,,4.0,,4.0
+41,73,Ethan Brown,The Missing Chums,,3.0,,3.0
+41,13,Emily Thompson,The Missing Chums,,3.0,,3.0
+41,355,Alex Rodriguez,The Missing Chums,,1.0,,1.0
+45,599,Jackson Brown,The Miserable Mill,,3.0,,3.0
+45,348,Alex Johnson,The Miserable Mill,,2.0,,2.0
+45,326,Charlie,The Miserable Mill,,2.0,,2.0
+45,289,Jack Taylor,The Miserable Mill,,1.0,,1.0
+45,34,Henry Brown,The Miserable Mill,,1.0,,1.0
+45,16,Emma Parker,The Miserable Mill,,1.0,,1.0
+45,396,Emily Thompson,The Miserable Mill,,2.0,,2.0
+45,53,Emily Chen,The Miserable Mill,,1.0,,1.0
+45,546,Emily Rodriguez,The Miserable Mill,,3.0,,3.0
+45,259,James,The Miserable Mill,,1.0,,1.0
+45,109,Ava,The Miserable Mill,,2.0,,2.0
+45,365,David Thompson,The Miserable Mill,,4.0,,4.0
+45,335,Michael Johnson,The Miserable Mill,,3.0,,3.0
+45,250,John,The Miserable Mill,,1.0,,1.0
+45,397,Mark Johnson,The Miserable Mill,,1.0,,1.0
+45,575,David Thompson,The Miserable Mill,,1.0,,1.0
+45,75,David Wilson,The Miserable Mill,,2.0,,2.0
+45,123,Alex,The Miserable Mill,,1.0,,1.0
+45,344,Emily Thompson,The Miserable Mill,,1.0,,1.0
+45,394,Emily Smith,The Miserable Mill,,1.0,,1.0
+45,389,Ryan Johnson,The Miserable Mill,,1.0,,1.0
+45,476,Sarah Thompson,The Miserable Mill,,1.0,,1.0
+45,590,Sarah Lee,The Miserable Mill,,2.0,,2.0
+45,260,Emily Thompson,The Miserable Mill,,2.0,,2.0
+45,38,Olivia Thompson,The Miserable Mill,,1.0,,1.0
+45,32,Alex Johnson,The Miserable Mill,,1.0,,1.0
+45,101,Ethan Thompson,The Miserable Mill,,3.0,,3.0
+45,557,Ethan Kim,The Miserable Mill,,3.0,,3.0
+45,519,David,The Miserable Mill,,2.0,,2.0
+45,218,Sophia,The Miserable Mill,,3.0,,3.0
+45,73,Ethan Brown,The Miserable Mill,,1.0,,1.0
+45,490,Lily,The Miserable Mill,,1.0,,1.0
+45,541,Emily Smith,The Miserable Mill,,2.0,,2.0
+45,286,Mark Lee,The Miserable Mill,,1.0,,1.0
+45,152,Ethan Thompson,The Miserable Mill,,1.0,,1.0
+45,322,Sam Patel,The Miserable Mill,,2.0,,2.0
+45,380,Aria Ross,The Miserable Mill,,1.0,,1.0
+45,362,Lily Johnson,The Miserable Mill,,2.0,,2.0
+45,25,Mark Johnson,The Miserable Mill,,1.0,,1.0
+45,500,Ethan Thompson,The Miserable Mill,,1.0,,1.0
+45,248,Alex,The Miserable Mill,,1.0,,1.0
+45,480,Olivia Thompson,The Miserable Mill,,1.0,,1.0
+45,349,Lily Green,The Miserable Mill,,1.0,,1.0
+45,206,Ben,The Miserable Mill,,1.0,,1.0
+45,350,Ethan Williams,The Miserable Mill,,1.0,,1.0
+45,276,Ava Lee,The Miserable Mill,,2.0,,2.0
+45,320,Alex Johnson,The Miserable Mill,,1.0,,1.0
+45,570,Mia Thompson,The Miserable Mill,,1.0,,1.0
+45,233,Ethan Harris,The Miserable Mill,,2.0,,2.0
+45,205,Amy,The Miserable Mill,,1.0,,1.0
+45,459,John Miller,The Miserable Mill,,3.0,,3.0
+45,334,Emily Smith,The Miserable Mill,,1.0,,1.0
+45,226,Maria,The Miserable Mill,,1.0,,1.0
+45,411,"William ""Bill"" Thompson",The Miserable Mill,,2.0,,2.0
+45,225,Ethan,The Miserable Mill,,2.0,,2.0
+45,398,Charlotte Brown,The Miserable Mill,,3.0,,3.0
+45,382,Sophia Lee,The Miserable Mill,,3.0,,3.0
+45,200,Ava Nelson,The Miserable Mill,,2.0,,2.0
+45,567,Olivia Smith,The Miserable Mill,,2.0,,2.0
+45,214,Emily Brown,The Miserable Mill,,1.0,,1.0
+45,535,Emily Wilson,The Miserable Mill,,1.0,,1.0
+45,563,Oliver Wilson,The Miserable Mill,,3.0,,3.0
+45,554,Mohammad Ali,The Miserable Mill,,3.0,,3.0
+45,98,David Kim,The Miserable Mill,,2.0,,2.0
+45,308,Emily Johnson,The Miserable Mill,,3.0,,3.0
+45,433,Sarah Johnson,The Miserable Mill,,1.0,,1.0
+45,103,Noah Nelson,The Miserable Mill,,1.0,,1.0
+45,429,Ethan,The Miserable Mill,,4.0,,4.0
+45,506,Lily,The Miserable Mill,,1.0,,1.0
+45,413,Samuel Williams,The Miserable Mill,,2.0,,2.0
+45,120,Ava,The Miserable Mill,,2.0,,2.0
+45,514,Olivia Wong,The Miserable Mill,,1.0,,1.0
+45,333,William Brown,The Miserable Mill,,1.0,,1.0
+45,300,Emily Johnson,The Miserable Mill,,3.0,,3.0
+45,268,Alice,The Miserable Mill,,1.0,,1.0
+45,7,David Johnson,The Miserable Mill,,1.0,,1.0
+45,244,Alice Wilson,The Miserable Mill,,2.0,,2.0
+45,303,John Smith,The Miserable Mill,,1.0,,1.0
+45,192,Emily Williams,The Miserable Mill,,1.0,,1.0
+45,204,Alex,The Miserable Mill,,1.0,,1.0
+45,562,Ava Martin,The Miserable Mill,,1.0,,1.0
+45,589,Jack Williams,The Miserable Mill,,1.0,,1.0
+45,22,Maya Rodriguez,The Miserable Mill,,2.0,,2.0
+45,545,Jack Williams,The Miserable Mill,,2.0,,2.0
+45,210,Maya,The Miserable Mill,,1.0,,1.0
+45,50,Olivia Brown,The Miserable Mill,,1.0,,1.0
+45,199,James Anderson,The Miserable Mill,,4.0,,4.0
+45,235,William Scott,The Miserable Mill,,3.0,,3.0
+45,313,Emily Chen,The Miserable Mill,,1.0,,1.0
+45,270,Claire,The Miserable Mill,,1.0,,1.0
+45,232,Amelia Johnson,The Miserable Mill,,2.0,,2.0
+45,505,Ethan,The Miserable Mill,,3.0,,3.0
+45,576,Aaliyah Patel,The Miserable Mill,,2.0,,2.0
+45,526,Lily Johnson,The Miserable Mill,,4.0,,4.0
+45,155,Emily Nguyen,The Miserable Mill,,1.0,,1.0
+45,478,Emily Brown,The Miserable Mill,,2.0,,2.0
+45,585,Emily Green,The Miserable Mill,,2.0,,2.0
+45,285,Sophie Thompson,The Miserable Mill,,1.0,,1.0
+45,168,Ethan Thompson,The Miserable Mill,,1.0,,1.0
+45,421,Emma,The Miserable Mill,,1.0,,1.0
+49,536,Emily Smith,The Mystery of the Green Ghost,,2.0,,2.0
+49,6,Clara Brown,The Mystery of the Green Ghost,,1.0,,1.0
+49,10,Sophia Peterson,The Mystery of the Green Ghost,,2.0,,2.0
+49,391,David Lee,The Mystery of the Green Ghost,,3.0,,3.0
+49,224,Lily,The Mystery of the Green Ghost,,3.0,,3.0
+49,294,John,The Mystery of the Green Ghost,,2.0,,2.0
+49,177,Samuel Johnson,The Mystery of the Green Ghost,,1.0,,1.0
+49,456,Ava Jones,The Mystery of the Green Ghost,,1.0,,1.0
+49,551,Lily Taylor,The Mystery of the Green Ghost,,2.0,,2.0
+49,323,Sophie Chen,The Mystery of the Green Ghost,,3.0,,3.0
+49,364,Aaliyah Patel,The Mystery of the Green Ghost,,1.0,,1.0
+49,595,David Thompson,The Mystery of the Green Ghost,,2.0,,2.0
+49,184,Emily Williams,The Mystery of the Green Ghost,,3.0,,3.0
+49,457,James Williams,The Mystery of the Green Ghost,,2.0,,2.0
+49,60,Emily Williams,The Mystery of the Green Ghost,,1.0,,1.0
+49,394,Emily Smith,The Mystery of the Green Ghost,,1.0,,1.0
+49,4,Emma Wilson,The Mystery of the Green Ghost,,1.0,,1.0
+49,326,Charlie,The Mystery of the Green Ghost,,1.0,,1.0
+49,159,Mary Johnson,The Mystery of the Green Ghost,,1.0,,1.0
+49,291,John Anderson,The Mystery of the Green Ghost,,1.0,,1.0
+49,239,David Kim,The Mystery of the Green Ghost,,1.0,,1.0
+49,48,Emily Taylor,The Mystery of the Green Ghost,,3.0,,3.0
+49,443,Michael Johnson,The Mystery of the Green Ghost,,2.0,,2.0
+49,0,Lily Jackson,The Mystery of the Green Ghost,,2.0,,2.0
+49,286,Mark Lee,The Mystery of the Green Ghost,,1.0,,1.0
+49,421,Emma,The Mystery of the Green Ghost,,1.0,,1.0
+49,459,John Miller,The Mystery of the Green Ghost,,3.0,,3.0
+49,126,Linda Chen,The Mystery of the Green Ghost,,1.0,,1.0
+49,447,Emily Jones,The Mystery of the Green Ghost,,1.0,,1.0
+49,594,Sophia Taylor,The Mystery of the Green Ghost,,1.0,,1.0
+49,333,William Brown,The Mystery of the Green Ghost,,1.0,,1.0
+49,476,Sarah Thompson,The Mystery of the Green Ghost,,2.0,,2.0
+49,103,Noah Nelson,The Mystery of the Green Ghost,,2.0,,2.0
+49,451,Mark Davis,The Mystery of the Green Ghost,,1.0,,1.0
+49,70,Sarah Davis,The Mystery of the Green Ghost,,3.0,,3.0
+49,568,Ava Green,The Mystery of the Green Ghost,,1.0,,1.0
+49,263,William Brown,The Mystery of the Green Ghost,,1.0,,1.0
+49,3,David Brown,The Mystery of the Green Ghost,,3.0,,3.0
+49,591,Michael Brown,The Mystery of the Green Ghost,,1.0,,1.0
+49,521,William Smith,The Mystery of the Green Ghost,,1.0,,1.0
+49,183,David Johnson,The Mystery of the Green Ghost,,1.0,,1.0
+49,101,Ethan Thompson,The Mystery of the Green Ghost,,3.0,,3.0
+49,463,James,The Mystery of the Green Ghost,,3.0,,3.0
+49,143,Ethan,The Mystery of the Green Ghost,,2.0,,2.0
+49,168,Ethan Thompson,The Mystery of the Green Ghost,,1.0,,1.0
+49,388,"Alexandra ""Lexie"" Thompson",The Mystery of the Green Ghost,,2.0,,2.0
+49,379,James Thompson,The Mystery of the Green Ghost,,1.0,,1.0
+49,508,Ava Green,The Mystery of the Green Ghost,,2.0,,2.0
+49,53,Emily Chen,The Mystery of the Green Ghost,,3.0,,3.0
+49,202,Sophia Brown,The Mystery of the Green Ghost,,2.0,,2.0
+49,437,Emma,The Mystery of the Green Ghost,,3.0,,3.0
+49,324,Ava,The Mystery of the Green Ghost,,3.0,,3.0
+49,403,David,The Mystery of the Green Ghost,,1.0,,1.0
+49,529,Ethan Lee,The Mystery of the Green Ghost,,1.0,,1.0
+49,222,Sarah Jones,The Mystery of the Green Ghost,,3.0,,3.0
+49,9,Liam Johnson,The Mystery of the Green Ghost,,1.0,,1.0
+49,347,William Brown,The Mystery of the Green Ghost,,1.0,,1.0
+49,575,David Thompson,The Mystery of the Green Ghost,,1.0,,1.0
+49,282,James Johnson,The Mystery of the Green Ghost,,2.0,,2.0
+49,572,Samantha Smith,The Mystery of the Green Ghost,,1.0,,1.0
+49,472,Lily Johnson,The Mystery of the Green Ghost,,3.0,,3.0
+49,67,James Johnson,The Mystery of the Green Ghost,,3.0,,3.0
+49,531,James Anderson,The Mystery of the Green Ghost,,1.0,,1.0
+49,348,Alex Johnson,The Mystery of the Green Ghost,,1.0,,1.0
+49,154,Jack Lee,The Mystery of the Green Ghost,,2.0,,2.0
+49,412,Emily Johnson,The Mystery of the Green Ghost,,2.0,,2.0
+49,556,Ava Lee,The Mystery of the Green Ghost,,2.0,,2.0
+49,262,Elizabeth Johnson,The Mystery of the Green Ghost,,1.0,,1.0
+49,162,Emily,The Mystery of the Green Ghost,,2.0,,2.0
+49,273,Emily Wilson,The Mystery of the Green Ghost,,2.0,,2.0
+49,206,Ben,The Mystery of the Green Ghost,,2.0,,2.0
+49,520,Sarah Thompson,The Mystery of the Green Ghost,,1.0,,1.0
+49,360,Sarah Lee,The Mystery of the Green Ghost,,3.0,,3.0
+49,396,Emily Thompson,The Mystery of the Green Ghost,,1.0,,1.0
+49,171,Emily Adams,The Mystery of the Green Ghost,,1.0,,1.0
+49,207,Catherine,The Mystery of the Green Ghost,,1.0,,1.0
+49,56,Ava Anderson,The Mystery of the Green Ghost,,1.0,,1.0
+49,134,Emily Lee,The Mystery of the Green Ghost,,4.0,,4.0
+49,411,"William ""Bill"" Thompson",The Mystery of the Green Ghost,,2.0,,2.0
+49,567,Olivia Smith,The Mystery of the Green Ghost,,1.0,,1.0
+49,176,Evelyn Thompson,The Mystery of the Green Ghost,,3.0,,3.0
+49,142,Isabella,The Mystery of the Green Ghost,,3.0,,3.0
+49,197,Ethan Thompson,The Mystery of the Green Ghost,,3.0,,3.0
+49,519,David,The Mystery of the Green Ghost,,3.0,,3.0
+49,429,Ethan,The Mystery of the Green Ghost,,3.0,,3.0
+49,516,Lily,The Mystery of the Green Ghost,,2.0,,2.0
+49,592,Aaliyah Williams,The Mystery of the Green Ghost,,1.0,,1.0
+49,402,Maya,The Mystery of the Green Ghost,,1.0,,1.0
+49,158,James Lee,The Mystery of the Green Ghost,,3.0,,3.0
+49,300,Emily Johnson,The Mystery of the Green Ghost,,2.0,,2.0
+49,497,Ethan,The Mystery of the Green Ghost,,1.0,,1.0
+49,236,Emily Thompson,The Mystery of the Green Ghost,,1.0,,1.0
+49,477,John Miller,The Mystery of the Green Ghost,,2.0,,2.0
+49,145,Ethan Thompson,The Mystery of the Green Ghost,,1.0,,1.0
+49,120,Ava,The Mystery of the Green Ghost,,3.0,,3.0
+49,393,Adam Miller,The Mystery of the Green Ghost,,1.0,,1.0
+49,85,James Thompson,The Mystery of the Green Ghost,,1.0,,1.0
+49,455,Ethan Thompson,The Mystery of the Green Ghost,,2.0,,2.0
+49,452,Emily Wilson,The Mystery of the Green Ghost,,3.0,,3.0
+49,164,Ava,The Mystery of the Green Ghost,,1.0,,1.0
+53,19,Ethan Thompson,Judgement Day,,1.0,,1.0
+53,62,Sarah Lee,Judgement Day,,1.0,,1.0
+53,244,Alice Wilson,Judgement Day,,1.0,,1.0
+53,416,Lily Jackson,Judgement Day,,3.0,,3.0
+53,381,James Thompson,Judgement Day,,1.0,,1.0
+53,530,Isabella Rodriguez,Judgement Day,,1.0,,1.0
+53,187,William Brown,Judgement Day,,2.0,,2.0
+53,160,Alice,Judgement Day,,2.0,,2.0
+53,344,Emily Thompson,Judgement Day,,2.0,,2.0
+53,378,Sarah Taylor,Judgement Day,,2.0,,2.0
+53,427,Thomas,Judgement Day,,2.0,,2.0
+53,145,Ethan Thompson,Judgement Day,,1.0,,1.0
+53,249,Lisa,Judgement Day,,2.0,,2.0
+53,152,Ethan Thompson,Judgement Day,,1.0,,1.0
+53,183,David Johnson,Judgement Day,,3.0,,3.0
+53,499,William,Judgement Day,,1.0,,1.0
+53,586,James Thompson,Judgement Day,,2.0,,2.0
+53,418,Emily Williams,Judgement Day,,1.0,,1.0
+53,485,Emily,Judgement Day,,3.0,,3.0
+53,227,Max,Judgement Day,,1.0,,1.0
+53,238,Aisha Patel,Judgement Day,,1.0,,1.0
+53,338,Emily Wilson,Judgement Day,,1.0,,1.0
+53,114,Emily Adams,Judgement Day,,1.0,,1.0
+53,281,Elizabeth Williams,Judgement Day,,1.0,,1.0
+53,420,Alex,Judgement Day,,2.0,,2.0
+53,269,Ben,Judgement Day,,1.0,,1.0
+53,367,Christopher Walker,Judgement Day,,2.0,,2.0
+53,560,Lily Patel,Judgement Day,,1.0,,1.0
+53,166,Carol,Judgement Day,,1.0,,1.0
+53,9,Liam Johnson,Judgement Day,,1.0,,1.0
+53,453,David Smith,Judgement Day,,1.0,,1.0
+53,58,Sarah Lee,Judgement Day,,2.0,,2.0
+53,50,Olivia Brown,Judgement Day,,1.0,,1.0
+53,179,James Jackson,Judgement Day,,1.0,,1.0
+53,190,Emma Williams,Judgement Day,,2.0,,2.0
+53,426,Mia,Judgement Day,,2.0,,2.0
+53,400,Ava,Judgement Day,,1.0,,1.0
+53,285,Sophie Thompson,Judgement Day,,2.0,,2.0
+53,7,David Johnson,Judgement Day,,2.0,,2.0
+53,549,Emma Rodriguez,Judgement Day,,1.0,,1.0
+53,39,James Johnson,Judgement Day,,1.0,,1.0
+53,561,Ethan Mitchell,Judgement Day,,1.0,,1.0
+53,157,Sophia Brown,Judgement Day,,1.0,,1.0
+53,475,James Clark,Judgement Day,,2.0,,2.0
+53,69,Emily Lee,Judgement Day,,1.0,,1.0
+53,130,Sofia Garcia,Judgement Day,,2.0,,2.0
+53,480,Olivia Thompson,Judgement Day,,2.0,,2.0
+53,532,Alex Johnson,Judgement Day,,2.0,,2.0
+53,118,Sofia Rodriguez,Judgement Day,,1.0,,1.0
+53,117,Ethan Thompson,Judgement Day,,1.0,,1.0
+53,521,William Smith,Judgement Day,,1.0,,1.0
+53,64,Emily Wilson,Judgement Day,,2.0,,2.0
+53,327,Daisy,Judgement Day,,2.0,,2.0
+53,129,Mark Thompson,Judgement Day,,1.0,,1.0
+53,520,Sarah Thompson,Judgement Day,,2.0,,2.0
+53,533,Samantha Davis,Judgement Day,,1.0,,1.0
+53,442,Emma Williams,Judgement Day,,1.0,,1.0
+53,32,Alex Johnson,Judgement Day,,1.0,,1.0
+53,168,Ethan Thompson,Judgement Day,,1.0,,1.0
+53,492,Maya Patel,Judgement Day,,2.0,,2.0
+53,256,Ava,Judgement Day,,2.0,,2.0
+53,329,Emily Thompson,Judgement Day,,1.0,,1.0
+53,262,Elizabeth Johnson,Judgement Day,,1.0,,1.0
+53,291,John Anderson,Judgement Day,,1.0,,1.0
+53,30,Emma,Judgement Day,,1.0,,1.0
+53,144,Olivia Johnson,Judgement Day,,2.0,,2.0
+53,38,Olivia Thompson,Judgement Day,,1.0,,1.0
+53,564,Alex Johnson,Judgement Day,,1.0,,1.0
+53,456,Ava Jones,Judgement Day,,1.0,,1.0
+53,562,Ava Martin,Judgement Day,,1.0,,1.0
+53,563,Oliver Wilson,Judgement Day,,1.0,,1.0
+53,594,Sophia Taylor,Judgement Day,,1.0,,1.0
+53,316,Aiden Thompson,Judgement Day,,1.0,,1.0
+53,493,David Wilson,Judgement Day,,3.0,,3.0
+53,220,Emily Johnson,Judgement Day,,2.0,,2.0
+53,266,Emily Thompson,Judgement Day,,1.0,,1.0
+53,335,Michael Johnson,Judgement Day,,2.0,,2.0
+53,265,Michael Williams,Judgement Day,,1.0,,1.0
+53,538,Maria Rodriguez,Judgement Day,,1.0,,1.0
+53,513,Ethan Thompson,Judgement Day,,1.0,,1.0
+53,323,Sophie Chen,Judgement Day,,1.0,,1.0
+53,186,Sarah Thompson,Judgement Day,,3.0,,3.0
+53,341,Sarah Lee,Judgement Day,,1.0,,1.0
+53,490,Lily,Judgement Day,,3.0,,3.0
+53,302,Sarah Thompson,Judgement Day,,2.0,,2.0
+53,46,Samantha Lee,Judgement Day,,1.0,,1.0
+53,104,Hannah Johnson,Judgement Day,,3.0,,3.0
+53,419,William Johnson,Judgement Day,,2.0,,2.0
+53,355,Alex Rodriguez,Judgement Day,,3.0,,3.0
+53,383,Samuel Brown,Judgement Day,,2.0,,2.0
+53,279,William Taylor,Judgement Day,,4.0,,4.0
+53,216,Ava,Judgement Day,,3.0,,3.0
+53,336,Sarah Johnson,Judgement Day,,1.0,,1.0
+53,548,Alex Johnson,Judgement Day,,3.0,,3.0
+53,429,Ethan,Judgement Day,,3.0,,3.0
+53,446,William Brown,Judgement Day,,3.0,,3.0
+53,299,Mark Johnson,Judgement Day,,2.0,,2.0
+53,161,Tom,Judgement Day,,1.0,,1.0
+53,163,Jack,Judgement Day,,1.0,,1.0
+53,566,David Lee,Judgement Day,,2.0,,2.0
+56,567,Olivia Smith,Second Foundation,,3.0,,3.0
+56,151,Michael Johnson,Second Foundation,,2.0,,2.0
+56,197,Ethan Thompson,Second Foundation,,1.0,,1.0
+56,184,Emily Williams,Second Foundation,,1.0,,1.0
+56,107,Thomas Brown,Second Foundation,,1.0,,1.0
+56,559,Jack Chen,Second Foundation,,1.0,,1.0
+56,460,Ava,Second Foundation,,2.0,,2.0
+56,33,Lily Chen,Second Foundation,,1.0,,1.0
+56,134,Emily Lee,Second Foundation,,1.0,,1.0
+56,412,Emily Johnson,Second Foundation,,1.0,,1.0
+56,547,David White,Second Foundation,,1.0,,1.0
+56,337,Jack Thompson,Second Foundation,,1.0,,1.0
+56,91,James,Second Foundation,,1.0,,1.0
+56,580,Emma Woods,Second Foundation,,1.0,,1.0
+56,223,David Lee,Second Foundation,,2.0,,2.0
+56,345,James Johnson,Second Foundation,,1.0,,1.0
+56,514,Olivia Wong,Second Foundation,,1.0,,1.0
+56,405,Ethan Williams,Second Foundation,,2.0,,2.0
+56,272,Alex Johnson,Second Foundation,,1.0,,1.0
+56,432,Aaron Smith,Second Foundation,,1.0,,1.0
+56,274,William Cooper,Second Foundation,,1.0,,1.0
+56,284,Akira Saito,Second Foundation,,1.0,,1.0
+56,44,Emily Johnson,Second Foundation,,2.0,,2.0
+56,214,Emily Brown,Second Foundation,,1.0,,1.0
+56,191,David Lee,Second Foundation,,2.0,,2.0
+56,120,Ava,Second Foundation,,2.0,,2.0
+56,216,Ava,Second Foundation,,1.0,,1.0
+56,88,Ava,Second Foundation,,2.0,,2.0
+56,573,John Davis,Second Foundation,,1.0,,1.0
+56,25,Mark Johnson,Second Foundation,,1.0,,1.0
+56,34,Henry Brown,Second Foundation,,3.0,,3.0
+56,1,Marcus Williams,Second Foundation,,1.0,,1.0
+56,159,Mary Johnson,Second Foundation,,2.0,,2.0
+56,379,James Thompson,Second Foundation,,1.0,,1.0
+56,139,Olivia Wilson,Second Foundation,,2.0,,2.0
+56,288,Emily Johnson,Second Foundation,,1.0,,1.0
+56,286,Mark Lee,Second Foundation,,1.0,,1.0
+56,478,Emily Brown,Second Foundation,,1.0,,1.0
+56,135,Robert Brown,Second Foundation,,2.0,,2.0
+56,222,Sarah Jones,Second Foundation,,2.0,,2.0
+56,422,James,Second Foundation,,3.0,,3.0
+56,20,Aaliyah Patel,Second Foundation,,1.0,,1.0
+56,235,William Scott,Second Foundation,,1.0,,1.0
+56,463,James,Second Foundation,,1.0,,1.0
+56,546,Emily Rodriguez,Second Foundation,,1.0,,1.0
+56,61,John Smith,Second Foundation,,2.0,,2.0
+56,7,David Johnson,Second Foundation,,1.0,,1.0
+56,251,Emily,Second Foundation,,1.0,,1.0
+56,271,David,Second Foundation,,1.0,,1.0
+56,532,Alex Johnson,Second Foundation,,1.0,,1.0
+56,189,Michael Johnson,Second Foundation,,1.0,,1.0
+56,3,David Brown,Second Foundation,,2.0,,2.0
+56,171,Emily Adams,Second Foundation,,3.0,,3.0
+56,436,Alex,Second Foundation,,4.0,,4.0
+56,28,Ava Parker,Second Foundation,,2.0,,2.0
+56,401,Alex,Second Foundation,,1.0,,1.0
+56,416,Lily Jackson,Second Foundation,,1.0,,1.0
+56,108,Alex,Second Foundation,,2.0,,2.0
+56,209,Ethan,Second Foundation,,1.0,,1.0
+56,105,William Smith,Second Foundation,,1.0,,1.0
+56,257,Ethan,Second Foundation,,2.0,,2.0
+56,165,Ben,Second Foundation,,1.0,,1.0
+56,220,Emily Johnson,Second Foundation,,1.0,,1.0
+56,579,Omar Hassan,Second Foundation,,2.0,,2.0
+56,48,Emily Taylor,Second Foundation,,1.0,,1.0
+56,508,Ava Green,Second Foundation,,2.0,,2.0
+56,529,Ethan Lee,Second Foundation,,1.0,,1.0
+56,306,Sarah,Second Foundation,,1.0,,1.0
+56,498,Sophia,Second Foundation,,1.0,,1.0
+56,352,Aaliyah Johnson,Second Foundation,,1.0,,1.0
+56,229,Michael Johnson,Second Foundation,,1.0,,1.0
+56,264,Alice Johnson,Second Foundation,,2.0,,2.0
+56,394,Emily Smith,Second Foundation,,1.0,,1.0
+56,519,David,Second Foundation,,2.0,,2.0
+56,64,Emily Wilson,Second Foundation,,2.0,,2.0
+56,302,Sarah Thompson,Second Foundation,,1.0,,1.0
+56,356,Adrian Thompson,Second Foundation,,2.0,,2.0
+56,202,Sophia Brown,Second Foundation,,2.0,,2.0
+56,11,Jacob Nelson,Second Foundation,,1.0,,1.0
+56,183,David Johnson,Second Foundation,,2.0,,2.0
+56,79,William Green,Second Foundation,,1.0,,1.0
+56,496,Ava,Second Foundation,,1.0,,1.0
+56,241,Sofia,Second Foundation,,1.0,,1.0
+56,282,James Johnson,Second Foundation,,1.0,,1.0
+56,486,John,Second Foundation,,1.0,,1.0
+56,557,Ethan Kim,Second Foundation,,1.0,,1.0
+56,539,William Lee,Second Foundation,,1.0,,1.0
+56,287,Lily Chen,Second Foundation,,1.0,,1.0
+56,319,Emily,Second Foundation,,1.0,,1.0
+56,94,Sarah,Second Foundation,,1.0,,1.0
+56,127,Samuel Johnson,Second Foundation,,1.0,,1.0
+56,584,Oliver Harris,Second Foundation,,1.0,,1.0
+56,16,Emma Parker,Second Foundation,,2.0,,2.0
+56,311,Oliver Wilson,Second Foundation,,1.0,,1.0
+56,248,Alex,Second Foundation,,1.0,,1.0
+56,331,Maria Rodriguez,Second Foundation,,1.0,,1.0
+56,291,John Anderson,Second Foundation,,2.0,,2.0
+56,334,Emily Smith,Second Foundation,,1.0,,1.0
+56,292,Alex,Second Foundation,,1.0,,1.0
+56,275,Maria Garcia,Second Foundation,,2.0,,2.0
+60,170,Jack Green,Summer Knight,,2.0,,2.0
+60,95,Thomas,Summer Knight,,2.0,,2.0
+60,119,William Brown,Summer Knight,,3.0,,3.0
+60,496,Ava,Summer Knight,,3.0,,3.0
+60,505,Ethan,Summer Knight,,4.0,,4.0
+60,524,Emma Stone,Summer Knight,,4.0,,4.0
+60,492,Maya Patel,Summer Knight,,2.0,,2.0
+60,523,David Johnson,Summer Knight,,1.0,,1.0
+60,332,Olivia Thompson,Summer Knight,,4.0,,4.0
+60,264,Alice Johnson,Summer Knight,,3.0,,3.0
+60,513,Ethan Thompson,Summer Knight,,1.0,,1.0
+60,516,Lily,Summer Knight,,2.0,,2.0
+60,538,Maria Rodriguez,Summer Knight,,1.0,,1.0
+60,289,Jack Taylor,Summer Knight,,1.0,,1.0
+60,10,Sophia Peterson,Summer Knight,,2.0,,2.0
+60,563,Oliver Wilson,Summer Knight,,3.0,,3.0
+60,548,Alex Johnson,Summer Knight,,4.0,,4.0
+60,277,Ethan Green,Summer Knight,,2.0,,2.0
+60,577,Ethan Kim,Summer Knight,,2.0,,2.0
+60,519,David,Summer Knight,,1.0,,1.0
+60,237,Michael Johnson,Summer Knight,,2.0,,2.0
+60,567,Olivia Smith,Summer Knight,,3.0,,3.0
+60,500,Ethan Thompson,Summer Knight,,2.0,,2.0
+60,85,James Thompson,Summer Knight,,1.0,,1.0
+60,24,Nisha Patel,Summer Knight,,1.0,,1.0
+60,154,Jack Lee,Summer Knight,,2.0,,2.0
+60,98,David Kim,Summer Knight,,2.0,,2.0
+60,39,James Johnson,Summer Knight,,1.0,,1.0
+60,546,Emily Rodriguez,Summer Knight,,2.0,,2.0
+60,221,Mark Thompson,Summer Knight,,2.0,,2.0
+60,66,Sarah Jones,Summer Knight,,1.0,,1.0
+60,571,Ethan Brown,Summer Knight,,1.0,,1.0
+60,575,David Thompson,Summer Knight,,2.0,,2.0
+60,498,Sophia,Summer Knight,,2.0,,2.0
+60,211,Benjamin,Summer Knight,,3.0,,3.0
+60,206,Ben,Summer Knight,,2.0,,2.0
+60,120,Ava,Summer Knight,,2.0,,2.0
+60,422,James,Summer Knight,,3.0,,3.0
+60,321,Emily Lee,Summer Knight,,1.0,,1.0
+60,239,David Kim,Summer Knight,,2.0,,2.0
+60,315,Sarah Lee,Summer Knight,,1.0,,1.0
+60,284,Akira Saito,Summer Knight,,1.0,,1.0
+60,217,David,Summer Knight,,1.0,,1.0
+60,260,Emily Thompson,Summer Knight,,2.0,,2.0
+60,228,Emily Thompson,Summer Knight,,2.0,,2.0
+60,156,Jared Smith,Summer Knight,,1.0,,1.0
+60,581,George Taylor,Summer Knight,,1.0,,1.0
+60,112,Olivia Thompson,Summer Knight,,1.0,,1.0
+60,76,Emily Wilson,Summer Knight,,1.0,,1.0
+60,520,Sarah Thompson,Summer Knight,,2.0,,2.0
+60,87,David Lee,Summer Knight,,4.0,,4.0
+60,344,Emily Thompson,Summer Knight,,3.0,,3.0
+60,363,William Brown,Summer Knight,,4.0,,4.0
+60,336,Sarah Johnson,Summer Knight,,1.0,,1.0
+60,489,Alex,Summer Knight,,1.0,,1.0
+60,423,Sophia,Summer Knight,,2.0,,2.0
+60,591,Michael Brown,Summer Knight,,4.0,,4.0
+60,355,Alex Rodriguez,Summer Knight,,1.0,,1.0
+60,65,David Lee,Summer Knight,,1.0,,1.0
+60,127,Samuel Johnson,Summer Knight,,3.0,,3.0
+60,231,Robert Lee,Summer Knight,,2.0,,2.0
+60,499,William,Summer Knight,,2.0,,2.0
+60,178,Emily Williams,Summer Knight,,2.0,,2.0
+60,256,Ava,Summer Knight,,2.0,,2.0
+60,574,Emily Wilson,Summer Knight,,1.0,,1.0
+60,8,Luna James,Summer Knight,,1.0,,1.0
+60,212,Sarah Johnson,Summer Knight,,1.0,,1.0
+60,30,Emma,Summer Knight,,1.0,,1.0
+60,433,Sarah Johnson,Summer Knight,,1.0,,1.0
+60,249,Lisa,Summer Knight,,1.0,,1.0
+60,480,Olivia Thompson,Summer Knight,,3.0,,3.0
+60,387,David Brown,Summer Knight,,2.0,,2.0
+60,135,Robert Brown,Summer Knight,,1.0,,1.0
+60,380,Aria Ross,Summer Knight,,2.0,,2.0
+60,300,Emily Johnson,Summer Knight,,3.0,,3.0
+60,97,Ava Nguyen,Summer Knight,,1.0,,1.0
+60,53,Emily Chen,Summer Knight,,4.0,,4.0
+60,296,Aaliyah Patel,Summer Knight,,3.0,,3.0
+60,235,William Scott,Summer Knight,,1.0,,1.0
+60,435,Emily Wilson,Summer Knight,,2.0,,2.0
+60,436,Alex,Summer Knight,,2.0,,2.0
+60,198,Lily Wilson,Summer Knight,,2.0,,2.0
+60,531,James Anderson,Summer Knight,,1.0,,1.0
+60,375,Alexander Johnson,Summer Knight,,1.0,,1.0
+60,269,Ben,Summer Knight,,1.0,,1.0
+60,15,Sarah Smith,Summer Knight,,3.0,,3.0
+60,93,Ethan,Summer Knight,,3.0,,3.0
+60,323,Sophie Chen,Summer Knight,,1.0,,1.0
+60,564,Alex Johnson,Summer Knight,,2.0,,2.0
+60,466,James Parker,Summer Knight,,3.0,,3.0
+60,210,Maya,Summer Knight,,3.0,,3.0
+60,167,David,Summer Knight,,1.0,,1.0
+60,439,Lily,Summer Knight,,1.0,,1.0
+60,123,Alex,Summer Knight,,2.0,,2.0
+60,504,Ava,Summer Knight,,3.0,,3.0
+60,471,Emily Johnson,Summer Knight,,3.0,,3.0
+60,385,Mark Johnson,Summer Knight,,3.0,,3.0
+60,534,David Thompson,Summer Knight,,1.0,,1.0
+60,310,Sophia Lee,Summer Knight,,2.0,,2.0
+60,34,Henry Brown,Summer Knight,,1.0,,1.0
+64,441,David Kim,Drums of Autumn,,2.0,,2.0
+64,557,Ethan Kim,Drums of Autumn,,2.0,,2.0
+64,272,Alex Johnson,Drums of Autumn,,1.0,,1.0
+64,149,Ethan Kim,Drums of Autumn,,1.0,,1.0
+64,290,Amanda Williams,Drums of Autumn,,1.0,,1.0
+64,440,Lily Johnson,Drums of Autumn,,1.0,,1.0
+64,479,James Anderson,Drums of Autumn,,1.0,,1.0
+64,293,Sarah,Drums of Autumn,,3.0,,3.0
+64,493,David Wilson,Drums of Autumn,,2.0,,2.0
+64,185,Mark Johnson,Drums of Autumn,,1.0,,1.0
+64,307,Michael,Drums of Autumn,,3.0,,3.0
+64,56,Ava Anderson,Drums of Autumn,,1.0,,1.0
+64,174,Charlotte,Drums of Autumn,,1.0,,1.0
+64,428,Ava,Drums of Autumn,,2.0,,2.0
+64,500,Ethan Thompson,Drums of Autumn,,1.0,,1.0
+64,123,Alex,Drums of Autumn,,1.0,,1.0
+64,330,David Lee,Drums of Autumn,,1.0,,1.0
+64,367,Christopher Walker,Drums of Autumn,,2.0,,2.0
+64,72,Avery Adams,Drums of Autumn,,2.0,,2.0
+64,39,James Johnson,Drums of Autumn,,1.0,,1.0
+64,162,Emily,Drums of Autumn,,3.0,,3.0
+64,120,Ava,Drums of Autumn,,2.0,,2.0
+64,261,Liam Adams,Drums of Autumn,,2.0,,2.0
+64,217,David,Drums of Autumn,,1.0,,1.0
+64,567,Olivia Smith,Drums of Autumn,,1.0,,1.0
+64,453,David Smith,Drums of Autumn,,1.0,,1.0
+64,315,Sarah Lee,Drums of Autumn,,1.0,,1.0
+64,457,James Williams,Drums of Autumn,,1.0,,1.0
+64,49,Alex Johnson,Drums of Autumn,,1.0,,1.0
+64,92,Ava,Drums of Autumn,,1.0,,1.0
+64,111,Caitlin,Drums of Autumn,,1.0,,1.0
+64,191,David Lee,Drums of Autumn,,2.0,,2.0
+64,410,Emily Brown,Drums of Autumn,,1.0,,1.0
+64,408,"Alexandra ""Alex"" Johnson",Drums of Autumn,,1.0,,1.0
+64,535,Emily Wilson,Drums of Autumn,,1.0,,1.0
+64,90,Isabella,Drums of Autumn,,2.0,,2.0
+64,449,Jack Thompson,Drums of Autumn,,1.0,,1.0
+64,42,Emily Wilson,Drums of Autumn,,1.0,,1.0
+64,237,Michael Johnson,Drums of Autumn,,1.0,,1.0
+64,82,Ava,Drums of Autumn,,1.0,,1.0
+64,45,Alex Brown,Drums of Autumn,,1.0,,1.0
+64,305,Jack,Drums of Autumn,,2.0,,2.0
+64,488,Ava,Drums of Autumn,,1.0,,1.0
+64,74,Emily Johnson,Drums of Autumn,,1.0,,1.0
+64,313,Emily Chen,Drums of Autumn,,1.0,,1.0
+64,321,Emily Lee,Drums of Autumn,,1.0,,1.0
+64,142,Isabella,Drums of Autumn,,3.0,,3.0
+64,354,Maya Patel,Drums of Autumn,,1.0,,1.0
+64,519,David,Drums of Autumn,,1.0,,1.0
+64,145,Ethan Thompson,Drums of Autumn,,1.0,,1.0
+64,502,Jared Lee,Drums of Autumn,,1.0,,1.0
+64,402,Maya,Drums of Autumn,,1.0,,1.0
+64,301,Jack Lee,Drums of Autumn,,2.0,,2.0
+64,329,Emily Thompson,Drums of Autumn,,1.0,,1.0
+64,376,Aaliyah Johnson,Drums of Autumn,,3.0,,3.0
+64,491,Max,Drums of Autumn,,3.0,,3.0
+64,87,David Lee,Drums of Autumn,,1.0,,1.0
+64,478,Emily Brown,Drums of Autumn,,1.0,,1.0
+64,113,James Johnson,Drums of Autumn,,2.0,,2.0
+64,481,Ryan Davis,Drums of Autumn,,1.0,,1.0
+64,103,Noah Nelson,Drums of Autumn,,1.0,,1.0
+64,98,David Kim,Drums of Autumn,,2.0,,2.0
+64,91,James,Drums of Autumn,,2.0,,2.0
+64,384,Maria Sanchez,Drums of Autumn,,1.0,,1.0
+64,438,James,Drums of Autumn,,2.0,,2.0
+64,255,Samuel Lee,Drums of Autumn,,1.0,,1.0
+64,102,Olivia Martin,Drums of Autumn,,1.0,,1.0
+64,467,Olivia Wilson,Drums of Autumn,,2.0,,2.0
+64,238,Aisha Patel,Drums of Autumn,,3.0,,3.0
+64,541,Emily Smith,Drums of Autumn,,1.0,,1.0
+64,528,Aaliyah Johnson,Drums of Autumn,,3.0,,3.0
+64,246,Emily Jones,Drums of Autumn,,3.0,,3.0
+64,525,William Smith,Drums of Autumn,,2.0,,2.0
+64,171,Emily Adams,Drums of Autumn,,4.0,,4.0
+64,275,Maria Garcia,Drums of Autumn,,1.0,,1.0
+64,184,Emily Williams,Drums of Autumn,,1.0,,1.0
+64,88,Ava,Drums of Autumn,,1.0,,1.0
+64,109,Ava,Drums of Autumn,,3.0,,3.0
+64,5,John Smith,Drums of Autumn,,2.0,,2.0
+64,110,Ben,Drums of Autumn,,2.0,,2.0
+64,153,Lily Chen,Drums of Autumn,,2.0,,2.0
+64,431,Liam,Drums of Autumn,,2.0,,2.0
+64,580,Emma Woods,Drums of Autumn,,1.0,,1.0
+64,52,Alex Johnson,Drums of Autumn,,1.0,,1.0
+64,543,Sarah Johnson,Drums of Autumn,,1.0,,1.0
+64,546,Emily Rodriguez,Drums of Autumn,,3.0,,3.0
+64,347,William Brown,Drums of Autumn,,1.0,,1.0
+64,207,Catherine,Drums of Autumn,,1.0,,1.0
+64,314,David Green,Drums of Autumn,,1.0,,1.0
+64,334,Emily Smith,Drums of Autumn,,1.0,,1.0
+64,75,David Wilson,Drums of Autumn,,2.0,,2.0
+64,437,Emma,Drums of Autumn,,1.0,,1.0
+64,40,Lily Johnson,Drums of Autumn,,3.0,,3.0
+64,22,Maya Rodriguez,Drums of Autumn,,1.0,,1.0
+64,0,Lily Jackson,Drums of Autumn,,3.0,,3.0
+64,7,David Johnson,Drums of Autumn,,2.0,,2.0
+64,401,Alex,Drums of Autumn,,1.0,,1.0
+64,129,Mark Thompson,Drums of Autumn,,1.0,,1.0
+64,216,Ava,Drums of Autumn,,1.0,,1.0
+64,107,Thomas Brown,Drums of Autumn,,2.0,,2.0
+68,255,Samuel Lee,The Murder of Roger Ackroyd,,4.0,,4.0
+68,304,Ava,The Murder of Roger Ackroyd,,1.0,,1.0
+68,51,Samuel Garcia,The Murder of Roger Ackroyd,,1.0,,1.0
+68,103,Noah Nelson,The Murder of Roger Ackroyd,,1.0,,1.0
+68,273,Emily Wilson,The Murder of Roger Ackroyd,,3.0,,3.0
+68,583,Oliver Thompson,The Murder of Roger Ackroyd,,1.0,,1.0
+68,140,Ava,The Murder of Roger Ackroyd,,1.0,,1.0
+68,381,James Thompson,The Murder of Roger Ackroyd,,3.0,,3.0
+68,98,David Kim,The Murder of Roger Ackroyd,,1.0,,1.0
+68,114,Emily Adams,The Murder of Roger Ackroyd,,1.0,,1.0
+68,447,Emily Jones,The Murder of Roger Ackroyd,,3.0,,3.0
+68,537,Jack Johnson,The Murder of Roger Ackroyd,,1.0,,1.0
+68,289,Jack Taylor,The Murder of Roger Ackroyd,,1.0,,1.0
+68,504,Ava,The Murder of Roger Ackroyd,,1.0,,1.0
+68,426,Mia,The Murder of Roger Ackroyd,,1.0,,1.0
+68,322,Sam Patel,The Murder of Roger Ackroyd,,1.0,,1.0
+68,459,John Miller,The Murder of Roger Ackroyd,,2.0,,2.0
+68,365,David Thompson,The Murder of Roger Ackroyd,,1.0,,1.0
+68,330,David Lee,The Murder of Roger Ackroyd,,1.0,,1.0
+68,279,William Taylor,The Murder of Roger Ackroyd,,1.0,,1.0
+68,37,Ethan Brown,The Murder of Roger Ackroyd,,1.0,,1.0
+68,29,Eric,The Murder of Roger Ackroyd,,1.0,,1.0
+68,474,Emma Thompson,The Murder of Roger Ackroyd,,1.0,,1.0
+68,15,Sarah Smith,The Murder of Roger Ackroyd,,1.0,,1.0
+68,470,John Smith,The Murder of Roger Ackroyd,,3.0,,3.0
+68,24,Nisha Patel,The Murder of Roger Ackroyd,,3.0,,3.0
+68,112,Olivia Thompson,The Murder of Roger Ackroyd,,2.0,,2.0
+68,14,John Lee,The Murder of Roger Ackroyd,,2.0,,2.0
+68,246,Emily Jones,The Murder of Roger Ackroyd,,3.0,,3.0
+68,588,Emily Miller,The Murder of Roger Ackroyd,,1.0,,1.0
+68,501,Ava Miller,The Murder of Roger Ackroyd,,3.0,,3.0
+68,373,Ethan Harris,The Murder of Roger Ackroyd,,1.0,,1.0
+68,350,Ethan Williams,The Murder of Roger Ackroyd,,1.0,,1.0
+68,433,Sarah Johnson,The Murder of Roger Ackroyd,,1.0,,1.0
+68,91,James,The Murder of Roger Ackroyd,,2.0,,2.0
+68,130,Sofia Garcia,The Murder of Roger Ackroyd,,3.0,,3.0
+68,473,Jack Taylor,The Murder of Roger Ackroyd,,1.0,,1.0
+68,241,Sofia,The Murder of Roger Ackroyd,,1.0,,1.0
+68,21,Ethan Thompson,The Murder of Roger Ackroyd,,2.0,,2.0
+68,449,Jack Thompson,The Murder of Roger Ackroyd,,1.0,,1.0
+68,529,Ethan Lee,The Murder of Roger Ackroyd,,1.0,,1.0
+68,547,David White,The Murder of Roger Ackroyd,,1.0,,1.0
+68,393,Adam Miller,The Murder of Roger Ackroyd,,1.0,,1.0
+68,323,Sophie Chen,The Murder of Roger Ackroyd,,1.0,,1.0
+68,0,Lily Jackson,The Murder of Roger Ackroyd,,3.0,,3.0
+68,299,Mark Johnson,The Murder of Roger Ackroyd,,4.0,,4.0
+68,480,Olivia Thompson,The Murder of Roger Ackroyd,,1.0,,1.0
+68,131,Mohammed Ahmed,The Murder of Roger Ackroyd,,3.0,,3.0
+68,347,William Brown,The Murder of Roger Ackroyd,,1.0,,1.0
+68,533,Samantha Davis,The Murder of Roger Ackroyd,,3.0,,3.0
+68,357,Emma Johnson,The Murder of Roger Ackroyd,,3.0,,3.0
+68,11,Jacob Nelson,The Murder of Roger Ackroyd,,3.0,,3.0
+68,577,Ethan Kim,The Murder of Roger Ackroyd,,2.0,,2.0
+68,392,"Alexandra ""Alex"" Johnson",The Murder of Roger Ackroyd,,1.0,,1.0
+68,407,Samuel Lee,The Murder of Roger Ackroyd,,2.0,,2.0
+68,49,Alex Johnson,The Murder of Roger Ackroyd,,1.0,,1.0
+68,115,Michael Brown,The Murder of Roger Ackroyd,,4.0,,4.0
+68,443,Michael Johnson,The Murder of Roger Ackroyd,,3.0,,3.0
+68,406,Ava Roberts,The Murder of Roger Ackroyd,,1.0,,1.0
+68,211,Benjamin,The Murder of Roger Ackroyd,,3.0,,3.0
+68,461,Max,The Murder of Roger Ackroyd,,3.0,,3.0
+68,81,Ethan,The Murder of Roger Ackroyd,,1.0,,1.0
+68,479,James Anderson,The Murder of Roger Ackroyd,,4.0,,4.0
+68,138,Samuel Lee,The Murder of Roger Ackroyd,,1.0,,1.0
+68,171,Emily Adams,The Murder of Roger Ackroyd,,4.0,,4.0
+68,147,William Brown,The Murder of Roger Ackroyd,,2.0,,2.0
+68,22,Maya Rodriguez,The Murder of Roger Ackroyd,,2.0,,2.0
+68,543,Sarah Johnson,The Murder of Roger Ackroyd,,1.0,,1.0
+68,594,Sophia Taylor,The Murder of Roger Ackroyd,,1.0,,1.0
+68,593,Samuel Johnson,The Murder of Roger Ackroyd,,2.0,,2.0
+68,559,Jack Chen,The Murder of Roger Ackroyd,,2.0,,2.0
+68,428,Ava,The Murder of Roger Ackroyd,,1.0,,1.0
+68,425,Ethan,The Murder of Roger Ackroyd,,3.0,,3.0
+68,513,Ethan Thompson,The Murder of Roger Ackroyd,,1.0,,1.0
+68,33,Lily Chen,The Murder of Roger Ackroyd,,1.0,,1.0
+68,47,David Thompson,The Murder of Roger Ackroyd,,2.0,,2.0
+68,50,Olivia Brown,The Murder of Roger Ackroyd,,1.0,,1.0
+68,240,Alex,The Murder of Roger Ackroyd,,3.0,,3.0
+68,109,Ava,The Murder of Roger Ackroyd,,3.0,,3.0
+68,93,Ethan,The Murder of Roger Ackroyd,,2.0,,2.0
+68,411,"William ""Bill"" Thompson",The Murder of Roger Ackroyd,,3.0,,3.0
+68,40,Lily Johnson,The Murder of Roger Ackroyd,,1.0,,1.0
+68,362,Lily Johnson,The Murder of Roger Ackroyd,,1.0,,1.0
+68,555,Isabella Martinez,The Murder of Roger Ackroyd,,1.0,,1.0
+68,388,"Alexandra ""Lexie"" Thompson",The Murder of Roger Ackroyd,,1.0,,1.0
+68,343,Emily Kim,The Murder of Roger Ackroyd,,2.0,,2.0
+68,579,Omar Hassan,The Murder of Roger Ackroyd,,1.0,,1.0
+68,506,Lily,The Murder of Roger Ackroyd,,1.0,,1.0
+68,167,David,The Murder of Roger Ackroyd,,1.0,,1.0
+68,1,Marcus Williams,The Murder of Roger Ackroyd,,2.0,,2.0
+68,106,Amelia Rose,The Murder of Roger Ackroyd,,1.0,,1.0
+68,181,Alex Williams,The Murder of Roger Ackroyd,,1.0,,1.0
+68,417,John Smith,The Murder of Roger Ackroyd,,1.0,,1.0
+68,448,Emily Johnson,The Murder of Roger Ackroyd,,4.0,,4.0
+68,456,Ava Jones,The Murder of Roger Ackroyd,,1.0,,1.0
+68,245,John Smith,The Murder of Roger Ackroyd,,1.0,,1.0
+68,100,Emily Johnson,The Murder of Roger Ackroyd,,1.0,,1.0
+68,527,James Thompson,The Murder of Roger Ackroyd,,2.0,,2.0
+68,327,Daisy,The Murder of Roger Ackroyd,,1.0,,1.0
+68,212,Sarah Johnson,The Murder of Roger Ackroyd,,1.0,,1.0
+71,81,Ethan,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,346,Sarah Davis,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,585,Emily Green,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,120,Ava,"The Sandman, Vol. 3: Dream Country",,2.0,,2.0
+71,89,Ethan,"The Sandman, Vol. 3: Dream Country",,2.0,,2.0
+71,343,Emily Kim,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,448,Emily Johnson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,76,Emily Wilson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,207,Catherine,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,429,Ethan,"The Sandman, Vol. 3: Dream Country",,2.0,,2.0
+71,124,Emily Johnson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,566,David Lee,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,25,Mark Johnson,"The Sandman, Vol. 3: Dream Country",,2.0,,2.0
+71,314,David Green,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,581,George Taylor,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,225,Ethan,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,357,Emma Johnson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,127,Samuel Johnson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,238,Aisha Patel,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,435,Emily Wilson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,493,David Wilson,"The Sandman, Vol. 3: Dream Country",,2.0,,2.0
+71,110,Ben,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,561,Ethan Mitchell,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,223,David Lee,"The Sandman, Vol. 3: Dream Country",,2.0,,2.0
+71,224,Lily,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,27,David Martin,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,174,Charlotte,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,240,Alex,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,254,Elizabeth Williams,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,560,Lily Patel,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,441,David Kim,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,526,Lily Johnson,"The Sandman, Vol. 3: Dream Country",,2.0,,2.0
+71,338,Emily Wilson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,288,Emily Johnson,"The Sandman, Vol. 3: Dream Country",,2.0,,2.0
+71,91,James,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,475,James Clark,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,251,Emily,"The Sandman, Vol. 3: Dream Country",,2.0,,2.0
+71,190,Emma Williams,"The Sandman, Vol. 3: Dream Country",,2.0,,2.0
+71,471,Emily Johnson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,282,James Johnson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,303,John Smith,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,59,David Kim,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,154,Jack Lee,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,410,Emily Brown,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,332,Olivia Thompson,"The Sandman, Vol. 3: Dream Country",,2.0,,2.0
+71,452,Emily Wilson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,549,Emma Rodriguez,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,186,Sarah Thompson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,449,Jack Thompson,"The Sandman, Vol. 3: Dream Country",,2.0,,2.0
+71,472,Lily Johnson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,311,Oliver Wilson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,221,Mark Thompson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,85,James Thompson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,8,Luna James,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,279,William Taylor,"The Sandman, Vol. 3: Dream Country",,2.0,,2.0
+71,565,Emily Thompson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,315,Sarah Lee,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,596,Amelia Parker,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,266,Emily Thompson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,307,Michael,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,446,William Brown,"The Sandman, Vol. 3: Dream Country",,4.0,,4.0
+71,9,Liam Johnson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,378,Sarah Taylor,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,12,Alex Johnson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,510,Emily Anderson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,206,Ben,"The Sandman, Vol. 3: Dream Country",,2.0,,2.0
+71,582,Sophia Martin,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,137,Emily Kim,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,284,Akira Saito,"The Sandman, Vol. 3: Dream Country",,2.0,,2.0
+71,249,Lisa,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,197,Ethan Thompson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,286,Mark Lee,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,439,Lily,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,289,Jack Taylor,"The Sandman, Vol. 3: Dream Country",,2.0,,2.0
+71,121,Jack,"The Sandman, Vol. 3: Dream Country",,2.0,,2.0
+71,72,Avery Adams,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,519,David,"The Sandman, Vol. 3: Dream Country",,4.0,,4.0
+71,511,Ethan Lee,"The Sandman, Vol. 3: Dream Country",,2.0,,2.0
+71,213,David Lee,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,41,James Thompson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,545,Jack Williams,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,481,Ryan Davis,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,571,Ethan Brown,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,418,Emily Williams,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,227,Max,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,356,Adrian Thompson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,131,Mohammed Ahmed,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,208,Ava,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,537,Jack Johnson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,258,Lily,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,409,Max Davis,"The Sandman, Vol. 3: Dream Country",,2.0,,2.0
+71,360,Sarah Lee,"The Sandman, Vol. 3: Dream Country",,2.0,,2.0
+71,328,Alex Johnson,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,538,Maria Rodriguez,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,483,Peter Smith,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,505,Ethan,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,171,Emily Adams,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,122,Jasmine,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,109,Ava,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+71,370,David Lee,"The Sandman, Vol. 3: Dream Country",,1.0,,1.0
+75,438,James,Tehanu,,1.0,,1.0
+75,50,Olivia Brown,Tehanu,,1.0,,1.0
+75,273,Emily Wilson,Tehanu,,1.0,,1.0
+75,57,Lucas Green,Tehanu,,3.0,,3.0
+75,468,Alex Johnson,Tehanu,,1.0,,1.0
+75,386,Emily Thompson,Tehanu,,1.0,,1.0
+75,548,Alex Johnson,Tehanu,,2.0,,2.0
+75,589,Jack Williams,Tehanu,,1.0,,1.0
+75,595,David Thompson,Tehanu,,1.0,,1.0
+75,181,Alex Williams,Tehanu,,1.0,,1.0
+75,229,Michael Johnson,Tehanu,,1.0,,1.0
+75,412,Emily Johnson,Tehanu,,1.0,,1.0
+75,31,Thomas,Tehanu,,1.0,,1.0
+75,78,Sophia Reed,Tehanu,,2.0,,2.0
+75,410,Emily Brown,Tehanu,,2.0,,2.0
+75,450,Lily Wilson,Tehanu,,2.0,,2.0
+75,585,Emily Green,Tehanu,,3.0,,3.0
+75,58,Sarah Lee,Tehanu,,3.0,,3.0
+75,146,Emily Wilson,Tehanu,,2.0,,2.0
+75,564,Alex Johnson,Tehanu,,1.0,,1.0
+75,54,John Smith,Tehanu,,1.0,,1.0
+75,532,Alex Johnson,Tehanu,,3.0,,3.0
+75,225,Ethan,Tehanu,,1.0,,1.0
+75,236,Emily Thompson,Tehanu,,1.0,,1.0
+75,144,Olivia Johnson,Tehanu,,1.0,,1.0
+75,343,Emily Kim,Tehanu,,1.0,,1.0
+75,294,John,Tehanu,,1.0,,1.0
+75,304,Ava,Tehanu,,1.0,,1.0
+75,129,Mark Thompson,Tehanu,,1.0,,1.0
+75,431,Liam,Tehanu,,2.0,,2.0
+75,490,Lily,Tehanu,,3.0,,3.0
+75,587,Elizabeth Johnson,Tehanu,,3.0,,3.0
+75,569,Jack Lee,Tehanu,,1.0,,1.0
+75,262,Elizabeth Johnson,Tehanu,,1.0,,1.0
+75,45,Alex Brown,Tehanu,,3.0,,3.0
+75,350,Ethan Williams,Tehanu,,1.0,,1.0
+75,313,Emily Chen,Tehanu,,1.0,,1.0
+75,41,James Thompson,Tehanu,,2.0,,2.0
+75,280,Adrian Thompson,Tehanu,,1.0,,1.0
+75,215,William Green,Tehanu,,1.0,,1.0
+75,435,Emily Wilson,Tehanu,,2.0,,2.0
+75,497,Ethan,Tehanu,,2.0,,2.0
+75,356,Adrian Thompson,Tehanu,,1.0,,1.0
+75,119,William Brown,Tehanu,,2.0,,2.0
+75,161,Tom,Tehanu,,1.0,,1.0
+75,425,Ethan,Tehanu,,1.0,,1.0
+75,92,Ava,Tehanu,,2.0,,2.0
+75,14,John Lee,Tehanu,,1.0,,1.0
+75,178,Emily Williams,Tehanu,,1.0,,1.0
+75,218,Sophia,Tehanu,,2.0,,2.0
+75,354,Maya Patel,Tehanu,,1.0,,1.0
+75,367,Christopher Walker,Tehanu,,1.0,,1.0
+75,421,Emma,Tehanu,,2.0,,2.0
+75,488,Ava,Tehanu,,2.0,,2.0
+75,530,Isabella Rodriguez,Tehanu,,1.0,,1.0
+75,570,Mia Thompson,Tehanu,,1.0,,1.0
+75,395,David Lee,Tehanu,,3.0,,3.0
+75,133,James Thompson,Tehanu,,2.0,,2.0
+75,494,Emily Jackson,Tehanu,,2.0,,2.0
+75,154,Jack Lee,Tehanu,,1.0,,1.0
+75,106,Amelia Rose,Tehanu,,2.0,,2.0
+75,561,Ethan Mitchell,Tehanu,,1.0,,1.0
+75,574,Emily Wilson,Tehanu,,2.0,,2.0
+75,324,Ava,Tehanu,,3.0,,3.0
+75,150,Isabella Rodriguez,Tehanu,,3.0,,3.0
+75,549,Emma Rodriguez,Tehanu,,1.0,,1.0
+75,537,Jack Johnson,Tehanu,,2.0,,2.0
+75,543,Sarah Johnson,Tehanu,,2.0,,2.0
+75,257,Ethan,Tehanu,,1.0,,1.0
+75,205,Amy,Tehanu,,2.0,,2.0
+75,339,David Lee,Tehanu,,3.0,,3.0
+75,571,Ethan Brown,Tehanu,,1.0,,1.0
+75,505,Ethan,Tehanu,,2.0,,2.0
+75,283,Emily Taylor,Tehanu,,1.0,,1.0
+75,592,Aaliyah Williams,Tehanu,,2.0,,2.0
+75,385,Mark Johnson,Tehanu,,3.0,,3.0
+75,542,David Lee,Tehanu,,1.0,,1.0
+75,440,Lily Johnson,Tehanu,,2.0,,2.0
+75,338,Emily Wilson,Tehanu,,1.0,,1.0
+75,79,William Green,Tehanu,,2.0,,2.0
+75,193,David Lee,Tehanu,,2.0,,2.0
+75,293,Sarah,Tehanu,,1.0,,1.0
+75,423,Sophia,Tehanu,,1.0,,1.0
+75,82,Ava,Tehanu,,3.0,,3.0
+75,286,Mark Lee,Tehanu,,1.0,,1.0
+75,212,Sarah Johnson,Tehanu,,3.0,,3.0
+75,475,James Clark,Tehanu,,2.0,,2.0
+75,559,Jack Chen,Tehanu,,1.0,,1.0
+75,378,Sarah Taylor,Tehanu,,1.0,,1.0
+75,20,Aaliyah Patel,Tehanu,,1.0,,1.0
+75,141,Liam,Tehanu,,2.0,,2.0
+75,18,Sophia Garcia,Tehanu,,3.0,,3.0
+75,252,Emily Johnson,Tehanu,,1.0,,1.0
+75,8,Luna James,Tehanu,,1.0,,1.0
+75,251,Emily,Tehanu,,3.0,,3.0
+75,4,Emma Wilson,Tehanu,,1.0,,1.0
+75,282,James Johnson,Tehanu,,2.0,,2.0
+75,28,Ava Parker,Tehanu,,1.0,,1.0
+75,275,Maria Garcia,Tehanu,,1.0,,1.0
+75,352,Aaliyah Johnson,Tehanu,,3.0,,3.0

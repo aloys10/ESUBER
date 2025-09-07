@@ -1,0 +1,9 @@
+Config,Name,Category,Percentage success,Percentage success (Positive),Percentage success (Negative)
+deepseek-chat-0Shot_cotlite_our-none-last_3,category_preference_paper,Fiction,0.7625,0.575,0.95
+deepseek-chat-0Shot_cotlite_our-none-last_3,category_preference_paper,Biography,0.8625,0.725,1.0
+deepseek-chat-0Shot_cotlite_our-none-last_3,category_preference_paper,Economics,0.75,0.5,1.0
+deepseek-chat-0Shot_cotlite_our-none-last_3,category_preference_paper,Health,0.91875,0.85,0.9875
+deepseek-chat-0Shot_cotlite_our-none-last_3,category_preference_paper,Philosophy,0.9375,0.875,1.0
+deepseek-chat-0Shot_cotlite_our-none-last_3,category_preference_paper,Computer,0.75,0.5,1.0
+deepseek-chat-0Shot_cotlite_our-none-last_3,category_preference_paper,Humor,1.0,1.0,1.0
+deepseek-chat-0Shot_cotlite_our-none-last_3,category_preference_paper,Drama,0.94375,0.8875,1.0

@@ -1,0 +1,641 @@
+item,user,user_name,item_name,LLM_rating,LLM_interaction_HTML,rating
+0,0,Emily Riga,I Know You're Afraid Too,1.0,,1.0
+1,0,Emily Riga,The Good Soldier Shweik,3.0,,3.0
+2,0,Emily Riga,Just My Luck,1.0,,1.0
+3,0,Emily Riga,The Invisible,3.0,,3.0
+4,0,Emily Riga,Goodbye Herman,1.0,,1.0
+5,0,Emily Riga,Love in Harmony Valley,1.0,,1.0
+6,0,Emily Riga,A Real Life Underdog Story,3.0,,3.0
+7,0,Emily Riga,The Beta Test,3.0,,3.0
+8,0,Emily Riga,Greyson Family Christmas,1.0,,1.0
+9,0,Emily Riga,Princess Stories Volume Two: Tales of Friendship,1.0,,1.0
+10,0,Emily Riga,Poor Rich Family,1.0,,1.0
+11,0,Emily Riga,The Basement,1.0,,1.0
+12,0,Emily Riga,The Christmas Consultant,1.0,,1.0
+13,0,Emily Riga,Love on Safari,1.0,,1.0
+14,0,Emily Riga,The Little Mermaid,1.0,,1.0
+15,0,Emily Riga,Sweet Rain: Accuracy of Death,3.0,,3.0
+16,0,Emily Riga,Epic,3.0,,3.0
+17,0,Emily Riga,Cinta Selamanya,1.0,,1.0
+18,0,Emily Riga,Exploring New Horizons,1.0,,1.0
+19,0,Emily Riga,Parasyte: Part 2,1.0,,1.0
+0,1,Ethan Mitchell,I Know You're Afraid Too,1.0,,1.0
+1,1,Ethan Mitchell,The Good Soldier Shweik,3.0,,3.0
+2,1,Ethan Mitchell,Just My Luck,1.0,,1.0
+3,1,Ethan Mitchell,The Invisible,1.0,,1.0
+4,1,Ethan Mitchell,Goodbye Herman,1.0,,1.0
+5,1,Ethan Mitchell,Love in Harmony Valley,1.0,,1.0
+6,1,Ethan Mitchell,A Real Life Underdog Story,1.0,,1.0
+7,1,Ethan Mitchell,The Beta Test,1.0,,1.0
+8,1,Ethan Mitchell,Greyson Family Christmas,1.0,,1.0
+9,1,Ethan Mitchell,Princess Stories Volume Two: Tales of Friendship,1.0,,1.0
+10,1,Ethan Mitchell,Poor Rich Family,1.0,,1.0
+11,1,Ethan Mitchell,The Basement,1.0,,1.0
+12,1,Ethan Mitchell,The Christmas Consultant,1.0,,1.0
+13,1,Ethan Mitchell,Love on Safari,1.0,,1.0
+14,1,Ethan Mitchell,The Little Mermaid,1.0,,1.0
+15,1,Ethan Mitchell,Sweet Rain: Accuracy of Death,1.0,,1.0
+16,1,Ethan Mitchell,Epic,3.0,,3.0
+17,1,Ethan Mitchell,Cinta Selamanya,1.0,,1.0
+18,1,Ethan Mitchell,Exploring New Horizons,1.0,,1.0
+19,1,Ethan Mitchell,Parasyte: Part 2,3.0,,3.0
+0,2,Oliva Turner ,I Know You're Afraid Too,1.0,,1.0
+1,2,Oliva Turner ,The Good Soldier Shweik,1.0,,1.0
+2,2,Oliva Turner ,Just My Luck,1.0,,1.0
+3,2,Oliva Turner ,The Invisible,3.0,,3.0
+4,2,Oliva Turner ,Goodbye Herman,1.0,,1.0
+5,2,Oliva Turner ,Love in Harmony Valley,1.0,,1.0
+6,2,Oliva Turner ,A Real Life Underdog Story,1.0,,1.0
+7,2,Oliva Turner ,The Beta Test,3.0,,3.0
+8,2,Oliva Turner ,Greyson Family Christmas,1.0,,1.0
+9,2,Oliva Turner ,Princess Stories Volume Two: Tales of Friendship,1.0,,1.0
+10,2,Oliva Turner ,Poor Rich Family,1.0,,1.0
+11,2,Oliva Turner ,The Basement,1.0,,1.0
+12,2,Oliva Turner ,The Christmas Consultant,1.0,,1.0
+13,2,Oliva Turner ,Love on Safari,1.0,,1.0
+14,2,Oliva Turner ,The Little Mermaid,3.0,,3.0
+15,2,Oliva Turner ,Sweet Rain: Accuracy of Death,1.0,,1.0
+16,2,Oliva Turner ,Epic,1.0,,1.0
+17,2,Oliva Turner ,Cinta Selamanya,1.0,,1.0
+18,2,Oliva Turner ,Exploring New Horizons,3.0,,3.0
+19,2,Oliva Turner ,Parasyte: Part 2,5.0,,5.0
+0,3,Marcus Roger,I Know You're Afraid Too,1.0,,1.0
+1,3,Marcus Roger,The Good Soldier Shweik,3.0,,3.0
+2,3,Marcus Roger,Just My Luck,3.0,,3.0
+3,3,Marcus Roger,The Invisible,3.0,,3.0
+4,3,Marcus Roger,Goodbye Herman,3.0,,3.0
+5,3,Marcus Roger,Love in Harmony Valley,3.0,,3.0
+6,3,Marcus Roger,A Real Life Underdog Story,5.0,,5.0
+7,3,Marcus Roger,The Beta Test,3.0,,3.0
+8,3,Marcus Roger,Greyson Family Christmas,3.0,,3.0
+9,3,Marcus Roger,Princess Stories Volume Two: Tales of Friendship,1.0,,1.0
+10,3,Marcus Roger,Poor Rich Family,3.0,,3.0
+11,3,Marcus Roger,The Basement,3.0,,3.0
+12,3,Marcus Roger,The Christmas Consultant,3.0,,3.0
+13,3,Marcus Roger,Love on Safari,3.0,,3.0
+14,3,Marcus Roger,The Little Mermaid,3.0,,3.0
+15,3,Marcus Roger,Sweet Rain: Accuracy of Death,3.0,,3.0
+16,3,Marcus Roger,Epic,3.0,,3.0
+17,3,Marcus Roger,Cinta Selamanya,3.0,,3.0
+18,3,Marcus Roger,Exploring New Horizons,3.0,,3.0
+19,3,Marcus Roger,Parasyte: Part 2,5.0,,5.0
+0,0,Lily White,Pearl Harbor,3.0,,3.0
+1,0,Lily White,Venus im vierten Haus,1.0,,1.0
+2,0,Lily White,Paper Soldiers,1.0,,1.0
+3,0,Lily White,SPEC: Heaven,3.0,,3.0
+4,0,Lily White,The Last Mountain,1.0,,1.0
+5,0,Lily White,Greyson Family Christmas,3.0,,3.0
+6,0,Lily White,Out,1.0,,1.0
+7,0,Lily White,The Beta Test,1.0,,1.0
+8,0,Lily White,The Huntress: Rune of the Dead,3.0,,3.0
+9,0,Lily White,Fire Cloud Evil God 2: Eighteen Dragon Palms,1.0,,1.0
+10,0,Lily White,Trek: The Movie,3.0,,3.0
+11,0,Lily White,Anna Bond,1.0,,1.0
+12,0,Lily White,Critters Attack!,1.0,,1.0
+13,0,Lily White,Beauty Salon: Special Service 3,1.0,,1.0
+14,0,Lily White,The Final Say,1.0,,1.0
+15,0,Lily White,Survivor,1.0,,1.0
+16,0,Lily White,Kill Switch,1.0,,1.0
+17,0,Lily White,Undercover Bridesmaid,1.0,,1.0
+18,0,Lily White,Altitude,2.0,,2.0
+19,0,Lily White,2-Headed Shark Attack,1.0,,1.0
+0,1,Oliver Fitzgerald,Pearl Harbor,3.0,,3.0
+1,1,Oliver Fitzgerald,Venus im vierten Haus,3.0,,3.0
+2,1,Oliver Fitzgerald,Paper Soldiers,1.0,,1.0
+3,1,Oliver Fitzgerald,SPEC: Heaven,3.0,,3.0
+4,1,Oliver Fitzgerald,The Last Mountain,3.0,,3.0
+5,1,Oliver Fitzgerald,Greyson Family Christmas,1.0,,1.0
+6,1,Oliver Fitzgerald,Out,3.0,,3.0
+7,1,Oliver Fitzgerald,The Beta Test,3.0,,3.0
+8,1,Oliver Fitzgerald,The Huntress: Rune of the Dead,1.0,,1.0
+9,1,Oliver Fitzgerald,Fire Cloud Evil God 2: Eighteen Dragon Palms,1.0,,1.0
+10,1,Oliver Fitzgerald,Trek: The Movie,1.0,,1.0
+11,1,Oliver Fitzgerald,Anna Bond,1.0,,1.0
+12,1,Oliver Fitzgerald,Critters Attack!,1.0,,1.0
+13,1,Oliver Fitzgerald,Beauty Salon: Special Service 3,1.0,,1.0
+14,1,Oliver Fitzgerald,The Final Say,3.0,,3.0
+15,1,Oliver Fitzgerald,Survivor,1.0,,1.0
+16,1,Oliver Fitzgerald,Kill Switch,1.0,,1.0
+17,1,Oliver Fitzgerald,Undercover Bridesmaid,1.0,,1.0
+18,1,Oliver Fitzgerald,Altitude,1.0,,1.0
+19,1,Oliver Fitzgerald,2-Headed Shark Attack,1.0,,1.0
+0,2,Sophie Jenkins,Pearl Harbor,1.0,,1.0
+1,2,Sophie Jenkins,Venus im vierten Haus,1.0,,1.0
+2,2,Sophie Jenkins,Paper Soldiers,1.0,,1.0
+3,2,Sophie Jenkins,SPEC: Heaven,1.0,,1.0
+4,2,Sophie Jenkins,The Last Mountain,1.0,,1.0
+5,2,Sophie Jenkins,Greyson Family Christmas,3.0,,3.0
+6,2,Sophie Jenkins,Out,1.0,,1.0
+7,2,Sophie Jenkins,The Beta Test,3.0,,3.0
+8,2,Sophie Jenkins,The Huntress: Rune of the Dead,1.0,,1.0
+9,2,Sophie Jenkins,Fire Cloud Evil God 2: Eighteen Dragon Palms,1.0,,1.0
+10,2,Sophie Jenkins,Trek: The Movie,1.0,,1.0
+11,2,Sophie Jenkins,Anna Bond,1.0,,1.0
+12,2,Sophie Jenkins,Critters Attack!,1.0,,1.0
+13,2,Sophie Jenkins,Beauty Salon: Special Service 3,1.0,,1.0
+14,2,Sophie Jenkins,The Final Say,1.0,,1.0
+15,2,Sophie Jenkins,Survivor,1.0,,1.0
+16,2,Sophie Jenkins,Kill Switch,1.0,,1.0
+17,2,Sophie Jenkins,Undercover Bridesmaid,2.0,,2.0
+18,2,Sophie Jenkins,Altitude,1.0,,1.0
+19,2,Sophie Jenkins,2-Headed Shark Attack,1.0,,1.0
+0,3,Max Sanchez,Pearl Harbor,3.0,,3.0
+1,3,Max Sanchez,Venus im vierten Haus,1.0,,1.0
+2,3,Max Sanchez,Paper Soldiers,1.0,,1.0
+3,3,Max Sanchez,SPEC: Heaven,3.0,,3.0
+4,3,Max Sanchez,The Last Mountain,1.0,,1.0
+5,3,Max Sanchez,Greyson Family Christmas,1.0,,1.0
+6,3,Max Sanchez,Out,1.0,,1.0
+7,3,Max Sanchez,The Beta Test,3.0,,3.0
+8,3,Max Sanchez,The Huntress: Rune of the Dead,1.0,,1.0
+9,3,Max Sanchez,Fire Cloud Evil God 2: Eighteen Dragon Palms,1.0,,1.0
+10,3,Max Sanchez,Trek: The Movie,1.0,,1.0
+11,3,Max Sanchez,Anna Bond,3.0,,3.0
+12,3,Max Sanchez,Critters Attack!,1.0,,1.0
+13,3,Max Sanchez,Beauty Salon: Special Service 3,1.0,,1.0
+14,3,Max Sanchez,The Final Say,3.0,,3.0
+15,3,Max Sanchez,Survivor,1.0,,1.0
+16,3,Max Sanchez,Kill Switch,1.0,,1.0
+17,3,Max Sanchez,Undercover Bridesmaid,1.0,,1.0
+18,3,Max Sanchez,Altitude,3.0,,3.0
+19,3,Max Sanchez,2-Headed Shark Attack,1.0,,1.0
+0,0,Sarah Gonzalez,Knights of the Zodiac,3.0,,3.0
+1,0,Sarah Gonzalez,The Fate of the Furious,3.0,,3.0
+2,0,Sarah Gonzalez,Space,3.0,,3.0
+3,0,Sarah Gonzalez,"Ma Belle, My Beauty",3.0,,3.0
+4,0,Sarah Gonzalez,Charlie Chaplin: His Life & Work,3.0,,3.0
+5,0,Sarah Gonzalez,The Other Side of the Tracks,3.0,,3.0
+6,0,Sarah Gonzalez,The Academy of Magic,5.0,,5.0
+7,0,Sarah Gonzalez,A Real Life Underdog Story,3.0,,3.0
+8,0,Sarah Gonzalez,Wicked Lake,2.0,,2.0
+9,0,Sarah Gonzalez,Hitman: Agent 47,3.0,,3.0
+10,0,Sarah Gonzalez,Love in Harmony Valley,3.0,,3.0
+11,0,Sarah Gonzalez,Twelve Days,3.0,,3.0
+12,0,Sarah Gonzalez,The Roundup: No Way Out,3.0,,3.0
+13,0,Sarah Gonzalez,My Precious,3.0,,3.0
+14,0,Sarah Gonzalez,Early Bloomer,7.0,,7.0
+15,0,Sarah Gonzalez,SPEC: Heaven,3.0,,3.0
+16,0,Sarah Gonzalez,Speechless: The Polar Realm,3.0,,3.0
+17,0,Sarah Gonzalez,"Justice League x RWBY: Super Heroes & Huntsmen, Part One",3.0,,3.0
+18,0,Sarah Gonzalez,The Huntress: Rune of the Dead,3.0,,3.0
+19,0,Sarah Gonzalez,Tiny Giants 3D,3.0,,3.0
+0,1,Alex Wallace,Knights of the Zodiac,3.0,,3.0
+1,1,Alex Wallace,The Fate of the Furious,3.0,,3.0
+2,1,Alex Wallace,Space,3.0,,3.0
+3,1,Alex Wallace,"Ma Belle, My Beauty",3.0,,3.0
+4,1,Alex Wallace,Charlie Chaplin: His Life & Work,3.0,,3.0
+5,1,Alex Wallace,The Other Side of the Tracks,3.0,,3.0
+6,1,Alex Wallace,The Academy of Magic,3.0,,3.0
+7,1,Alex Wallace,A Real Life Underdog Story,3.0,,3.0
+8,1,Alex Wallace,Wicked Lake,1.0,,1.0
+9,1,Alex Wallace,Hitman: Agent 47,3.0,,3.0
+10,1,Alex Wallace,Love in Harmony Valley,3.0,,3.0
+11,1,Alex Wallace,Twelve Days,3.0,,3.0
+12,1,Alex Wallace,The Roundup: No Way Out,3.0,,3.0
+13,1,Alex Wallace,My Precious,3.0,,3.0
+14,1,Alex Wallace,Early Bloomer,1.0,,1.0
+15,1,Alex Wallace,SPEC: Heaven,3.0,,3.0
+16,1,Alex Wallace,Speechless: The Polar Realm,3.0,,3.0
+17,1,Alex Wallace,"Justice League x RWBY: Super Heroes & Huntsmen, Part One",4.0,,4.0
+18,1,Alex Wallace,The Huntress: Rune of the Dead,3.0,,3.0
+19,1,Alex Wallace,Tiny Giants 3D,3.0,,3.0
+0,2,Tom Lawson,Knights of the Zodiac,3.0,,3.0
+1,2,Tom Lawson,The Fate of the Furious,3.0,,3.0
+2,2,Tom Lawson,Space,3.0,,3.0
+3,2,Tom Lawson,"Ma Belle, My Beauty",3.0,,3.0
+4,2,Tom Lawson,Charlie Chaplin: His Life & Work,3.0,,3.0
+5,2,Tom Lawson,The Other Side of the Tracks,3.0,,3.0
+6,2,Tom Lawson,The Academy of Magic,5.0,,5.0
+7,2,Tom Lawson,A Real Life Underdog Story,3.0,,3.0
+8,2,Tom Lawson,Wicked Lake,1.0,,1.0
+9,2,Tom Lawson,Hitman: Agent 47,3.0,,3.0
+10,2,Tom Lawson,Love in Harmony Valley,3.0,,3.0
+11,2,Tom Lawson,Twelve Days,3.0,,3.0
+12,2,Tom Lawson,The Roundup: No Way Out,3.0,,3.0
+13,2,Tom Lawson,My Precious,3.0,,3.0
+14,2,Tom Lawson,Early Bloomer,8.0,,8.0
+15,2,Tom Lawson,SPEC: Heaven,3.0,,3.0
+16,2,Tom Lawson,Speechless: The Polar Realm,3.0,,3.0
+17,2,Tom Lawson,"Justice League x RWBY: Super Heroes & Huntsmen, Part One",3.0,,3.0
+18,2,Tom Lawson,The Huntress: Rune of the Dead,3.0,,3.0
+19,2,Tom Lawson,Tiny Giants 3D,3.0,,3.0
+0,3,Emma Parker,Knights of the Zodiac,3.0,,3.0
+1,3,Emma Parker,The Fate of the Furious,3.0,,3.0
+2,3,Emma Parker,Space,3.0,,3.0
+3,3,Emma Parker,"Ma Belle, My Beauty",3.0,,3.0
+4,3,Emma Parker,Charlie Chaplin: His Life & Work,3.0,,3.0
+5,3,Emma Parker,The Other Side of the Tracks,3.0,,3.0
+6,3,Emma Parker,The Academy of Magic,3.0,,3.0
+7,3,Emma Parker,A Real Life Underdog Story,3.0,,3.0
+8,3,Emma Parker,Wicked Lake,1.0,,1.0
+9,3,Emma Parker,Hitman: Agent 47,3.0,,3.0
+10,3,Emma Parker,Love in Harmony Valley,3.0,,3.0
+11,3,Emma Parker,Twelve Days,3.0,,3.0
+12,3,Emma Parker,The Roundup: No Way Out,3.0,,3.0
+13,3,Emma Parker,My Precious,3.0,,3.0
+14,3,Emma Parker,Early Bloomer,8.0,,8.0
+15,3,Emma Parker,SPEC: Heaven,3.0,,3.0
+16,3,Emma Parker,Speechless: The Polar Realm,3.0,,3.0
+17,3,Emma Parker,"Justice League x RWBY: Super Heroes & Huntsmen, Part One",3.0,,3.0
+18,3,Emma Parker,The Huntress: Rune of the Dead,1.0,,1.0
+19,3,Emma Parker,Tiny Giants 3D,3.0,,3.0
+0,0,Rachel Taylor,Zombie Fighters,1.0,,1.0
+1,0,Rachel Taylor,Revolting Rhymes,3.0,,3.0
+2,0,Rachel Taylor,Beauty Salon: Special Service 3,1.0,,1.0
+3,0,Rachel Taylor,Pearl Harbor,3.0,,3.0
+4,0,Rachel Taylor,Heaven Under The Sky,4.0,,4.0
+5,0,Rachel Taylor,Paper Soldiers,3.0,,3.0
+6,0,Rachel Taylor,The Fate of the Furious,3.0,,3.0
+7,0,Rachel Taylor,Undercover Bridesmaid,3.0,,3.0
+8,0,Rachel Taylor,"Ma Belle, My Beauty",3.0,,3.0
+9,0,Rachel Taylor,Bodies of Desire,3.0,,3.0
+10,0,Rachel Taylor,Sonic Drone Home,3.0,,3.0
+11,0,Rachel Taylor,Rally Road Racers,3.0,,3.0
+12,0,Rachel Taylor,Kowarekake no Orgel,3.0,,3.0
+13,0,Rachel Taylor,Poor Rich Family,3.0,,3.0
+14,0,Rachel Taylor,BlackBerry,3.0,,3.0
+15,0,Rachel Taylor,Zoo Wars 2,3.0,,3.0
+16,0,Rachel Taylor,SPEC: Heaven,3.0,,3.0
+17,0,Rachel Taylor,Fire Cloud Evil God 2: Eighteen Dragon Palms,3.0,,3.0
+18,0,Rachel Taylor,The Christmas Consultant,3.0,,3.0
+19,0,Rachel Taylor,Love in Harmony Valley,3.0,,3.0
+0,1,Michael Young,Zombie Fighters,1.0,,1.0
+1,1,Michael Young,Revolting Rhymes,3.0,,3.0
+2,1,Michael Young,Beauty Salon: Special Service 3,1.0,,1.0
+3,1,Michael Young,Pearl Harbor,3.0,,3.0
+4,1,Michael Young,Heaven Under The Sky,7.0,,7.0
+5,1,Michael Young,Paper Soldiers,3.0,,3.0
+6,1,Michael Young,The Fate of the Furious,3.0,,3.0
+7,1,Michael Young,Undercover Bridesmaid,3.0,,3.0
+8,1,Michael Young,"Ma Belle, My Beauty",3.0,,3.0
+9,1,Michael Young,Bodies of Desire,1.0,,1.0
+10,1,Michael Young,Sonic Drone Home,3.0,,3.0
+11,1,Michael Young,Rally Road Racers,3.0,,3.0
+12,1,Michael Young,Kowarekake no Orgel,3.0,,3.0
+13,1,Michael Young,Poor Rich Family,3.0,,3.0
+14,1,Michael Young,BlackBerry,3.0,,3.0
+15,1,Michael Young,Zoo Wars 2,1.0,,1.0
+16,1,Michael Young,SPEC: Heaven,3.0,,3.0
+17,1,Michael Young,Fire Cloud Evil God 2: Eighteen Dragon Palms,1.0,,1.0
+18,1,Michael Young,The Christmas Consultant,1.0,,1.0
+19,1,Michael Young,Love in Harmony Valley,3.0,,3.0
+0,2,Laura Jenkins,Zombie Fighters,1.0,,1.0
+1,2,Laura Jenkins,Revolting Rhymes,3.0,,3.0
+2,2,Laura Jenkins,Beauty Salon: Special Service 3,1.0,,1.0
+3,2,Laura Jenkins,Pearl Harbor,3.0,,3.0
+4,2,Laura Jenkins,Heaven Under The Sky,9.0,,9.0
+5,2,Laura Jenkins,Paper Soldiers,3.0,,3.0
+6,2,Laura Jenkins,The Fate of the Furious,3.0,,3.0
+7,2,Laura Jenkins,Undercover Bridesmaid,3.0,,3.0
+8,2,Laura Jenkins,"Ma Belle, My Beauty",3.0,,3.0
+9,2,Laura Jenkins,Bodies of Desire,3.0,,3.0
+10,2,Laura Jenkins,Sonic Drone Home,3.0,,3.0
+11,2,Laura Jenkins,Rally Road Racers,3.0,,3.0
+12,2,Laura Jenkins,Kowarekake no Orgel,3.0,,3.0
+13,2,Laura Jenkins,Poor Rich Family,3.0,,3.0
+14,2,Laura Jenkins,BlackBerry,3.0,,3.0
+15,2,Laura Jenkins,Zoo Wars 2,1.0,,1.0
+16,2,Laura Jenkins,SPEC: Heaven,3.0,,3.0
+17,2,Laura Jenkins,Fire Cloud Evil God 2: Eighteen Dragon Palms,1.0,,1.0
+18,2,Laura Jenkins,The Christmas Consultant,2.0,,2.0
+19,2,Laura Jenkins,Love in Harmony Valley,3.0,,3.0
+0,3,David Giu,Zombie Fighters,3.0,,3.0
+1,3,David Giu,Revolting Rhymes,3.0,,3.0
+2,3,David Giu,Beauty Salon: Special Service 3,1.0,,1.0
+3,3,David Giu,Pearl Harbor,3.0,,3.0
+4,3,David Giu,Heaven Under The Sky,3.0,,3.0
+5,3,David Giu,Paper Soldiers,3.0,,3.0
+6,3,David Giu,The Fate of the Furious,3.0,,3.0
+7,3,David Giu,Undercover Bridesmaid,3.0,,3.0
+8,3,David Giu,"Ma Belle, My Beauty",3.0,,3.0
+9,3,David Giu,Bodies of Desire,3.0,,3.0
+10,3,David Giu,Sonic Drone Home,3.0,,3.0
+11,3,David Giu,Rally Road Racers,3.0,,3.0
+12,3,David Giu,Kowarekake no Orgel,3.0,,3.0
+13,3,David Giu,Poor Rich Family,3.0,,3.0
+14,3,David Giu,BlackBerry,3.0,,3.0
+15,3,David Giu,Zoo Wars 2,3.0,,3.0
+16,3,David Giu,SPEC: Heaven,3.0,,3.0
+17,3,David Giu,Fire Cloud Evil God 2: Eighteen Dragon Palms,1.0,,1.0
+18,3,David Giu,The Christmas Consultant,3.0,,3.0
+19,3,David Giu,Love in Harmony Valley,3.0,,3.0
+0,0,Emily Griffiths,The In-Laws,5.0,,5.0
+1,0,Emily Griffiths,Goodbye Herman,10.0,,10.0
+2,0,Emily Griffiths,Ponts de Bordeaux: Technologie de haut vol,3.0,,3.0
+3,0,Emily Griffiths,Love in Harmony Valley,9.0,,9.0
+4,0,Emily Griffiths,Fire Cloud Evil God 2: Eighteen Dragon Palms,1.0,,1.0
+5,0,Emily Griffiths,Cooking with Love,9.0,,9.0
+6,0,Emily Griffiths,Urbanites - You Can't Rewind The Years,3.0,,3.0
+7,0,Emily Griffiths,Anna Bond,3.0,,3.0
+8,0,Emily Griffiths,The Final Say,3.0,,3.0
+9,0,Emily Griffiths,Lenin and the Other Story of the Russian Revolution,3.0,,3.0
+10,0,Emily Griffiths,Women of the Third Reich,3.0,,3.0
+11,0,Emily Griffiths,Survivor,3.0,,3.0
+12,0,Emily Griffiths,Kill Switch,3.0,,3.0
+13,0,Emily Griffiths,"Ma Belle, My Beauty",3.0,,3.0
+14,0,Emily Griffiths,Love on Safari,9.0,,9.0
+15,0,Emily Griffiths,Altitude,3.0,,3.0
+16,0,Emily Griffiths,Iceman,3.0,,3.0
+17,0,Emily Griffiths,Jimi Hendrix: Hear My Train a Comin',3.0,,3.0
+18,0,Emily Griffiths,The Factory,3.0,,3.0
+19,0,Emily Griffiths,The Roundup: No Way Out,3.0,,3.0
+0,1,Ethan Hayes,The In-Laws,3.0,,3.0
+1,1,Ethan Hayes,Goodbye Herman,10.0,,10.0
+2,1,Ethan Hayes,Ponts de Bordeaux: Technologie de haut vol,3.0,,3.0
+3,1,Ethan Hayes,Love in Harmony Valley,9.0,,9.0
+4,1,Ethan Hayes,Fire Cloud Evil God 2: Eighteen Dragon Palms,3.0,,3.0
+5,1,Ethan Hayes,Cooking with Love,9.0,,9.0
+6,1,Ethan Hayes,Urbanites - You Can't Rewind The Years,1.0,,1.0
+7,1,Ethan Hayes,Anna Bond,3.0,,3.0
+8,1,Ethan Hayes,The Final Say,9.0,,9.0
+9,1,Ethan Hayes,Lenin and the Other Story of the Russian Revolution,3.0,,3.0
+10,1,Ethan Hayes,Women of the Third Reich,2.0,,2.0
+11,1,Ethan Hayes,Survivor,3.0,,3.0
+12,1,Ethan Hayes,Kill Switch,3.0,,3.0
+13,1,Ethan Hayes,"Ma Belle, My Beauty",3.0,,3.0
+14,1,Ethan Hayes,Love on Safari,9.0,,9.0
+15,1,Ethan Hayes,Altitude,3.0,,3.0
+16,1,Ethan Hayes,Iceman,3.0,,3.0
+17,1,Ethan Hayes,Jimi Hendrix: Hear My Train a Comin',3.0,,3.0
+18,1,Ethan Hayes,The Factory,3.0,,3.0
+19,1,Ethan Hayes,The Roundup: No Way Out,3.0,,3.0
+0,2,Olivia Ingram,The In-Laws,3.0,,3.0
+1,2,Olivia Ingram,Goodbye Herman,10.0,,10.0
+2,2,Olivia Ingram,Ponts de Bordeaux: Technologie de haut vol,3.0,,3.0
+3,2,Olivia Ingram,Love in Harmony Valley,9.0,,9.0
+4,2,Olivia Ingram,Fire Cloud Evil God 2: Eighteen Dragon Palms,1.0,,1.0
+5,2,Olivia Ingram,Cooking with Love,9.0,,9.0
+6,2,Olivia Ingram,Urbanites - You Can't Rewind The Years,1.0,,1.0
+7,2,Olivia Ingram,Anna Bond,3.0,,3.0
+8,2,Olivia Ingram,The Final Say,7.0,,7.0
+9,2,Olivia Ingram,Lenin and the Other Story of the Russian Revolution,3.0,,3.0
+10,2,Olivia Ingram,Women of the Third Reich,1.0,,1.0
+11,2,Olivia Ingram,Survivor,2.0,,2.0
+12,2,Olivia Ingram,Kill Switch,3.0,,3.0
+13,2,Olivia Ingram,"Ma Belle, My Beauty",1.0,,1.0
+14,2,Olivia Ingram,Love on Safari,9.0,,9.0
+15,2,Olivia Ingram,Altitude,3.0,,3.0
+16,2,Olivia Ingram,Iceman,3.0,,3.0
+17,2,Olivia Ingram,Jimi Hendrix: Hear My Train a Comin',3.0,,3.0
+18,2,Olivia Ingram,The Factory,1.0,,1.0
+19,2,Olivia Ingram,The Roundup: No Way Out,1.0,,1.0
+0,3,Oliver v,The In-Laws,3.0,,3.0
+1,3,Oliver v,Goodbye Herman,9.0,,9.0
+2,3,Oliver v,Ponts de Bordeaux: Technologie de haut vol,3.0,,3.0
+3,3,Oliver v,Love in Harmony Valley,9.0,,9.0
+4,3,Oliver v,Fire Cloud Evil God 2: Eighteen Dragon Palms,1.0,,1.0
+5,3,Oliver v,Cooking with Love,8.0,,8.0
+6,3,Oliver v,Urbanites - You Can't Rewind The Years,1.0,,1.0
+7,3,Oliver v,Anna Bond,3.0,,3.0
+8,3,Oliver v,The Final Say,7.0,,7.0
+9,3,Oliver v,Lenin and the Other Story of the Russian Revolution,3.0,,3.0
+10,3,Oliver v,Women of the Third Reich,3.0,,3.0
+11,3,Oliver v,Survivor,3.0,,3.0
+12,3,Oliver v,Kill Switch,3.0,,3.0
+13,3,Oliver v,"Ma Belle, My Beauty",3.0,,3.0
+14,3,Oliver v,Love on Safari,9.0,,9.0
+15,3,Oliver v,Altitude,3.0,,3.0
+16,3,Oliver v,Iceman,3.0,,3.0
+17,3,Oliver v,Jimi Hendrix: Hear My Train a Comin',3.0,,3.0
+18,3,Oliver v,The Factory,3.0,,3.0
+19,3,Oliver v,The Roundup: No Way Out,3.0,,3.0
+0,0,Emily Peterson,Chris Porter: Screaming from the Cosmos,3.0,,3.0
+1,0,Emily Peterson,Sneakerella,3.0,,3.0
+2,0,Emily Peterson,"Lord, I Believe",3.0,,3.0
+3,0,Emily Peterson,I Know You're Afraid Too,3.0,,3.0
+4,0,Emily Peterson,Beauty Salon: Special Service 3,3.0,,3.0
+5,0,Emily Peterson,The Good Soldier Shweik,3.0,,3.0
+6,0,Emily Peterson,A Real Life Underdog Story,3.0,,3.0
+7,0,Emily Peterson,Anna Bond,3.0,,3.0
+8,0,Emily Peterson,Voyager: To the Final Frontier,3.0,,3.0
+9,0,Emily Peterson,Prologue,3.0,,3.0
+10,0,Emily Peterson,"Ma Belle, My Beauty",3.0,,3.0
+11,0,Emily Peterson,The Motor City Slice,3.0,,3.0
+12,0,Emily Peterson,Agent Toby Barks,3.0,,3.0
+13,0,Emily Peterson,Devil's Fairground,3.0,,3.0
+14,0,Emily Peterson,Love on Safari,3.0,,3.0
+15,0,Emily Peterson,Dream Home,3.0,,3.0
+16,0,Emily Peterson,Crater,5.0,,5.0
+17,0,Emily Peterson,Speechless: The Polar Realm,3.0,,3.0
+18,0,Emily Peterson,The Huntress: Rune of the Dead,7.0,,7.0
+19,0,Emily Peterson,Berliner,3.0,,3.0
+0,1,Ethan Simmons,Chris Porter: Screaming from the Cosmos,3.0,,3.0
+1,1,Ethan Simmons,Sneakerella,3.0,,3.0
+2,1,Ethan Simmons,"Lord, I Believe",3.0,,3.0
+3,1,Ethan Simmons,I Know You're Afraid Too,3.0,,3.0
+4,1,Ethan Simmons,Beauty Salon: Special Service 3,3.0,,3.0
+5,1,Ethan Simmons,The Good Soldier Shweik,3.0,,3.0
+6,1,Ethan Simmons,A Real Life Underdog Story,3.0,,3.0
+7,1,Ethan Simmons,Anna Bond,3.0,,3.0
+8,1,Ethan Simmons,Voyager: To the Final Frontier,3.0,,3.0
+9,1,Ethan Simmons,Prologue,3.0,,3.0
+10,1,Ethan Simmons,"Ma Belle, My Beauty",3.0,,3.0
+11,1,Ethan Simmons,The Motor City Slice,3.0,,3.0
+12,1,Ethan Simmons,Agent Toby Barks,3.0,,3.0
+13,1,Ethan Simmons,Devil's Fairground,3.0,,3.0
+14,1,Ethan Simmons,Love on Safari,3.0,,3.0
+15,1,Ethan Simmons,Dream Home,3.0,,3.0
+16,1,Ethan Simmons,Crater,4.0,,4.0
+17,1,Ethan Simmons,Speechless: The Polar Realm,3.0,,3.0
+18,1,Ethan Simmons,The Huntress: Rune of the Dead,7.0,,7.0
+19,1,Ethan Simmons,Berliner,3.0,,3.0
+0,2,Olivia Nelson,Chris Porter: Screaming from the Cosmos,3.0,,3.0
+1,2,Olivia Nelson,Sneakerella,7.0,,7.0
+2,2,Olivia Nelson,"Lord, I Believe",3.0,,3.0
+3,2,Olivia Nelson,I Know You're Afraid Too,3.0,,3.0
+4,2,Olivia Nelson,Beauty Salon: Special Service 3,1.0,,1.0
+5,2,Olivia Nelson,The Good Soldier Shweik,3.0,,3.0
+6,2,Olivia Nelson,A Real Life Underdog Story,3.0,,3.0
+7,2,Olivia Nelson,Anna Bond,3.0,,3.0
+8,2,Olivia Nelson,Voyager: To the Final Frontier,3.0,,3.0
+9,2,Olivia Nelson,Prologue,1.0,,1.0
+10,2,Olivia Nelson,"Ma Belle, My Beauty",3.0,,3.0
+11,2,Olivia Nelson,The Motor City Slice,4.0,,4.0
+12,2,Olivia Nelson,Agent Toby Barks,3.0,,3.0
+13,2,Olivia Nelson,Devil's Fairground,3.0,,3.0
+14,2,Olivia Nelson,Love on Safari,3.0,,3.0
+15,2,Olivia Nelson,Dream Home,3.0,,3.0
+16,2,Olivia Nelson,Crater,4.0,,4.0
+17,2,Olivia Nelson,Speechless: The Polar Realm,3.0,,3.0
+18,2,Olivia Nelson,The Huntress: Rune of the Dead,4.0,,4.0
+19,2,Olivia Nelson,Berliner,3.0,,3.0
+0,3,Liam Grayson,Chris Porter: Screaming from the Cosmos,3.0,,3.0
+1,3,Liam Grayson,Sneakerella,3.0,,3.0
+2,3,Liam Grayson,"Lord, I Believe",3.0,,3.0
+3,3,Liam Grayson,I Know You're Afraid Too,3.0,,3.0
+4,3,Liam Grayson,Beauty Salon: Special Service 3,3.0,,3.0
+5,3,Liam Grayson,The Good Soldier Shweik,3.0,,3.0
+6,3,Liam Grayson,A Real Life Underdog Story,3.0,,3.0
+7,3,Liam Grayson,Anna Bond,3.0,,3.0
+8,3,Liam Grayson,Voyager: To the Final Frontier,3.0,,3.0
+9,3,Liam Grayson,Prologue,3.0,,3.0
+10,3,Liam Grayson,"Ma Belle, My Beauty",3.0,,3.0
+11,3,Liam Grayson,The Motor City Slice,3.0,,3.0
+12,3,Liam Grayson,Agent Toby Barks,3.0,,3.0
+13,3,Liam Grayson,Devil's Fairground,3.0,,3.0
+14,3,Liam Grayson,Love on Safari,3.0,,3.0
+15,3,Liam Grayson,Dream Home,3.0,,3.0
+16,3,Liam Grayson,Crater,5.0,,5.0
+17,3,Liam Grayson,Speechless: The Polar Realm,3.0,,3.0
+18,3,Liam Grayson,The Huntress: Rune of the Dead,7.0,,7.0
+19,3,Liam Grayson,Berliner,3.0,,3.0
+0,0,Sarah Bailey,Cinta Selamanya,3.0,,3.0
+1,0,Sarah Bailey,A Dogwalker's Christmas Tale,3.0,,3.0
+2,0,Sarah Bailey,SPEC: Heaven,6.0,,6.0
+3,0,Sarah Bailey,Early Bloomer,1.0,,1.0
+4,0,Sarah Bailey,Heaven Under The Sky,3.0,,3.0
+5,0,Sarah Bailey,I Was a Teenage Faust,3.0,,3.0
+6,0,Sarah Bailey,Submarine 707 Revolution,7.0,,7.0
+7,0,Sarah Bailey,Super Monsters Furever Friends,1.0,,1.0
+8,0,Sarah Bailey,The Other Side of the Tracks,3.0,,3.0
+9,0,Sarah Bailey,Duyung,3.0,,3.0
+10,0,Sarah Bailey,Sonic Drone Home,3.0,,3.0
+11,0,Sarah Bailey,Rally Road Racers,3.0,,3.0
+12,0,Sarah Bailey,Exploring New Horizons,3.0,,3.0
+13,0,Sarah Bailey,Poor Rich Family,3.0,,3.0
+14,0,Sarah Bailey,Goodbye Herman,3.0,,3.0
+15,0,Sarah Bailey,Zoo Wars 2,3.0,,3.0
+16,0,Sarah Bailey,Lenin and the Other Story of the Russian Revolution,3.0,,3.0
+17,0,Sarah Bailey,Fire Cloud Evil God 2: Eighteen Dragon Palms,5.0,,5.0
+18,0,Sarah Bailey,"Tom, Dick and Harriet",3.0,,3.0
+19,0,Sarah Bailey,Spider-Man 3,3.0,,3.0
+0,1,James Clarke,Cinta Selamanya,1.0,,1.0
+1,1,James Clarke,A Dogwalker's Christmas Tale,3.0,,3.0
+2,1,James Clarke,SPEC: Heaven,3.0,,3.0
+3,1,James Clarke,Early Bloomer,3.0,,3.0
+4,1,James Clarke,Heaven Under The Sky,3.0,,3.0
+5,1,James Clarke,I Was a Teenage Faust,3.0,,3.0
+6,1,James Clarke,Submarine 707 Revolution,3.0,,3.0
+7,1,James Clarke,Super Monsters Furever Friends,3.0,,3.0
+8,1,James Clarke,The Other Side of the Tracks,7.0,,7.0
+9,1,James Clarke,Duyung,3.0,,3.0
+10,1,James Clarke,Sonic Drone Home,3.0,,3.0
+11,1,James Clarke,Rally Road Racers,3.0,,3.0
+12,1,James Clarke,Exploring New Horizons,3.0,,3.0
+13,1,James Clarke,Poor Rich Family,3.0,,3.0
+14,1,James Clarke,Goodbye Herman,3.0,,3.0
+15,1,James Clarke,Zoo Wars 2,3.0,,3.0
+16,1,James Clarke,Lenin and the Other Story of the Russian Revolution,3.0,,3.0
+17,1,James Clarke,Fire Cloud Evil God 2: Eighteen Dragon Palms,3.0,,3.0
+18,1,James Clarke,"Tom, Dick and Harriet",3.0,,3.0
+19,1,James Clarke,Spider-Man 3,3.0,,3.0
+0,2,Emma Dixon,Cinta Selamanya,3.0,,3.0
+1,2,Emma Dixon,A Dogwalker's Christmas Tale,3.0,,3.0
+2,2,Emma Dixon,SPEC: Heaven,5.0,,5.0
+3,2,Emma Dixon,Early Bloomer,1.0,,1.0
+4,2,Emma Dixon,Heaven Under The Sky,1.0,,1.0
+5,2,Emma Dixon,I Was a Teenage Faust,4.0,,4.0
+6,2,Emma Dixon,Submarine 707 Revolution,7.0,,7.0
+7,2,Emma Dixon,Super Monsters Furever Friends,1.0,,1.0
+8,2,Emma Dixon,The Other Side of the Tracks,7.0,,7.0
+9,2,Emma Dixon,Duyung,3.0,,3.0
+10,2,Emma Dixon,Sonic Drone Home,4.0,,4.0
+11,2,Emma Dixon,Rally Road Racers,3.0,,3.0
+12,2,Emma Dixon,Exploring New Horizons,3.0,,3.0
+13,2,Emma Dixon,Poor Rich Family,3.0,,3.0
+14,2,Emma Dixon,Goodbye Herman,3.0,,3.0
+15,2,Emma Dixon,Zoo Wars 2,3.0,,3.0
+16,2,Emma Dixon,Lenin and the Other Story of the Russian Revolution,3.0,,3.0
+17,2,Emma Dixon,Fire Cloud Evil God 2: Eighteen Dragon Palms,3.0,,3.0
+18,2,Emma Dixon,"Tom, Dick and Harriet",3.0,,3.0
+19,2,Emma Dixon,Spider-Man 3,3.0,,3.0
+0,3,Daniel Freeman,Cinta Selamanya,3.0,,3.0
+1,3,Daniel Freeman,A Dogwalker's Christmas Tale,3.0,,3.0
+2,3,Daniel Freeman,SPEC: Heaven,5.0,,5.0
+3,3,Daniel Freeman,Early Bloomer,1.0,,1.0
+4,3,Daniel Freeman,Heaven Under The Sky,3.0,,3.0
+5,3,Daniel Freeman,I Was a Teenage Faust,3.0,,3.0
+6,3,Daniel Freeman,Submarine 707 Revolution,7.0,,7.0
+7,3,Daniel Freeman,Super Monsters Furever Friends,1.0,,1.0
+8,3,Daniel Freeman,The Other Side of the Tracks,7.0,,7.0
+9,3,Daniel Freeman,Duyung,3.0,,3.0
+10,3,Daniel Freeman,Sonic Drone Home,3.0,,3.0
+11,3,Daniel Freeman,Rally Road Racers,3.0,,3.0
+12,3,Daniel Freeman,Exploring New Horizons,3.0,,3.0
+13,3,Daniel Freeman,Poor Rich Family,3.0,,3.0
+14,3,Daniel Freeman,Goodbye Herman,3.0,,3.0
+15,3,Daniel Freeman,Zoo Wars 2,3.0,,3.0
+16,3,Daniel Freeman,Lenin and the Other Story of the Russian Revolution,3.0,,3.0
+17,3,Daniel Freeman,Fire Cloud Evil God 2: Eighteen Dragon Palms,3.0,,3.0
+18,3,Daniel Freeman,"Tom, Dick and Harriet",3.0,,3.0
+19,3,Daniel Freeman,Spider-Man 3,3.0,,3.0
+0,0,Sophia Collins,The Last Mountain,3.0,,3.0
+1,0,Sophia Collins,Shrek,3.0,,3.0
+2,0,Sophia Collins,Parasyte: Part 2,3.0,,3.0
+3,0,Sophia Collins,Goodbye Herman,3.0,,3.0
+4,0,Sophia Collins,The Other Side of the Tracks,3.0,,3.0
+5,0,Sophia Collins,Lenin and the Other Story of the Russian Revolution,3.0,,3.0
+6,0,Sophia Collins,Parralel,3.0,,3.0
+7,0,Sophia Collins,Tiny Giants 3D,3.0,,3.0
+8,0,Sophia Collins,Swamp Freak,3.0,,3.0
+9,0,Sophia Collins,Sonic Drone Home,3.0,,3.0
+10,0,Sophia Collins,Fire Cloud Evil God 2: Eighteen Dragon Palms,1.0,,1.0
+11,0,Sophia Collins,Remain In Twilight,4.0,,4.0
+12,0,Sophia Collins,Spider-Man: Across the Spider-Verse,3.0,,3.0
+13,0,Sophia Collins,SPEC: Heaven,3.0,,3.0
+14,0,Sophia Collins,Jimi Hendrix: Hear My Train a Comin',3.0,,3.0
+15,0,Sophia Collins,"Lord, I Believe",3.0,,3.0
+16,0,Sophia Collins,Spider-Man 3,3.0,,3.0
+17,0,Sophia Collins,Altitude,3.0,,3.0
+18,0,Sophia Collins,L'estate del mio primo bacio,6.0,,6.0
+19,0,Sophia Collins,The Fate of the Furious,3.0,,3.0
+0,1,Jacob Walker,The Last Mountain,3.0,,3.0
+1,1,Jacob Walker,Shrek,5.0,,5.0
+2,1,Jacob Walker,Parasyte: Part 2,3.0,,3.0
+3,1,Jacob Walker,Goodbye Herman,3.0,,3.0
+4,1,Jacob Walker,The Other Side of the Tracks,3.0,,3.0
+5,1,Jacob Walker,Lenin and the Other Story of the Russian Revolution,3.0,,3.0
+6,1,Jacob Walker,Parralel,3.0,,3.0
+7,1,Jacob Walker,Tiny Giants 3D,3.0,,3.0
+8,1,Jacob Walker,Swamp Freak,3.0,,3.0
+9,1,Jacob Walker,Sonic Drone Home,3.0,,3.0
+10,1,Jacob Walker,Fire Cloud Evil God 2: Eighteen Dragon Palms,3.0,,3.0
+11,1,Jacob Walker,Remain In Twilight,5.0,,5.0
+12,1,Jacob Walker,Spider-Man: Across the Spider-Verse,3.0,,3.0
+13,1,Jacob Walker,SPEC: Heaven,3.0,,3.0
+14,1,Jacob Walker,Jimi Hendrix: Hear My Train a Comin',3.0,,3.0
+15,1,Jacob Walker,"Lord, I Believe",3.0,,3.0
+16,1,Jacob Walker,Spider-Man 3,3.0,,3.0
+17,1,Jacob Walker,Altitude,3.0,,3.0
+18,1,Jacob Walker,L'estate del mio primo bacio,7.0,,7.0
+19,1,Jacob Walker,The Fate of the Furious,3.0,,3.0
+0,2,Ava Edwards,The Last Mountain,3.0,,3.0
+1,2,Ava Edwards,Shrek,3.0,,3.0
+2,2,Ava Edwards,Parasyte: Part 2,3.0,,3.0
+3,2,Ava Edwards,Goodbye Herman,3.0,,3.0
+4,2,Ava Edwards,The Other Side of the Tracks,3.0,,3.0
+5,2,Ava Edwards,Lenin and the Other Story of the Russian Revolution,3.0,,3.0
+6,2,Ava Edwards,Parralel,5.0,,5.0
+7,2,Ava Edwards,Tiny Giants 3D,3.0,,3.0
+8,2,Ava Edwards,Swamp Freak,3.0,,3.0
+9,2,Ava Edwards,Sonic Drone Home,3.0,,3.0
+10,2,Ava Edwards,Fire Cloud Evil God 2: Eighteen Dragon Palms,1.0,,1.0
+11,2,Ava Edwards,Remain In Twilight,6.0,,6.0
+12,2,Ava Edwards,Spider-Man: Across the Spider-Verse,4.0,,4.0
+13,2,Ava Edwards,SPEC: Heaven,4.0,,4.0
+14,2,Ava Edwards,Jimi Hendrix: Hear My Train a Comin',3.0,,3.0
+15,2,Ava Edwards,"Lord, I Believe",1.0,,1.0
+16,2,Ava Edwards,Spider-Man 3,3.0,,3.0
+17,2,Ava Edwards,Altitude,1.0,,1.0
+18,2,Ava Edwards,L'estate del mio primo bacio,9.0,,9.0
+19,2,Ava Edwards,The Fate of the Furious,3.0,,3.0
+0,3,Oliver Ellis,The Last Mountain,3.0,,3.0
+1,3,Oliver Ellis,Shrek,3.0,,3.0
+2,3,Oliver Ellis,Parasyte: Part 2,3.0,,3.0
+3,3,Oliver Ellis,Goodbye Herman,3.0,,3.0
+4,3,Oliver Ellis,The Other Side of the Tracks,3.0,,3.0
+5,3,Oliver Ellis,Lenin and the Other Story of the Russian Revolution,3.0,,3.0
+6,3,Oliver Ellis,Parralel,3.0,,3.0
+7,3,Oliver Ellis,Tiny Giants 3D,3.0,,3.0
+8,3,Oliver Ellis,Swamp Freak,3.0,,3.0
+9,3,Oliver Ellis,Sonic Drone Home,3.0,,3.0
+10,3,Oliver Ellis,Fire Cloud Evil God 2: Eighteen Dragon Palms,3.0,,3.0
+11,3,Oliver Ellis,Remain In Twilight,5.0,,5.0
+12,3,Oliver Ellis,Spider-Man: Across the Spider-Verse,3.0,,3.0
+13,3,Oliver Ellis,SPEC: Heaven,3.0,,3.0
+14,3,Oliver Ellis,Jimi Hendrix: Hear My Train a Comin',3.0,,3.0
+15,3,Oliver Ellis,"Lord, I Believe",3.0,,3.0
+16,3,Oliver Ellis,Spider-Man 3,3.0,,3.0
+17,3,Oliver Ellis,Altitude,3.0,,3.0
+18,3,Oliver Ellis,L'estate del mio primo bacio,5.0,,5.0
+19,3,Oliver Ellis,The Fate of the Furious,3.0,,3.0

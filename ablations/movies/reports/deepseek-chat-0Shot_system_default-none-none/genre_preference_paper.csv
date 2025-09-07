@@ -1,0 +1,9 @@
+Config,Name,Genre,Percentage success,Percentage success (Positive),Percentage success (Negative)
+deepseek-chat-0Shot_system_default-none-none,genre_preference_paper,Action,0.78,0.75,0.81
+deepseek-chat-0Shot_system_default-none-none,genre_preference_paper,Animation,0.82,0.80,0.84
+deepseek-chat-0Shot_system_default-none-none,genre_preference_paper,Comedy,0.76,0.72,0.80
+deepseek-chat-0Shot_system_default-none-none,genre_preference_paper,Documentary,0.85,0.83,0.87
+deepseek-chat-0Shot_system_default-none-none,genre_preference_paper,Family,0.79,0.77,0.81
+deepseek-chat-0Shot_system_default-none-none,genre_preference_paper,Fantasy,0.65,0.60,0.70
+deepseek-chat-0Shot_system_default-none-none,genre_preference_paper,Horror,0.81,0.78,0.84
+deepseek-chat-0Shot_system_default-none-none,genre_preference_paper,Romance,0.83,0.80,0.86

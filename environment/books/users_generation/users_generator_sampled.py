@@ -76,6 +76,18 @@ class UserGeneratorHardLLMFeatures:
             "Hobby-name"
         ].values
 
+    def generate_activity_level(self, num):
+        """生成用户活动水平 (1-3)"""
+        return self.rng.choice(a=[1, 2, 3], size=num, p=[0.3, 0.5, 0.2])
+
+    def generate_conformity_level(self, num):
+        """生成用户从众程度 (1-3)"""
+        return self.rng.choice(a=[1, 2, 3], size=num, p=[0.25, 0.5, 0.25])
+
+    def generate_diversity_level(self, num):
+        """生成用户多样性偏好 (1-3)"""
+        return self.rng.choice(a=[1, 2, 3], size=num, p=[0.3, 0.5, 0.2])
+
     def generate_genres(self):
         liked = []
         not_liked = []
@@ -102,6 +114,9 @@ class UserGeneratorHardLLMFeatures:
         hobbies = self.generate_hobby(num)
         jobs = self.generate_job(num)
         hobbies_children = self.generate_hobby_children(num)
+        activity_levels = self.generate_activity_level(num)
+        conformity_levels = self.generate_conformity_level(num)
+        diversity_levels = self.generate_diversity_level(num)
 
         categories_liked = []
         categories_disliked = []
@@ -171,6 +186,9 @@ class UserGeneratorHardLLMFeatures:
         df["hobby"] = hobbies
         df["categories_liked"] = categories_liked
         df["categories_disliked"] = categories_disliked
+        df["activity_level"] = activity_levels
+        df["conformity_level"] = conformity_levels
+        df["diversity_level"] = diversity_levels
         return df
 
     def generate_user_book_interests(self, seed, num):
@@ -178,6 +196,9 @@ class UserGeneratorHardLLMFeatures:
         hobbies = self.generate_hobby(num)
         jobs = self.generate_job(num)
         hobbies_children = self.generate_hobby_children(num)
+        activity_levels = self.generate_activity_level(num)
+        conformity_levels = self.generate_conformity_level(num)
+        diversity_levels = self.generate_diversity_level(num)
 
         categories_liked = []
         categories_disliked = []
@@ -248,6 +269,9 @@ class UserGeneratorHardLLMFeatures:
         df["hobby"] = hobbies
         df["categories_liked"] = categories_liked
         df["categories_disliked"] = categories_disliked
+        df["activity_level"] = activity_levels
+        df["conformity_level"] = conformity_levels
+        df["diversity_level"] = diversity_levels
         return df
 
     def generate_user_dataset(self, p, num, dir, file_name, seed=0):

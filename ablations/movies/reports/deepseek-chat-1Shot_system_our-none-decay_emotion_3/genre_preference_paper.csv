@@ -1,0 +1,9 @@
+Config,Name,Genre,Percentage success,Percentage success (Positive),Percentage success (Negative)
+deepseek-chat-1Shot_system_our-none-decay_emotion_3,genre_preference_paper,Action,0.93875,0.8575,1.0
+deepseek-chat-1Shot_system_our-none-decay_emotion_3,genre_preference_paper,Animation,1.0,0.995,1.0
+deepseek-chat-1Shot_system_our-none-decay_emotion_3,genre_preference_paper,Comedy,0.845,0.6950000000000001,0.995
+deepseek-chat-1Shot_system_our-none-decay_emotion_3,genre_preference_paper,Documentary,1.0,1.0,1.0
+deepseek-chat-1Shot_system_our-none-decay_emotion_3,genre_preference_paper,Family,0.8825000000000001,0.92,0.845
+deepseek-chat-1Shot_system_our-none-decay_emotion_3,genre_preference_paper,Fantasy,0.745,0.47000000000000003,1.0
+deepseek-chat-1Shot_system_our-none-decay_emotion_3,genre_preference_paper,Horror,0.92,0.8325,1.0
+deepseek-chat-1Shot_system_our-none-decay_emotion_3,genre_preference_paper,Romance,0.9325,0.845,1.0

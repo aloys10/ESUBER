@@ -10,7 +10,7 @@ class MoviesLoader(ItemsLoader):
 
     def __init__(self, json_file):
         self.dataset_file = json_file
-        with open(self.dataset_file) as json_file:
+        with open(self.dataset_file, encoding='utf-8') as json_file:
             self.data = json.load(json_file)
 
     def load_all_ids(self):

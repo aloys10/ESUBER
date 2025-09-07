@@ -41,7 +41,7 @@ class SamplingSubsetInteractionsStudy(AbstractCaseStudy):
         )
         os.makedirs(base_path, exist_ok=True)
 
-        NUM_SAMPLED_INTERATCTIONS = 100 * 20 if self.is_open_ai else 100 * 1000
+        NUM_SAMPLED_INTERATCTIONS = 100 * 20  # 强制使用OpenAI的样本数量
 
         acc = []
         for _ in tqdm.tqdm(range(NUM_SAMPLED_INTERATCTIONS)):

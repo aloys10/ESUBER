@@ -30,18 +30,14 @@ class ThirdPersonDescriptive110_OurSys(LLMRater):
         self.request_scale = "1-10"
 
         self.system_prompt = (
-            "You are a highly sophisticated movie rating assistant, equipped with an"
-            " advanced understanding of human behavior. Your mission is to deliver"
-            " personalized movie recommendations by carefully considering the unique"
-            " characteristics, tastes, and past seen films of each individual. When"
-            " presented with information about a specific movie, you will diligently"
-            " analyze its plot, primary genres, actors, and average rating. Using this"
-            " comprehensive understanding, your role is to provide thoughtful and"
-            " accurate ratings for movies on a scale of 0 to 9, ensuring they resonate"
-            " with the person's preferences and cinematic inclinations. Remain"
-            " impartial and refrain from introducing any biases in your predictions."
-            " You are an impartial and reliable source of movie rating predictions for"
-            " the given individual and film descriptions."
+            "You are a highly sophisticated movie rating assistant with advanced reasoning capabilities. "
+            "Your mission is to deliver personalized movie recommendations through careful analysis. "
+            "When rating a movie, follow this Chain of Thought process:\n"
+            "1. Analyze the user's personality traits and movie preferences\n"
+            "2. Consider the user's viewing history and rating patterns\n"
+            "3. Evaluate the movie's content, genre, and themes\n"
+            "4. Synthesize all information to predict the user's rating\n\n"
+            "Output: Provide only a single integer rating from 1 to 10."
         )
 
     def adjust_rating_in(self, rating):
@@ -103,54 +99,48 @@ class ThirdPersonDescriptive110_OurSys(LLMRater):
         # NOTE: this is a hack to make sure that the name is not the same as the 2 possible names used in the few-shot prompts
         name = self.adjust_text_in(name, do_rename)
 
+        # 添加逻辑链推理指导
+        reasoning_guide = (
+            "Please follow this reasoning process:\n"
+            "1. Consider the user's personality and preferences\n"
+            "2. Analyze their viewing history and rating patterns\n"
+            "3. Evaluate how well the movie matches their interests\n"
+            "4. Provide a reasoned rating prediction\n\n"
+        )
+
         prompt = (
-            f"{name} is a {user.age} years old {gender},"
-            f" {pronoun} is {self.adjust_text_in(user.description, do_rename)}\n"
+            f"User: {user.age}y {gender}. {self.adjust_text_in(user.description, do_rename)}\n"
             + (
-                f"{name} has previously watched the following movies (in"
-                " parentheses are the ratings he gave on a scale of 1 to 10):"
-                f" {item_interaction}.\n"
+                f"Recent history (title, rating 1-10): {item_interaction}.\n"
                 if len(retrieved_items) > 0
                 and len(self.previous_items_features_list) > 0
                 else ""
             )
-            + f'Consider the movie "{movie.title}", released in'
-            f" {movie.release_date[:4]},"
-            f" which is described as follows: {overview}"
+            + f'Movie: "{movie.title}" ({movie.release_date[:4]}).\n'
+            + f"Description: {overview}\n"
             + (
-                f' The movie "{movie.title}" contains the following genres:\n'
-                f"{genres_list}"
+                f"Genres:\n{genres_list}"
                 if "genres" in self.current_items_features_list
                 and len(movie.genres) > 0
                 else ""
             )
             + (
-                "Here are the 2 main actors of the movie, in order of importance:"
-                f" {actors_list}."
+                f"Main actors: {actors_list}.\n"
                 if "actors" in self.current_items_features_list
                 and len(movie.actors) > 0
                 else ""
             )
             + (
-                f' On average, people rate the movie "{movie.title}"'
-                f" {round(self.adjust_rating_in(movie.vote_average), 1)} on a scale of"
-                " 1 to 10."
+                f"Avg rating: {round(self.adjust_rating_in(movie.vote_average), 1)} (1-10).\n"
                 if "vote_average" in self.current_items_features_list
                 and movie.vote_average > 0
                 else ""
             )
-            + f' {name} watches the movie "{movie.title}" for the'
-            f" {self.number_to_rank(num_interacted+1)} time.\n"
-            + f"What can you conclude about {name}'s rating for the movie"
-            f' "{movie.title}" on a scale of 1 to 10, where 1 represents a low rating'
-            " and 10 represents a high rating, based on available information and"
-            " logical reasoning?"
+            + reasoning_guide
+            + "Output: Provide only a single integer rating from 1 to 10."
         )
 
-        initial_assistant = (
-            f"Based on {name}'s preferences and tastes, I conclude that {pronoun} will"
-            " assign a rating of "
-        )
+        initial_assistant = "Reasoning: "
 
         return [
             {"role": "user", "content": prompt},

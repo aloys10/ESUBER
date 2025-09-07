@@ -4,14 +4,24 @@ import typing
 
 class UserMovieInteraction:
     """
-    Object used to store an interaction between an user and a item,
-    it contains the rating, the timestamp and the number of times the user has watched the item until this interaction.
+    Object used to store an interaction between an user and an item.
+    Includes rating, a logical timestamp (interaction order), number of watches,
+    and optional emotional tags (valence, arousal).
     """
 
-    def __init__(self, rating: float, timestamp: int, num_watches: int):
+    def __init__(
+        self,
+        rating: float,
+        timestamp: int,
+        num_watches: int,
+        valence: str = "neutral",
+        arousal: str = "medium",
+    ):
         self.rating: float = rating
         self.timestamp: int = timestamp
         self.num_watches = num_watches
+        self.valence: str = valence  # one of {"positive","neutral","negative"}
+        self.arousal: str = arousal  # one of {"low","medium","high"}
 
 
 class Memory:
@@ -30,6 +40,31 @@ class Memory:
         self.user_to_seen_films = {}
         self.user_num_items_interact = {}
         self.items_loader = items_loader
+        # Emotion thresholds (avoid magic numbers by naming)
+        self.valence_positive_threshold = 7.0
+        self.valence_negative_threshold = 4.0
+        self.arousal_high_threshold = 8.0
+        self.arousal_low_threshold = 3.0
+
+    def _derive_emotion_from_rating(self, rating: float):
+        """
+        Heuristic mapping from numeric rating to (valence, arousal).
+        Adjust thresholds above to tune behaviour per environment scale.
+        """
+        if rating >= self.valence_positive_threshold:
+            valence = "positive"
+        elif rating <= self.valence_negative_threshold:
+            valence = "negative"
+        else:
+            valence = "neutral"
+
+        if rating >= self.arousal_high_threshold:
+            arousal = "high"
+        elif rating <= self.arousal_low_threshold:
+            arousal = "low"
+        else:
+            arousal = "medium"
+        return valence, arousal
 
     def update_memory(
         self, user_id: int, items_ids: typing.List[int], scores: typing.List[float]
@@ -49,18 +84,25 @@ class Memory:
             self._initialize_user(user_id)
         for i, item_id in enumerate(items_ids):
             self.user_num_items_interact[user_id] += 1
+            valence, arousal = self._derive_emotion_from_rating(scores[i])
             if item_id in self.user_to_seen_films[user_id]:
                 self.user_to_seen_films[user_id][item_id].append(
                     UserMovieInteraction(
                         scores[i],
                         self.user_num_items_interact[user_id],
                         len(self.user_to_seen_films[user_id][item_id]) + 1,
+                        valence,
+                        arousal,
                     )
                 )
             else:
                 self.user_to_seen_films[user_id][item_id] = [
                     UserMovieInteraction(
-                        scores[i], self.user_num_items_interact[user_id], 1
+                        scores[i],
+                        self.user_num_items_interact[user_id],
+                        1,
+                        valence,
+                        arousal,
                     )
                 ]
 

@@ -26,6 +26,13 @@ import wandb
 import gymnasium as gym
 
 # Our
+import sys
+import os
+# 添加项目根目录到Python路径
+current_dir = os.path.dirname(os.path.abspath(__file__))
+project_root = os.path.dirname(os.path.dirname(current_dir))
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
 from algorithms.wrappers import StableBaselineWrapperNum
 from environment.movies.configs import (
     get_enviroment_from_args,
@@ -317,7 +324,7 @@ if __name__ == "__main__":
         config=args,
         sync_tensorboard=True,  # auto-upload sb3's tensorboard metrics
         save_code=True,
-        # mode="disabled",
+        mode="disabled",  # 禁用wandb日志记录
         dir="./tmp/wandb",
     )
 
@@ -325,7 +332,7 @@ if __name__ == "__main__":
         DQNPolicy,
         train_env,
         verbose=1,
-        buffer_size=250000,
+        buffer_size=50000,  # 减少buffer_size从250000到50000以节省内存
         policy_kwargs=policy_kwargs,
         device=args.model_device,
         tensorboard_log=f"./tmp/runs/{run.id}",

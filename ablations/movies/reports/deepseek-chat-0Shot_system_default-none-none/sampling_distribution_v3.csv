@@ -1,0 +1,2 @@
+Config,Name,global_total_variation_distance,global_total_variation_distance_corrected,count,mean,std,min,25%,50%,75%,max
+deepseek-chat-0Shot_system_default-none-none,Sampling,0.25602513134067395,0.46,2000.0,5.7955,2.7793060322696572,1.0,3.0,6.0,8.0,10.0

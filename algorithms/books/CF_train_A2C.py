@@ -26,6 +26,10 @@ import wandb
 import gymnasium as gym
 
 # Our
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
+
 from algorithms.wrappers import StableBaselineWrapperNum
 from environment.books.configs import (
     get_enviroment_from_args,
@@ -188,15 +192,27 @@ if __name__ == "__main__":
     check_env(train_env)
     check_env(test_env)
 
-    # Initialize wandb
-    run = wandb.init(
-        project="MPR",
-        config=args,
-        sync_tensorboard=True,  # auto-upload sb3's tensorboard metrics
-        save_code=True,
-        # mode="disabled",
-        dir="./tmp/wandb",
-    )
+    # Initialize wandb with increased timeout and offline mode fallback
+    try:
+        run = wandb.init(
+            project="MPR",
+            config=args,
+            sync_tensorboard=True,  # auto-upload sb3's tensorboard metrics
+            save_code=True,
+            settings=wandb.Settings(init_timeout=180),  # 增加超时时间到3分钟
+            dir="./tmp/wandb",
+        )
+    except Exception as e:
+        print(f"wandb 在线模式初始化失败: {e}")
+        print("切换到离线模式...")
+        run = wandb.init(
+            project="MPR",
+            config=args,
+            sync_tensorboard=True,
+            save_code=True,
+            mode="offline",  # 使用离线模式
+            dir="./tmp/wandb",
+        )
 
     model = A2C(
         CustomActorCriticPolicy,

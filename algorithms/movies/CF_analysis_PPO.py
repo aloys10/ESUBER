@@ -26,6 +26,9 @@ import wandb
 import gymnasium as gym
 
 # Our
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from algorithms.wrappers import StableBaselineWrapperNum
 from environment.movies.configs import (
     get_enviroment_from_args,
