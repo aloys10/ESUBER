@@ -1,41 +1,47 @@
-# SUBER: Simulated User Behavior Environment for Recommender systems
+# EmoSim-RL: Emotionally Enhanced User Simulation for Recommender Systems
 
-![SUBER framework](framework.png)
 
-<p align="left"> 
-
-</p>
-
-This repository accompanies our research paper titled "**An LLM-based Recommender System Environment**".
+This repository presents EmoSim-RL, an enhanced version of the original SUBER framework with improved user simulation capabilities.
 
 #### Our paper:
 
-"**[An LLM-based Recommender System Environment](http://arxiv.org/abs/2406.01631)**" by *Nathan Coreco\*, Giorgio Piatti\*, Luca A. Lanzendörfer, Flint Xiaofeng Fan, Roger Wattenhofer*.
 
-**Citation:**
-```bibTeX
-@misc{corecco2024llmbased,
-      title={An LLM-based Recommender System Environment}, 
-      author={Nathan Corecco and Giorgio Piatti and Luca A. Lanzendörfer and Flint Xiaofeng Fan and Roger Wattenhofer},
-      year={2024},
-      eprint={2406.01631},
-      archivePrefix={arXiv},
-      primaryClass={cs.IR}
-}
-```
 
-We open source `SUBER`, a Reinforcement Learning (RL) environment for recommender systems.
-We adopt the standard of [Farama's Gymnasium](https://gymnasium.farama.org/) and are compatible with  [Stable Baselines3](https://stable-baselines3.readthedocs.io/en/master/). `SUBER` is a framework for simulating user behavior in recommender systems, for which we provide a set of recommendation environments: movies, and books.
+We present `EmoSim-RL`, an enhanced version of the original SUBER framework for recommender systems. Built upon the foundation of [Farama's Gymnasium](https://gymnasium.farama.org/) and compatible with [Stable Baselines3](https://stable-baselines3.readthedocs.io/en/master/), EmoSim-RL introduces significant improvements to user simulation and recommendation training.
 
-Along with `SUBER`, we provide instructions on how to run the code.
+**Key Enhancements:**
+- **LLM-powered User Simulator with Chain-of-Thought**: Enhanced user simulation using Large Language Models with logical reasoning chains to better mimic real user decision-making processes
+- **Emotion-aware User Profiles**: Integrated emotional indicators in user profiles to capture affective states and preferences
+- **Multi-factor Item Retrieval**: Advanced `decay_emotion_3` strategy that considers multiple factors including emotional decay, temporal patterns, and user preferences
+- **Realistic User Behavior Modeling**: More accurate simulation of real user interactions to improve recommendation system training
+
+EmoSim-RL provides recommendation environments for movies and books, enabling more effective training of recommendation algorithms that deliver more satisfying user experiences.
 
 ## Guide
 
 ### Requirements
 
-Python 3.9 and CUDA 11.8 with PyTorch 2. Run [setup.sh](setup.sh) for a quick setup using conda, or see [requirements.txt](requirements.txt) for the full list of Python packages.
+**Environment Requirements:**
+- Python 3.9+
+- CUDA 11.8+ (for GPU acceleration)
+- PyTorch 2.1.2
+- 8GB+ GPU memory (recommended for local model inference)
 
-We only tested the code on Linux. We suggest to use a virtual conda environment to install the required packages.
+**Key Dependencies:**
+- `stable-baselines3==2.0.0` - Reinforcement learning algorithms
+- `gymnasium==0.28.1` - Environment interface
+- `transformers==4.25.1` - Pre-trained models
+- `torch==2.1.2` - Deep learning framework
+- `openai==1.98.0` - OpenAI API support
+- `sentence-transformers==2.2.2` - Text embeddings
+- `pandas==2.0.1` - Data processing
+- `wandb==0.21.0` - Experiment tracking
+
+**API Key Setup:**
+- DeepSeek API: Set environment variable `DEEPSEEK_API_KEY`
+
+Install all dependencies: `pip install -r requirements.txt`
+
 
 
 
@@ -44,7 +50,7 @@ We only tested the code on Linux. We suggest to use a virtual conda environment 
 The following arguments are available for all environments, and can be passed to ablations and RL training:
 
 ```
---llm-model: LLM model to use for the environment. We support Llama based models via exllama GPTQ and OpenAI GPT-3.5 and GPT-4.
+--llm-model: LLM model to use for the environment. We support DeepSeek models.
 --llm-rater: Prompting strategy to query the LLM
 --items-retrieval: Items retrieval strategy
 --perturbator: Reward perturbator strategy 
@@ -56,18 +62,18 @@ The following arguments are available for all environments, and can be passed to
 ### Run ablations
 Run the following command to run a config of ablations for the movie environment:
 ``` 
-python3 -m ablations.movies.run <args>
+python3 -m ablations.movies.run_deepseek_experiment
 ```
 
 Run the following command to run a config of ablations for the book environment:
 ```
-python3 -m ablations.books.run  <args>
+python3 -m ablations.books.run_deepseek_experiment
 ```
 
 ### Run RL training
 Run the following command to run the RL training for the movie environment:
 ```
-python3 -m algorithms.movies.CF_train_A2C
+python3 -m algorithms.movies.CF_train_A2C --llm-model deepseek-chat --llm-rater 0Shot_cotlite_our --items-retrieval decay_emotion_3
 ```
 Additional arguments are available, see `algorithms/movies/CF_train_A2C.py` file for more details.
 
@@ -91,59 +97,71 @@ We refer to the `movies` and `books` environments for examples.
 
 ```
 ablations/
-    movies/
-        datasets/                   -- Ablation datasets
+    books/                          -- Book ablation studies
+        datasets/                   -- Ablation datasets for books
         reports/                    -- Results folder (output)
-        src/                        -- Source files for the ablatiosn test cases
+        src/                        -- Source files for the ablation test cases
         run.py                      -- Run Book ablations (*)
         run_gpt.py                  -- Run Book ablations - less sampling (*)
         run_sampling_analysis.sh    -- Run sampling analysis for all reports folders
-    movies/
-        datasets/                   -- Ablation datasets
-        reports/                    -- Results folder  (output)
-        src/                        -- Source files for the ablatiosn test cases
+    movies/                         -- Movie ablation studies
+        datasets/                   -- Ablation datasets for movies
+        reports/                    -- Results folder (output)
+        src/                        -- Source files for the ablation test cases
         run.py                      -- Run Movie ablations (*)
         run_gpt.py                  -- Run Movie ablations - less sampling (*)
         run_sampling_analysis.sh    -- Run sampling analysis for all reports folders
+    utils/                          -- Shared utilities for ablation studies
+        abstract_study.py           -- Abstract study class
+        helper_functions.py         -- Helper functions
 
-algorithms/                         -- RL train code
-    movies/                         -- RL trainining and analysis code
+algorithms/                         -- RL training code
+    books/                          -- RL training and analysis code for books
+        CF_train_A2C.py            -- A2C training for book recommendations
+    movies/                         -- RL training and analysis code for movies
+        CF_train_A2C.py            -- A2C training for movie recommendations
+        CF_train_DQN.py            -- DQN training for movie recommendations
+        CF_train_PPO.py            -- PPO training for movie recommendations
+        CF_train_TRPO.py           -- TRPO training for movie recommendations
+        CF_analysis_*.py           -- Analysis scripts for different RL algorithms
+        classical_recsys/          -- Classical recommendation system baselines
     wrappers.py                     -- Gymnasium wrappers to use Stable Baselines-3
+
 environment/
-    LLM/                            -- LLM model specific subfolders
-        guidance/                   -- Guidance model class, used for user generator
+    LLM/                            -- LLM model specific components
+        guidance/                   -- Guidance model classes, used for user generation
         exllama.py                  -- ExLLAMA model class (for GPTQ inference)
         llm.py                      -- Abstract LLM model class, used by the rater
-        rater.py                    -- Rater class (base class), used to rate items based on user characteristics and items features, 
-                                       all prompting strategy need to extend this class
+        rater.py                    -- Rater class (base class), used to rate items based on user characteristics and items features
+        openai_api.py              -- OpenAI API integration
+        deepseek_api.py            -- DeepSeek API integration
+        std_transformers.py        -- Standard transformers integration
     books/                          -- Book specific environment components
-        datasets/                   -- TMDB data saved in JSON format
-        rater_prompts/              -- Rater prompts for movies environment
-        users_generator/            -- Users generator for movies environment
+        datasets/                   -- Book datasets (Amazon, Goodreads)
+        rater_prompts/              -- Rater prompts for book environment
+        users_generation/           -- Users generator for book environment
         book.py                     -- Book class for features
-        book_loader.py              -- Load movies from CSV dataset to Book class
-        configs.py                  -- Default configuration and arguments for the movie environment
-    
+        books_loader.py             -- Load books from dataset to Book class
+        books_retrieval.py          -- Book retrieval components
+        configs.py                  -- Default configuration and arguments for the book environment
     movies/                         -- Movie specific environment components
-        datasets/                   -- TMDB data saved in JSON format
-        rater_prompts/              -- Rater prompts for movies environment
-        users_generator/            -- Users generator for movies environment
+        datasets/                   -- Movie datasets (TMDB data saved in JSON format)
+        rater_prompts/              -- Rater prompts for movie environment
+        users_generation/           -- Users generator for movie environment
         movie.py                    -- Movie class for features
         movies_loader.py            -- Load movies from JSON dataset to Movie class
         configs.py                  -- Default configuration and arguments for the movie environment
-    users/                          -- 
+    users/                          -- User management components
         datasets/                   -- Dataset sampling during users generation
         user.py                     -- User class
-        user_loader.py              -- UserLoaders support CSV and list of User objects
-    env.py                          -- Gymnasium environment
-    items.py                        -- Abstract class for item, all environment need to extend this class
-    memory.py                       -- Memory for each user containing item_id and rating for past interacions
-    items_perturbation.py           -- Perturbation components
-    items_retrival.py               -- Retrieval components
+        users_loader.py             -- UserLoaders support CSV and list of User objects
+        emotion_criteria.py         -- Emotion-based criteria for user modeling
+    env.py                          -- Main Gymnasium environment
+    item.py                         -- Abstract class for item, all environments need to extend this class
+    items_retrieval.py              -- Items retrieval components
+    items_selection.py              -- Items selection components
+    memory.py                       -- Memory for each user containing item_id and rating for past interactions
     reward_perturbator.py           -- Reward perturbation components
-    reward_shaping.py               -- Reward shaping components   
+    reward_shaping.py               -- Reward shaping components
 ```
 
-## License
-
-The `SUBER` code is released under the CC BY 4.0 license. For more information, see [LICENSE](LICENSE).
